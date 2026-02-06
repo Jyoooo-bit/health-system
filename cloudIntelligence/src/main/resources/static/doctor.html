@@ -1,0 +1,49 @@
+
+<ul id="list"></ul>
+
+<h2>Doctor Dashboard</h2>
+
+<input type="text" id="docName" placeholder="Doctor Name">
+<button onclick="loadPatients()">Load Patients</button>
+
+<h3>Patients List</h3>
+<ul id="patientList"></ul>
+
+<hr>
+
+<input type="text" id="patientId" placeholder="Enter Patient ID">
+<button onclick="loadHistory()">View Full History</button>
+
+<h3>Patient History</h3>
+<ul id="historyList"></ul>
+
+
+<script>
+function loadPatients(){
+    const doctorName = document.getElementById("docName").value;
+
+    fetch(`/doctor/patients?doctorName=${doctorName}`)
+    .then(res=>res.json())
+    .then(data=>{
+        document.getElementById("patientList").innerHTML="";
+        data.forEach(p=>{
+            document.getElementById("patientList").innerHTML += 
+            `<li>ID: ${p.id} | ${p.name} | ${p.disease}</li>`;
+        })
+    })
+}
+
+function loadHistory(){
+    const id = document.getElementById("patientId").value;
+
+    fetch(`/doctor/patient/${id}`)
+    .then(res=>res.json())
+    .then(data=>{
+        document.getElementById("historyList").innerHTML="";
+        data.forEach(r=>{
+            document.getElementById("historyList").innerHTML += 
+            `<li>${r.visitDate} | ${r.diagnosis} | ${r.prescription} | ${r.treatment}</li>`;
+        })
+    })
+}
+</script>

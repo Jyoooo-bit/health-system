@@ -1,0 +1,1769 @@
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
+
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
+
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
+
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
+
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
+
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
+
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
+
+   END OF TERMS AND CONDITIONS
+
+   APPENDIX: How to apply the Apache License to your work.
+
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
+
+   Copyright [yyyy] [name of copyright owner]
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+
+
+APACHE TOMCAT SUBCOMPONENTS:
+
+Apache Tomcat includes a number of subcomponents with separate copyright notices
+and license terms. Your use of these subcomponents is subject to the terms and
+conditions of the following licenses.
+
+
+For the Eclipse JDT Core Batch Compiler (ecj-x.x.x.jar) component and the
+following Jakarta EE Schemas:
+- jakartaee_9.xsd
+- jakartaee_10.xsd
+- jakartaee_11.xsd
+- jakarta_web-services_2_0.xsd
+- jakarta_web-services_client_2_0.xsd
+- jsp_3_0.xsd
+- jsp_3_1.xsd
+- jsp_4_0.xsd
+- web-app_5_0.xsd
+- web-app_6_0.xsd
+- web-app_6_1.xsd
+- web-commonn_5_0.xsd
+- web-commonn_6_0.xsd
+- web-commonn_6_1.xsd
+- web-fragment_5_0.xsd
+- web-fragment_6_0.xsd
+- web-fragment_6_1.xsd
+- web-jsptaglibrary_3_0.xsd
+- web-jsptaglibrary_3_1.xsd
+- web-jsptaglibrary_4_0.xsd
+
+Eclipse Public License - v 2.0
+
+    THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS ECLIPSE
+    PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
+    OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Contribution" means:
+
+  a) in the case of the initial Contributor, the initial content
+     Distributed under this Agreement, and
+
+  b) in the case of each subsequent Contributor:
+     i) changes to the Program, and
+     ii) additions to the Program;
+  where such changes and/or additions to the Program originate from
+  and are Distributed by that particular Contributor. A Contribution
+  "originates" from a Contributor if it was added to the Program by
+  such Contributor itself or anyone acting on such Contributor's behalf.
+  Contributions do not include changes or additions to the Program that
+  are not Modified Works.
+
+"Contributor" means any person or entity that Distributes the Program.
+
+"Licensed Patents" mean patent claims licensable by a Contributor which
+are necessarily infringed by the use or sale of its Contribution alone
+or when combined with the Program.
+
+"Program" means the Contributions Distributed in accordance with this
+Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement
+or any Secondary License (as applicable), including Contributors.
+
+"Derivative Works" shall mean any work, whether in Source Code or other
+form, that is based on (or derived from) the Program and for which the
+editorial revisions, annotations, elaborations, or other modifications
+represent, as a whole, an original work of authorship.
+
+"Modified Works" shall mean any work in Source Code or other form that
+results from an addition to, deletion from, or modification of the
+contents of the Program, including, for purposes of clarity any new file
+in Source Code form that contains any contents of the Program. Modified
+Works shall not include works that contain only declarations,
+interfaces, types, classes, structures, or files of the Program solely
+in each case in order to link to, bind by name, or subclass the Program
+or Modified Works thereof.
+
+"Distribute" means the acts of a) distributing or b) making available
+in any manner that enables the transfer of a copy.
+
+"Source Code" means the form of a Program preferred for making
+modifications, including but not limited to software source code,
+documentation source, and configuration files.
+
+"Secondary License" means either the GNU General Public License,
+Version 2.0, or any later versions of that license, including any
+exceptions or additional permissions as identified by the initial
+Contributor.
+
+2. GRANT OF RIGHTS
+
+  a) Subject to the terms of this Agreement, each Contributor hereby
+  grants Recipient a non-exclusive, worldwide, royalty-free copyright
+  license to reproduce, prepare Derivative Works of, publicly display,
+  publicly perform, Distribute and sublicense the Contribution of such
+  Contributor, if any, and such Derivative Works.
+
+  b) Subject to the terms of this Agreement, each Contributor hereby
+  grants Recipient a non-exclusive, worldwide, royalty-free patent
+  license under Licensed Patents to make, use, sell, offer to sell,
+  import and otherwise transfer the Contribution of such Contributor,
+  if any, in Source Code or other form. This patent license shall
+  apply to the combination of the Contribution and the Program if, at
+  the time the Contribution is added by the Contributor, such addition
+  of the Contribution causes such combination to be covered by the
+  Licensed Patents. The patent license shall not apply to any other
+  combinations which include the Contribution. No hardware per se is
+  licensed hereunder.
+
+  c) Recipient understands that although each Contributor grants the
+  licenses to its Contributions set forth herein, no assurances are
+  provided by any Contributor that the Program does not infringe the
+  patent or other intellectual property rights of any other entity.
+  Each Contributor disclaims any liability to Recipient for claims
+  brought by any other entity based on infringement of intellectual
+  property rights or otherwise. As a condition to exercising the
+  rights and licenses granted hereunder, each Recipient hereby
+  assumes sole responsibility to secure any other intellectual
+  property rights needed, if any. For example, if a third party
+  patent license is required to allow Recipient to Distribute the
+  Program, it is Recipient's responsibility to acquire that license
+  before distributing the Program.
+
+  d) Each Contributor represents that to its knowledge it has
+  sufficient copyright rights in its Contribution, if any, to grant
+  the copyright license set forth in this Agreement.
+
+  e) Notwithstanding the terms of any Secondary License, no
+  Contributor makes additional grants to any Recipient (other than
+  those set forth in this Agreement) as a result of such Recipient's
+  receipt of the Program under the terms of a Secondary License
+  (if permitted under the terms of Section 3).
+
+3. REQUIREMENTS
+
+3.1 If a Contributor Distributes the Program in any form, then:
+
+  a) the Program must also be made available as Source Code, in
+  accordance with section 3.2, and the Contributor must accompany
+  the Program with a statement that the Source Code for the Program
+  is available under this Agreement, and informs Recipients how to
+  obtain it in a reasonable manner on or through a medium customarily
+  used for software exchange; and
+
+  b) the Contributor may Distribute the Program under a license
+  different than this Agreement, provided that such license:
+     i) effectively disclaims on behalf of all other Contributors all
+     warranties and conditions, express and implied, including
+     warranties or conditions of title and non-infringement, and
+     implied warranties or conditions of merchantability and fitness
+     for a particular purpose;
+
+     ii) effectively excludes on behalf of all other Contributors all
+     liability for damages, including direct, indirect, special,
+     incidental and consequential damages, such as lost profits;
+
+     iii) does not attempt to limit or alter the recipients' rights
+     in the Source Code under section 3.2; and
+
+     iv) requires any subsequent distribution of the Program by any
+     party to be under a license that satisfies the requirements
+     of this section 3.
+
+3.2 When the Program is Distributed as Source Code:
+
+  a) it must be made available under this Agreement, or if the
+  Program (i) is combined with other material in a separate file or
+  files made available under a Secondary License, and (ii) the initial
+  Contributor attached to the Source Code the notice described in
+  Exhibit A of this Agreement, then the Program may be made available
+  under the terms of such Secondary Licenses, and
+
+  b) a copy of this Agreement must be included with each copy of
+  the Program.
+
+3.3 Contributors may not remove or alter any copyright, patent,
+trademark, attribution notices, disclaimers of warranty, or limitations
+of liability ("notices") contained within the Program from any copy of
+the Program which they Distribute, provided that Contributors may add
+their own appropriate notices.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities
+with respect to end users, business partners and the like. While this
+license is intended to facilitate the commercial use of the Program,
+the Contributor who includes the Program in a commercial product
+offering should do so in a manner which does not create potential
+liability for other Contributors. Therefore, if a Contributor includes
+the Program in a commercial product offering, such Contributor
+("Commercial Contributor") hereby agrees to defend and indemnify every
+other Contributor ("Indemnified Contributor") against any losses,
+damages and costs (collectively "Losses") arising from claims, lawsuits
+and other legal actions brought by a third party against the Indemnified
+Contributor to the extent caused by the acts or omissions of such
+Commercial Contributor in connection with its distribution of the Program
+in a commercial product offering. The obligations in this section do not
+apply to any claims or Losses relating to any actual or alleged
+intellectual property infringement. In order to qualify, an Indemnified
+Contributor must: a) promptly notify the Commercial Contributor in
+writing of such claim, and b) allow the Commercial Contributor to control,
+and cooperate with the Commercial Contributor in, the defense and any
+related settlement negotiations. The Indemnified Contributor may
+participate in any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial
+product offering, Product X. That Contributor is then a Commercial
+Contributor. If that Commercial Contributor then makes performance
+claims, or offers warranties related to Product X, those performance
+claims and warranties are such Commercial Contributor's responsibility
+alone. Under this section, the Commercial Contributor would have to
+defend claims against the other Contributors related to those performance
+claims and warranties, and if a court requires any other Contributor to
+pay any damages as a result, the Commercial Contributor must pay
+those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, THE PROGRAM IS PROVIDED ON AN "AS IS"
+BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF
+TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE. Each Recipient is solely responsible for determining the
+appropriateness of using and distributing the Program and assumes all
+risks associated with its exercise of rights under this Agreement,
+including but not limited to the risks and costs of program errors,
+compliance with applicable laws, damage to or loss of data, programs
+or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, AND TO THE EXTENT
+PERMITTED BY APPLICABLE LAW, NEITHER RECIPIENT NOR ANY CONTRIBUTORS
+SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
+PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE
+EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this Agreement, and without further
+action by the parties hereto, such provision shall be reformed to the
+minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that the
+Program itself (excluding combinations of the Program with other software
+or hardware) infringes such Recipient's patent(s), then such Recipient's
+rights granted under Section 2(b) shall terminate as of the date such
+litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it
+fails to comply with any of the material terms or conditions of this
+Agreement and does not cure such failure in a reasonable period of
+time after becoming aware of such noncompliance. If all Recipient's
+rights under this Agreement terminate, Recipient agrees to cease use
+and distribution of the Program as soon as reasonably practicable.
+However, Recipient's obligations under this Agreement and any licenses
+granted by Recipient relating to the Program shall continue and survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement,
+but in order to avoid inconsistency the Agreement is copyrighted and
+may only be modified in the following manner. The Agreement Steward
+reserves the right to publish new versions (including revisions) of
+this Agreement from time to time. No one other than the Agreement
+Steward has the right to modify this Agreement. The Eclipse Foundation
+is the initial Agreement Steward. The Eclipse Foundation may assign the
+responsibility to serve as the Agreement Steward to a suitable separate
+entity. Each new version of the Agreement will be given a distinguishing
+version number. The Program (including Contributions) may always be
+Distributed subject to the version of the Agreement under which it was
+received. In addition, after a new version of the Agreement is published,
+Contributor may elect to Distribute the Program (including its
+Contributions) under the new version.
+
+Except as expressly stated in Sections 2(a) and 2(b) above, Recipient
+receives no rights or licenses to the intellectual property of any
+Contributor under this Agreement, whether expressly, by implication,
+estoppel or otherwise. All rights in the Program not expressly granted
+under this Agreement are reserved. Nothing in this Agreement is intended
+to be enforceable by any entity that is not a Contributor or Recipient.
+No third-party beneficiary rights are created under this Agreement.
+
+Exhibit A - Form of Secondary Licenses Notice
+
+"This Source Code may also be made available under the following
+Secondary Licenses when the conditions for such availability set forth
+in the Eclipse Public License, v. 2.0 are satisfied: {name license(s),
+version(s), and exceptions or additional permissions here}."
+
+  Simply including a copy of this Agreement, including this Exhibit A
+  is not sufficient to license the Source Code under Secondary Licenses.
+
+  If it is not possible or desirable to put the notice in a particular
+  file, then You may include the notice in a location (such as a LICENSE
+  file in a relevant directory) where a recipient would be likely to
+  look for such a notice.
+
+  You may add additional accurate notices of copyright ownership.
+
+
+For the Windows Installer component:
+
+    * All NSIS source code, plug-ins, documentation, examples, header files and
+       graphics, with the exception of the compression modules and where
+       otherwise noted, are licensed under the zlib/libpng license.
+    * The zlib compression module for NSIS is licensed under the zlib/libpng
+       license.
+    * The bzip2 compression module for NSIS is licensed under the bzip2 license.
+    * The lzma compression module for NSIS is licensed under the Common Public
+       License version 1.0.
+
+zlib/libpng license
+
+This software is provided 'as-is', without any express or implied warranty. In
+no event will the authors be held liable for any damages arising from the use of
+this software.
+
+Permission is granted to anyone to use this software for any purpose, including
+commercial applications, and to alter it and redistribute it freely, subject to
+the following restrictions:
+
+   1. The origin of this software must not be misrepresented; you must not claim
+       that you wrote the original software. If you use this software in a
+       product, an acknowledgment in the product documentation would be
+       appreciated but is not required.
+   2. Altered source versions must be plainly marked as such, and must not be
+       misrepresented as being the original software.
+   3. This notice may not be removed or altered from any source distribution.
+
+bzip2 license
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice,
+       this list of conditions and the following disclaimer.
+   2. The origin of this software must not be misrepresented; you must not claim
+       that you wrote the original software. If you use this software in a
+       product, an acknowledgment in the product documentation would be
+       appreciated but is not required.
+   3. Altered source versions must be plainly marked as such, and must not be
+       misrepresented as being the original software.
+   4. The name of the author may not be used to endorse or promote products
+       derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS AND ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT
+OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+Julian Seward, Cambridge, UK.
+
+jseward@acm.org
+Common Public License version 1.0
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS COMMON PUBLIC
+LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION OF THE PROGRAM
+CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+
+"Contribution" means:
+
+a) in the case of the initial Contributor, the initial code and documentation
+distributed under this Agreement, and b) in the case of each subsequent
+Contributor:
+
+i) changes to the Program, and
+
+ii) additions to the Program;
+
+where such changes and/or additions to the Program originate from and are
+distributed by that particular Contributor. A Contribution 'originates' from a
+Contributor if it was added to the Program by such Contributor itself or anyone
+acting on such Contributor's behalf. Contributions do not include additions to
+the Program which: (i) are separate modules of software distributed in
+conjunction with the Program under their own license agreement, and (ii) are not
+derivative works of the Program.
+
+"Contributor" means any person or entity that distributes the Program.
+
+"Licensed Patents " mean patent claims licensable by a Contributor which are
+necessarily infringed by the use or sale of its Contribution alone or when
+combined with the Program.
+
+"Program" means the Contributions distributed in accordance with this Agreement.
+
+"Recipient" means anyone who receives the Program under this Agreement,
+including all Contributors.
+
+2. GRANT OF RIGHTS
+
+a) Subject to the terms of this Agreement, each Contributor hereby grants
+Recipient a non-exclusive, worldwide, royalty-free copyright license to
+reproduce, prepare derivative works of, publicly display, publicly perform,
+distribute and sublicense the Contribution of such Contributor, if any, and such
+derivative works, in source code and object code form.
+
+b) Subject to the terms of this Agreement, each Contributor hereby grants
+Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed
+Patents to make, use, sell, offer to sell, import and otherwise transfer the
+Contribution of such Contributor, if any, in source code and object code form.
+This patent license shall apply to the combination of the Contribution and the
+Program if, at the time the Contribution is added by the Contributor, such
+addition of the Contribution causes such combination to be covered by the
+Licensed Patents. The patent license shall not apply to any other combinations
+which include the Contribution. No hardware per se is licensed hereunder.
+
+c) Recipient understands that although each Contributor grants the licenses to
+its Contributions set forth herein, no assurances are provided by any
+Contributor that the Program does not infringe the patent or other intellectual
+property rights of any other entity. Each Contributor disclaims any liability to
+Recipient for claims brought by any other entity based on infringement of
+intellectual property rights or otherwise. As a condition to exercising the
+rights and licenses granted hereunder, each Recipient hereby assumes sole
+responsibility to secure any other intellectual property rights needed, if any.
+For example, if a third party patent license is required to allow Recipient to
+distribute the Program, it is Recipient's responsibility to acquire that license
+before distributing the Program.
+
+d) Each Contributor represents that to its knowledge it has sufficient copyright
+rights in its Contribution, if any, to grant the copyright license set forth in
+this Agreement.
+
+3. REQUIREMENTS
+
+A Contributor may choose to distribute the Program in object code form under its
+own license agreement, provided that:
+
+a) it complies with the terms and conditions of this Agreement; and
+
+b) its license agreement:
+
+i) effectively disclaims on behalf of all Contributors all warranties and
+conditions, express and implied, including warranties or conditions of title and
+non-infringement, and implied warranties or conditions of merchantability and
+fitness for a particular purpose;
+
+ii) effectively excludes on behalf of all Contributors all liability for
+damages, including direct, indirect, special, incidental and consequential
+damages, such as lost profits;
+
+iii) states that any provisions which differ from this Agreement are offered by
+that Contributor alone and not by any other party; and
+
+iv) states that source code for the Program is available from such Contributor,
+and informs licensees how to obtain it in a reasonable manner on or through a
+medium customarily used for software exchange.
+
+When the Program is made available in source code form:
+
+a) it must be made available under this Agreement; and
+
+b) a copy of this Agreement must be included with each copy of the Program.
+
+Contributors may not remove or alter any copyright notices contained within the
+Program.
+
+Each Contributor must identify itself as the originator of its Contribution, if
+any, in a manner that reasonably allows subsequent Recipients to identify the
+originator of the Contribution.
+
+4. COMMERCIAL DISTRIBUTION
+
+Commercial distributors of software may accept certain responsibilities with
+respect to end users, business partners and the like. While this license is
+intended to facilitate the commercial use of the Program, the Contributor who
+includes the Program in a commercial product offering should do so in a manner
+which does not create potential liability for other Contributors. Therefore, if
+a Contributor includes the Program in a commercial product offering, such
+Contributor ("Commercial Contributor") hereby agrees to defend and indemnify
+every other Contributor ("Indemnified Contributor") against any losses, damages
+and costs (collectively "Losses") arising from claims, lawsuits and other legal
+actions brought by a third party against the Indemnified Contributor to the
+extent caused by the acts or omissions of such Commercial Contributor in
+connection with its distribution of the Program in a commercial product
+offering. The obligations in this section do not apply to any claims or Losses
+relating to any actual or alleged intellectual property infringement. In order
+to qualify, an Indemnified Contributor must: a) promptly notify the Commercial
+Contributor in writing of such claim, and b) allow the Commercial Contributor to
+control, and cooperate with the Commercial Contributor in, the defense and any
+related settlement negotiations. The Indemnified Contributor may participate in
+any such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial product
+offering, Product X. That Contributor is then a Commercial Contributor. If that
+Commercial Contributor then makes performance claims, or offers warranties
+related to Product X, those performance claims and warranties are such
+Commercial Contributor's responsibility alone. Under this section, the
+Commercial Contributor would have to defend claims against the other
+Contributors related to those performance claims and warranties, and if a court
+requires any other Contributor to pay any damages as a result, the Commercial
+Contributor must pay those damages.
+
+5. NO WARRANTY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR
+IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE,
+NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each
+Recipient is solely responsible for determining the appropriateness of using and
+distributing the Program and assumes all risks associated with its exercise of
+rights under this Agreement, including but not limited to the risks and costs of
+program errors, compliance with applicable laws, damage to or loss of data,
+programs or equipment, and unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY
+CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
+PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
+GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+
+If any provision of this Agreement is invalid or unenforceable under applicable
+law, it shall not affect the validity or enforceability of the remainder of the
+terms of this Agreement, and without further action by the parties hereto, such
+provision shall be reformed to the minimum extent necessary to make such
+provision valid and enforceable.
+
+If Recipient institutes patent litigation against a Contributor with respect to
+a patent applicable to software (including a cross-claim or counterclaim in a
+lawsuit), then any patent licenses granted by that Contributor to such Recipient
+under this Agreement shall terminate as of the date such litigation is filed. In
+addition, if Recipient institutes patent litigation against any entity
+(including a cross-claim or counterclaim in a lawsuit) alleging that the Program
+itself (excluding combinations of the Program with other software or hardware)
+infringes such Recipient's patent(s), then such Recipient's rights granted under
+Section 2(b) shall terminate as of the date such litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it fails to
+comply with any of the material terms or conditions of this Agreement and does
+not cure such failure in a reasonable period of time after becoming aware of
+such noncompliance. If all Recipient's rights under this Agreement terminate,
+Recipient agrees to cease use and distribution of the Program as soon as
+reasonably practicable. However, Recipient's obligations under this Agreement
+and any licenses granted by Recipient relating to the Program shall continue and
+survive.
+
+Everyone is permitted to copy and distribute copies of this Agreement, but in
+order to avoid inconsistency the Agreement is copyrighted and may only be
+modified in the following manner. The Agreement Steward reserves the right to
+publish new versions (including revisions) of this Agreement from time to time.
+No one other than the Agreement Steward has the right to modify this Agreement.
+IBM is the initial Agreement Steward. IBM may assign the responsibility to serve
+as the Agreement Steward to a suitable separate entity. Each new version of the
+Agreement will be given a distinguishing version number. The Program (including
+Contributions) may always be distributed subject to the version of the Agreement
+under which it was received. In addition, after a new version of the Agreement
+is published, Contributor may elect to distribute the Program (including its
+Contributions) under the new version. Except as expressly stated in Sections
+2(a) and 2(b) above, Recipient receives no rights or licenses to the
+intellectual property of any Contributor under this Agreement, whether
+expressly, by implication, estoppel or otherwise. All rights in the Program not
+expressly granted under this Agreement are reserved.
+
+This Agreement is governed by the laws of the State of New York and the
+intellectual property laws of the United States of America. No party to this
+Agreement will bring a legal action under this Agreement more than one year
+after the cause of action arose. Each party waives its rights to a jury trial in
+any resulting litigation.
+
+Special exception for LZMA compression module
+
+Igor Pavlov and Amir Szekely, the authors of the LZMA compression module for
+NSIS, expressly permit you to statically or dynamically link your code (or bind
+by name) to the files from the LZMA compression module for NSIS without
+subjecting your linked code to the terms of the Common Public license version
+1.0. Any modifications or additions to files from the LZMA compression module
+for NSIS, however, are subject to the terms of the Common Public License version
+1.0.
+
+
+For the following XML Schemas for Java EE Deployment Descriptors:
+ - javaee_5.xsd
+ - javaee_web_services_1_2.xsd
+ - javaee_web_services_client_1_2.xsd
+ - javaee_6.xsd
+ - javaee_web_services_1_3.xsd
+ - javaee_web_services_client_1_3.xsd
+ - jsp_2_2.xsd
+ - web-app_3_0.xsd
+ - web-common_3_0.xsd
+ - web-fragment_3_0.xsd
+ - javaee_7.xsd
+ - javaee_web_services_1_4.xsd
+ - javaee_web_services_client_1_4.xsd
+ - jsp_2_3.xsd
+ - web-app_3_1.xsd
+ - web-common_3_1.xsd
+ - web-fragment_3_1.xsd
+ - javaee_8.xsd
+ - web-app_4_0.xsd
+ - web-common_4_0.xsd
+ - web-fragment_4_0.xsd
+
+COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.0
+
+1. Definitions.
+
+   1.1. Contributor. means each individual or entity that creates or contributes
+        to the creation of Modifications.
+
+   1.2. Contributor Version. means the combination of the Original Software,
+        prior Modifications used by a Contributor (if any), and the
+        Modifications made by that particular Contributor.
+
+   1.3. Covered Software. means (a) the Original Software, or (b) Modifications,
+        or (c) the combination of files containing Original Software with files
+        containing Modifications, in each case including portions thereof.
+
+   1.4. Executable. means the Covered Software in any form other than Source
+        Code.
+
+   1.5. Initial Developer. means the individual or entity that first makes
+        Original Software available under this License.
+
+   1.6. Larger Work. means a work which combines Covered Software or portions
+        thereof with code not governed by the terms of this License.
+
+   1.7. License. means this document.
+
+   1.8. Licensable. means having the right to grant, to the maximum extent
+        possible, whether at the time of the initial grant or subsequently
+        acquired, any and all of the rights conveyed herein.
+
+   1.9. Modifications. means the Source Code and Executable form of any of the
+        following:
+
+        A. Any file that results from an addition to, deletion from or
+           modification of the contents of a file containing Original Software
+           or previous Modifications;
+
+        B. Any new file that contains any part of the Original Software or
+           previous Modification; or
+
+        C. Any new file that is contributed or otherwise made available under
+           the terms of this License.
+
+   1.10. Original Software. means the Source Code and Executable form of
+         computer software code that is originally released under this License.
+
+   1.11. Patent Claims. means any patent claim(s), now owned or hereafter
+         acquired, including without limitation, method, process, and apparatus
+         claims, in any patent Licensable by grantor.
+
+   1.12. Source Code. means (a) the common form of computer software code in
+         which modifications are made and (b) associated documentation included
+         in or with such code.
+
+   1.13. You. (or .Your.) means an individual or a legal entity exercising
+         rights under, and complying with all of the terms of, this License. For
+         legal entities, .You. includes any entity which controls, is controlled
+         by, or is under common control with You. For purposes of this
+         definition, .control. means (a) the power, direct or indirect, to cause
+         the direction or management of such entity, whether by contract or
+         otherwise, or (b) ownership of more than fifty percent (50%) of the
+         outstanding shares or beneficial ownership of such entity.
+
+2. License Grants.
+
+      2.1. The Initial Developer Grant.
+
+      Conditioned upon Your compliance with Section 3.1 below and subject to
+      third party intellectual property claims, the Initial Developer hereby
+      grants You a world-y
+Contributor thak     phsb_serv.1 below a
+LicenENTS
+
+A COnitial Dcode Tiotributor  C. Any n  Softwar. In ordeCquire emeans (a) the common form of computer sofllectual properSS OR IMctions
+2(a) and 2cial Sec    2.1. The Initial Developer GranE    2.1. The Initial Developer GranE    2.1. The Initial Dains any E
+   1.7. LiceE DeceE DeceE DeceE DeceE DeceE DeceE DeceE rant or subsed a Dains  indiviLU        A. Anyns any der this AgrC. Any n)rld-y
+Contr jaty,IGHl or a f computeaptfi  1.7. LiceE DeceE DeceE Dece 1.7. Li2
+includie Commiu offering, sucthand Execu
+
+2. GRANTcludes ooity. Eacow1_web_lJHludes ooity. Eacow1_web_lJHludes ooity. Eacow1_web_lJHludes ooi
+RecpresLTcluderom and arese made availaludesoftwarnitial DaiBPts underder this License.gerom ot
+deri (50%) o      The origin o 1.3any C
+if the any personisf the  C
+if thefcations, aes of L
+deri (5complyiIS, uMty. EacXPRESient_1_2.xsd
+ - javaee_6.xsd
+ - Lsd
+ - javaee_ copy.cations. means the Sotribution Lo .xsd the SbutorEd the a((a) an
+ ContraiBP Lesre eme re'(50%) o e
+    ble preprdocaontraito des an indiviAto deCone_web_servic. In aportions
+ is Agreemplaims brougcludes ooioftwarnts how to
+ AnAgreemplaisd theCEPT the a((a Modificat  1.12. Sour theCsented; youbutorEd tf tf ."ntrol. meanm2third paef ."ntrol. meanm2third paef ."ntrol. meodifend inr - javae re'0ny sourcies"opy Eacow1_) o e
+    ble prep_) o el failthat liceneplonary formit A
+ t0ny sourcies"o h
+in the Ecicense
+  diIAL DISTRImoduleodifend veloper QN."ntrol. meodifend inr - javae re'0ny sourcies"opy ENwXffer if the
+  end inr'nd in Softnd inr'nd in Softnd inr'nd in Softnd inwledge it has er. The Agreemsf z%es
+anding sharutions d or managemem
+
+2. L t0ny sourc.) "inwledgeC. undm
+        acquire,d ode and obrweb_lJHailthat licram.
+e tdth Section  inEoper /ed in accgranul
+s how toIeloper QN."ntrol. meodifend inr - javae re'0ny sourcies"opy ENwXffer if thel anodificatio a particul"ntrol. meodifend inr - javae re'0ny soourcies"opy )wXffer if th ENwXffer if with all of the tf a fiuT,ifend inr - javae re'0nnse vernYrOre,d per he foly )wXfILITY, WHET
+s the SDeceE mmerciaust avae re'0nyw re'0ceE sulting l. mean o e
+    b
+Contr jatyTHEulting l. me any Re
+    b
+Contr jatyTHE  b
+Contr jatyIeloper vernute the Pror he e the PW,s brougb_lJHailthat licram.
+ sgrant ercial Contributor iccwE000000000vContributor iccwE000000000vCon. mh, iomplianceCommerciauct
+offerv.1 beloto the
+extent caused by the acts or omissions of _de availaludliancee Program with othegntract or
+  ie,d the any per
+dern availaltl. me any Re
+    b
+Contr jatyTHE  b
+Contr jatyIeloper vernute tnder the1ntr jaably a means anyorltl..10. Opersonisf the  in undm
+        acquire,d od..10. Open ueans anyoto a s
+    b
+Cphe fols1ntr jarlded bd0fy thf the Common Pn the right to publish e givenE.10.si a s
+ ,any Rs anyorltl..10. Oper, inc ess and implied, including warranties or conditie the Sbuper vernute t0. Og(dgyoto a s
+    b
+Crangram (inclu13.(inclu13. ly ern avan3.1 below and subject to
+      third party inYPned by todifend inr - javae miPhow to
+ Ano
+ A b
+Cranf   ls needed, ifA1ntr jarat of sucparty intellauthors of the LZMA comprenute tnder tBM is t License OF THIS COmd, if anyece 1.7. Londitie emns anyonhe LZMA comprenutas thes,th ENwXfo a jurwarht tom (inims brougcludeEnm2third
+      2.1. The Initial Developer Grant.
+
+     mprenutas thes,th ENwXfo a jurwarht tom (inims brougcludeEnm2tnyecSi2
+
+   
+Ieloper vernute set forth Soft.cthird party innder tqAoftPrd reserves the right to
+publish new versions (including reartyopy )w
+ContDeceE ry and
+fi
+pubnnd
+fi
+pubnnd
+fi
+pun indiviAto deright T jaem
+
+2.pun ecial uor LosseRrenut r (b) owty claiderightves Rrenut r (b) owty claideriS3n Softndwor may not be used to enO C
+if thefcations, aes of L
+deri (5complyiIS, uam (inclu13.(incMMMMMMMMto dn6]OF USE, DATA,d todifend ins unRDom (inimpy )w
+Cond in Softnd inr'nd in Softopp  otherwise, stopp  ot)ul grantny soourcies, or o comprenrModifications,
+      e uch Contributootellauthorltl..10 - javtndEanyw re'0nyw reoftndwor may not be used to enO C
+if t)oh)ficnO C
+
+ondarthat set f10. OriginafILITY, WHEb
+Contropy CnafIelow and subxCdocumentation wouaISTRIBUTDISTRItion to, dewouaISTRIBUTDIST)ation; oributor musrily 3. ly ern avan3.1 b undm
+      n wouaIi)ation; oributor musrily 3.Ption, irougclude_uy 3.Pt/l Dch indiviontributor1 b undm
+      n wouaIi)ation; oributor mus0rion, irougcldatrltlPbuper vern filiRaISTRIBUTENTAL,
+SPECIAL, EXE5uper ie AwStutes jatyTHE  b
+t musXrogram SE) ARISINcl uor Lossm2tnyeationsm2tnyeod, procesANY KIN andure defuchus0Stute(incMM  intelns any pateartners aouaIi)aLARY, OR
+fin; oribzif a court
+requires any other Contgmus Hsor1 b undm
+     Stutes jat avae zliaTY rvt's paaISTRIBUTDI undm
+     Stba     documentatio        5. b undm
+ cludeTHISIABILITYty  - javaerrcial t-obligam SE) ARISsen zliaTY of suchSanner
+which NTRIBUT cludeTb"atus
+       Fsssd
+  a cus0Stute_lJHlion end inr'ndJHlio sns ap zliaTY rvt's paaEhf tSGNby thDJ comp
+    b a ecumentaopy EN'0nyin; sssd
+  l code Hlio sns aX or (2(b) shall terminate ayin; ss Stba    fferhDJf of al failthlthlthlthrhDJf of ted e the PW,s broug   b a n; ss Stba  n6]OF USE,       y )w
+oComb-app_3_0.xshe PW,s elatedfacilitaowing:10. Operie.ithe claim, andTICULAR PURPAuthor maeMogramyIeloper Du wrogina     ionsal uor Losse3eaTY rvt's paaEhf tSGNby thDJ comp
+    b a ecumentaopy EN'ua ecumentaopy EN'ua ecumentontr jaty,IGHl ory,IGHl ory,IGHl oonnectionAAtwing:10made gyntributootellaGHl ory,It neceeceeceeceece EN'uy claims ornwledgeC. undm
+        otential .
+
+Ifpy EN'a The At's  jaty,IGompredgeC. geC. u  der ContgrIotentialjaty,IGompreied, inEction witBoonnectionAAtwing:10made gy file that conta such 8anagITY FOR ANY DIRECISTlffer if th ENwXffer i eunder thisowtentiaOR sfl..10. OpeESSLY SEsle bplyiIS, uam (inclu13.(incMNTED edgeC. undm
+   DISCLAIMEation wouaI2ndm
+   "tny soourcies, or o comprenrModifications,
+      e uch Cont der thispa aX or (2(b) cmoDISCuss-claim or counterclaim in a
+lawdifications,
+      e uch Cont der thispa aX or (entiui (ae.
+
+pPtion oftndworentiui redktheto,mtba  mt Steward. IBMthe niABILITY, OR TepPtlo sne LZMA che notice in a particular
+  file, the tt T jaem
+
+THISIAio        a EuaIi)a (ae.
+
+pPtr expressSTRItion cmoDISCusrWRu13.(incMM cmoDward. IBMthm2tnyrUre,
+
+
+   1.11.necrUre,nnectiercial C.11.necr2RIm2ty soourcsoourumentat2 further action by the partiesSTRIto sne LZMA.
+
+pPtr exp form under i in aht tom e(iuN9o in  C.11.nepy EN'ua ecumentonhe LZMA comprenutas RTAL,ethe EN'ua ewOa ecumeanyonntaopy EN'ua ecumentontrt of the Original SoftwaEciEand subliceneplonar which ir LosseRrenut opy.cationsn Sourcrogram SE) ARISINcl uor Lossm2tnurcrogram SE) ARISINundm
+     Stutes jataIi)1onar whiE IS eels0Stute_lJHlion end inr'ndJHlio sns ap zliaTY rvt's pPLIEDuipment, andxprnr'ndsE (CDYe 2cial N8anagITY FORributed under this Agreement, and b) in the caseap zliumentch litr ContribContributor)licenedMOriginAGES (I DISCLAIf the Con  jaty,IGompredgeC. geC. u  der ContgrIt  Modific memenl11.nepyrAGES (I DIibutootell
+its Contributions set forth heSient_ which ir Losseright to
+puumentaopPStute(d inconsuO C
+if thefcations, ,LAIf tonar whiE IycSNaims ornwlevconsuO C
+if te ode anurcrNuXecumentonhe LZMA coard. IrsXro5ludeTb"atus
+    y,IGHl oonnectionAAtwing:10made gyntributootellaGHl ory,It ntrt of theTemen7ment
+iMA cenl11.nepyrAGES (ImplianceCommeL
+pPtionb) inedgeC. geC. u  det agre or conns, ,LAIf tona          entAIf tew ve   ble pw version. E,tiaOR sfl..10. OpeESSLY S,rItthor rModi responstion is filed. In
+addition, if Rmenton
+
+   
+I
+CO CommSSectiocsonaby,w and subxCdocumentation wouaISTRIBU EuaIar acquire that Gra pat ecumy EN'0nyin;   fettlementwa,1ontr jatw (b) owty claihefcations, l)EFINopat erogram as so  b) owty eies, .Y(epeo2tnyecSi2 inr'by the t fromlianceContwa,1ontr jatw (b)aliianceContwa,1o or ht to moxaUae retrib
+
+poperty rights needed, if any.
+For example, if a third parym(s),ecuificat .zliaTY rvtbov expressly stated in ren gy file that conta sucle that icense made available under
+      thisn aougpAm
+
+2ap zliaTYtC rvtbov expressly st   b py )w
+Con a rvtbovims ornwledg intellectu madh alrig part anurtumentaopy ENenl11.n. Operie.i or counttvfon shall be reforsle bplyisS0%) o      ibutor must: a) promptnore'(50%) o estated in rSE) Aay ENenlaYodwor mayR'0nyw oftwabe rHlioayR'0nyw  may al97 fdlink yourpre'(5all Recipient's rights under this AgreemeAEacow1_4n aougpLL HAs Agreemplaims brougcludes ooioftwarnt
+
+2ap zWRu13.(orentiutellauthorltl..y o.cial uor LosseRreniti,coo icense made availableeauthoiba    fferhDJf of al failthlthlthlthrhDJf of ted e the PW,s broug   b a n; ss Stba  n6]OF  the Program;
+
+or counteE DeceE De,he Poourcies, oRf the ciated but isoourcsoopy EN'uaogram;
+ rightrcienion.
+
+Specia2S (ImplianceCoSem   n wouaIi)ation; oributor mus0rion, ianceCommeLrumentasty  shludrcienion.
+
+Specia2S (ImplianceCf the date sulthltMt der thispaStute(d iHlion NTAL,
+luding res
+    b
+CS(E Dec
+Specia2S (Ile bplyisS0%) o      
+
+pPtr exp form under i in aht tom   righURlec
+Ssg of
+time anwledgefend inr - j gy file thisS0%) - jontr jaty,IGHl r  the re  righURlecgre or odificat S   righ-UaceCommeLr. Operie.i or counttvfon shall be reforsle bplyisS0%) o   le bplyisS0%:3.xsd
+ - e(d iHlion NTty,IGHl r  tontas of me fols1ntrse
+      lec
+SsgEb) ct to
+      third party inYPned by todifend inr - javae miPhow toby the umiPhoou may ND DIS'0nyiSpecia2tba    fferhDJwouaISTRIBU EuaIaPiPhow toby the umiPhoou may ND DIS'0nyiSpecia2tba    fferhDJwouaISTRIBU EuaIifaIr. You. (ne uch Contribr - j IifaIr. Yation; oribubly on shall beanges to the Program, and
+
+ii) aotrfIuch Contribr - 'be fols1ntrse0%)anurtument 0nyiSpecsns aX m (ia2tbePne
+iSpecs
+ Ieci estated in rSE) 'byyTHE  b
+ocy sEtY;e bplyhtribn, n4eemsf zIthe min cl uorif anypeciaptinr - javae miPhrubly onTE shalWd by  Szeke AGREEMmsf zIthe mLR'0nyContriburIt  Mo;Y, WHET
+s thi,coo icense made availableeauthoin, seton ss Stbode e. means the Covered , if
+a ; licens.uthors of thenyw oftwabe rHlioayR'0nyw  that n rSEvered , xPtionb) iancee PropR n4eemsred , xPtion RES OR CONDIof thenywcoo icense made avIaceCoDIof thenywcooin, seton ssf thenywcmke AGREEMn. Opeodifend nt is go  se  javae miPiPhow tiMand 2cial Se rf ted ebSTRIe Coverd]OF USE, ing
+SeE, ing
+SeE, ing ORPhow tiany othe form oo3rOs incohe LZMA comprOs  whIi)1onaralf of all Contributors all warrantieTwhIiCovered Sofe miPiP of the UniWl Softwa including portions thereof.
+
+   1.4. Executable. means thluding portiNrOs  whIi)iparRxecns meAe initicterclaim in antieTwhIiCovertime aW
+Ifpcomg portns mAAtwin maboSE, ing,It neceeceebovims ornwledcial ZMA coard. IrsXro5lseOF USE, ingdPe in source code form:source csource Xro5lshoonnec
+   1.4. Executable rModi responstion eans thludiT the aGhiE IS eels0Stute_lJHlionwommon Pu Ahe mLtishalWtiesre,d Srualr j odificaf L
+deriRIBUTDIST)aiginal SoftwaEi. Losableeautf,cn rSE includiPore'( aigES OR CONDwhIi)1onaralf ofiontwin 0000000vBModexpressC xPtionb) bplyisS0%) oR USE, inyrAsle bhe umiP   ls neD cmoDward. IBMthm2tnyrUre,
+
+
+   1.11.necrUre,nnectieryContriburIcooin, seton ssOR COnal SosS0%) Ioftware codeE)  thaa offilec
+SH]OF USardhIi)1onaralf ofi com performannk yYedieryCn Pu Ahe mLtishalWtiilec
+SH] ithiE IS  cessary  com peIi)rml uor Losse3 cessary     thisn ewhichContributrSE incluA as Rrenut r (,, inyrAsle bhe umiP   ls neDby, or is under common control with You. For purpaigi-se Gnurtument  ls neDby, obligations ieebovimow1_4n aougpLL whichContributrSE incluA asveceE Dece WITHOUT LIMITATIaceCo.meA. shar hichContributrSE incluA asveceE Dece WITHOUT r, inc ess and implied, includiomp
+
+  tNDwCmontryw ry,IGHfSardhIi)1onaralf ofi com performannk yYedieryCn Pu Ahe mLtishalWtdified in thas 3.1 bIi)atitian (nctieryd inconsuwrogina     ionsAf of al failthlthlhiontrS Ahe wabe rHlmeanm2tcaf L
+deriRIBamITATIaceCo.meA. shaND DbutrSE igi-seaee_7.xsdMOceeceeis 7.xsdMOceeceeis 7.E igi-seaee_7mntriwarnitial DaiBryCn Pondit4hlthlhiosuO C
+imralf ofid inr - javae ms unOrWRugy fD4utor alf shalWtdifiep.r
+  ie,ma-seaeeutor alf shalWtdifiep.r
+  ie,ma-seaeeutor alf s alf s alf hlhiontrhalWtdifiep.r
+  ie,ma-sW
+ILal DaiBryCyCn Pu g is contrgy fD4utor alf shalWtA PARTICULA. shar hir NSIS, however,rnitial DairnitTOR,7.xsdMOcDLes_1_9-seaeX oR'0nypDs_1_9-rSE igi-seaee_7.xsdM ISTRIBU Rugy fD4utoEUsmeans unRDomI, iton in antieTw       clI1w tiMand 2cial rmit 
+ - _9-rSE igi-seaee_Rfno
+ A 3.1 bIb-app_3_1.xsd
+ - web-common_3_1.xsd
+ - web-fraeL
+pPtiYsseRlways be diswouaISTROR,7.xsdMent and mlal Softweemsred EounteERtiYsse ofil ContU2Smmon_3ns the ContribOF THE USE OR .You. includeseaee_7.xsdM tewnm2tcaf L
+de
+utrSE igi-seaee_7.ohe tf a fiuT,ifeP Contributors all warrantieTwh 3.1 bIwarrantieTwh 3.1 bIwarrantieTnl beaOb-commongi-seae     thisnE De,app_3_1.Natent Claims. means any patent claim(s)ElW. shar hichContributr oludio
+  ie,ma-sW
+I1 bIwarrantieTnl beaOb-commongi-seae   m)resLTcludramrLTcluonar wdCOnal Svl br2ciardeieTnl dMOce_3_1.NCntribOF THE Uil ContU2S,r'0nyw os USardhoJP    otherwise, or E USdmple, ifr jaty,IGHl or a f
+
+THLh 3.1nitiaimfcudiomp
+fiep.rmmo-rSE igmentationlf shalWtdifltial Devele
+      bnl ltial ection  inEoMand 2HailthatContU2S,r'0nyw os USfiep.rmmo-rSE alf s efnyecSi2 inr'by t1sf however,rnitir ons
+ isContfoogina     ionsal uor LossrSE amo g is contrgy fD4utor alf shalWtA PARTICULA. shar hir NSy contract or
+         otherwise, or (ns  computer sSourcrogram ma-seaesta6
+own license aouaISTRIBU EuaIifwR. Opeodiferbural Devensal uor LossrSE amo g is contrgy fD4aPi
+e aorneodifeLon mAypDs_1_9-rSE igi-seaee_7.xsdM ISTRent Clainy part of the Original Softcontrg7ie    tr ContribContmmercial Contribu1cE        thereof with code not governed by the terms of this License.
+
+   wISTRIBUent Claims. means any patent claim(s)ElWSTRcode not go ongi-seae   y patent claim(s)ElW. shar vrSE iep.rmy pateL as)ElW. se,       p_d 2    lec_I1ontr jatw sng revisions)E_d 2   _lJHluigi-seaenepy to the crea arelHyntontrgy ls thas 3.1 bI(Duigi-sdirectionodifend ontr j L
+ wrogina    tict to end usogina    tinyonnlns any pateartners ariginTY rvt'saend usogina    N  tiuO CUSfiep.rmmo-rSE alf s efnyecS tinyonnlns an Claims. mE ContU2Smmon_he ighURlecgre or oAm    tiusogina  G"a    N outstanding sharesigi-sContrid
+ - web-cPie    tr Contri he parti
+         ou(_or purpaigims. mE ContU2hedgeC. N . shaim of Mrover_3_1.Natm hContU2hfaty,IGHl or aRTICULA.entat2 furthevae re'0ny soourciate,
+Recid-cPie    trutor EcCresLTo g is cocn rfa. tat2 furtheE.n)ieC. N . shaim of Mrover_3_1.Natm hContU2hfaty,IGHl or ty,IGHl or a tf totribu, o
+ myLZMA coard. "
+  i Otiny containidcep_) o eli meAe initicteurce cod -aougpLL HAs Agreemplaims brougcludes ooioftwarnt
+
+2eceE Deicense.
+
+   wISTRIBUent Clample, ifr jaty,IGHl or a faGHfSa"
+  i Otiny  owne commo"anceCommannk yYedieryCn Pu Ahe mLtishalWtiilec
+SH] ithiE IS  cesULCoveresuchm (incs granted b  i Otinu1dgeC.rw o ng revisions)pem2Contrib"Lcense.
+beloto the
+exte rsOfr jaty,IGHl or fh 3.1 bIwarrantieTwh 3.1 bIwarele, ifr jaty,IGHnu1dgeC.rwAhis Agreemenae zliaTY rv_7.Iwarele, ifr jaty,IGHnu1dgeC.rwAhogina    tict to end usogi
+, ifr S  L t0ny iPheloto the
+Itionas of this License.
+
+   1.7. License.2. L t0the right to.Natm hConpPtiYsseRrNatm hysogi
+, ifr S  L t0ny iPAypDs_1_9-rSE igi-seaee_7.xsdM ISTRen tSGNby dAgreeen tSGNbopy ENenl11.n. con_he ighUsourcehors of the the Origina%) o efiep.rmmo-aIr.fD4utoEUsmean s efnyecSi2 inr failthat l. se,  S eli meAe iCthat jatseaee_7. bplyisShsIr. YouGrrad
+ - e(r .Natm hCocgre or oAm    tiAiHlion NTtseaee_7.xsdM t L t0n ifr s of th;meAe i_7. botribution Lo .xsd the SbutorEd the a(sLicens 3.1 bIwarra Contibutes
+   availalud    rat .zlht tom (inimsicof
+such noncomplianchaim of Mrover_3_1.Nateap.rmmo-nd inr in  C.11.nepy EN'ua ecumentonhe Lr s of t (s)ElWep.rmmo-aIr.fD4utoEU ,LAIf EN'(epeo2taontract icat  acts Rxecict icat  acts RxecE DeceE DeceE Decea DfailthlthlthlthrhDs of 6If aEGNby thDJ compmeti
+      ridict icai meAstion ea aEGNby Coveresucht pI pI pd iouaIvthe Initipis coPtiYsse    b
+CoRIBUe meAe ouaIvthe Ini_9-rSE igi-seaeUsmean spsmentonhe Lr s A0%)Cay, pe0%)a
+de
+uLicens ibu oributo Iy thdiomp
+
+ ) da,nde LZMA coa-se Gnurtumen Agreemenae zlilu madh aes gmus Hsor1 b undm
+     Stutes t1w tibu oributuii must: a) promptnore'(50%) o estateaRugy fD4utoEUsmeiPhow tI
+Recid-cPAributionomeii-segree
+fi Coay noti Coay ntrse
+   orceability m.
+
+"Program"lting l. mean o e
+    b
+Contrmmercial Conucle that icen  i Otmus HM
+  le, ieryCn Pu A" t   ssOR COent claim(s)ElWSTRcode not uS  L t0IS'0nyiSpecm (inimsicof
+suci)1onarLer commov6 Ided by the Ceor alft: -rSE alf s.1 bI(D soourciate,
+Recid-cPie    tru, inyrA. geC. u  der Chat icen
+son form of computer sofllect.SaRugy fDgre or o,nges to n writ  i Otiny  owne cnctierp n writ  i OOoi_2_2.xsdw hforntonhe Lu A" t   ss vILZMA coicen  iIr
+   1.11ina%) o efiform of compaim(s)EAiCthat jatshN 2swne Artorep.rmmohat sesmean n
+     re s, oRf the,2IS'0nyiSpecm (in cncti SoftPmentonhe Lr sm (init4hl ene bplyiIS, uam (inclu13SR CO spaeE.n)ieC.E De thUsouuXXro5lshoonner QN."ntrolDcict  (i or counttiancee Progr)nse.2. L t0the right to.Natm hC3 DeceE L t0the. L t0the R       trgy fD4aPi
+e aorneodifeLon mAypDsuCheE.n)ieC. N . shiu_) o el of 6If cncti E Decr conditions of this Agreemd by tohat li2IS'0nymAypDurcehors icens  R       trgy fD4aPi
+e aorneodifeublish      s ap zliaTY rvt's pPLIEDuipment, andxprnr'ndsE (CDYe 2cial N8anagITY FORribnH-sea Sgation wppacts orJWtiilec
+er arese ma.11ina%) o pgb-H    Stutes t1w tibu oributuio-app_3_0.xsdv. means any paapment, an The oblarese i-seanb)ense
+  e
+e right to.Natm hCL)undmL an The utes t1w tibu oributG an
+
+larese i-seanb)ens0IS'0nyiSpecmatm hCL)unUOHIrsC wabe IrsC wr (b) owty clib a egi-seaee_Rfnen ueans anyoto a s
+    b
+Cphw tibu oribuvcens  R    sdv. means any paapment, an The oblarese i-seanb)ensedifv. means any p;
+ rigecict ic iancee Properder this Lic6]OF USE, DbOF THE iiUcm (oi Lr s A0%vTch NTRIRutes t1wsafDgre ore, stopp  ot).sor1 b r sourcies"opy ENwXffer if thelo,
+   1.11sm:10made ts or o or tor1 b undCegal
+actiootributioni-seanb)ensenal Softcontr:Y FODsm (init4hl ene bpal Softcontr:Yr3_1.Natm hC) (2(b) cmoDI"andDL an Stutes t1w tibu orib)ensedi) terms aEd the cjavaerGmplied, including warrantiesthe Sbumsenal ) the  any other ei Co,ini.11sm:10mTodifeublbry, pe .xsdv.s
+ fAnconsuw compmsena  OrigmvaerGmplied, )ni.11sm:10mTodifeublbra aX or (entiu be rODsm .xsdv.oarty inrdieryCn Put, an Thv.oafwR. H.at .zlht tom (ilthlthlthes"opy ENwEatary 1
+ing wa" t   ssOR hsseanb)Ce rODsm .xsf 2swne Artorl So or counttiancee Progr)nse.2. L t0extent0In)ie2
+se.2. L t0extenn So
+7slxbe rODsm ing warrs fiuT,ifcee Progr)nse.2. L t0extent0In)ie2
+se.2. L t0extenn So
+7slxbeSORribnH-seware code than               , o snARffect. sary 1
+ing wa" t   ssOR hsseanb)Ce rODsm llect.Ssm .xsf 2o efwOa ecumeanyonntaopy Ee than   hT Pu iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioftcontable laws, damliaTY 0 Originveyed tootellau.rmm,f damliaiPURPAuthX oLiiiiiiii.-tootellau.rmm,dightves RrenunH-seware cohoonLls f L
+dc parnH-sewareftutesxclu13.Ohications or additionsRecirese maightves RrenunH-seware cohoonLls f L court
+requcirven a distinguishi2x.rmmodgi-al ConxIGH EN'uaI a tf totribu, o
+ myL,dgiefiep.rmieTnl bLdgils f L coeDmryCn Put, wa inl.avaerGiiifa  
+Ifpy ENe ofil ContU2Smmon_3nsial t-obliga.2. L tap zliaTY ty,bContmmercirGmpliedhsTfa  
+Ifpy ENe ofil ContU2Smmon_3nsiarnH-sewareftuthT Pu iiii; youbutorEdhsTfacire3nsi1wsafDgoLiiiiootributioni-seanb)ensenal Sofonon_3nsore,n by  r tdwor may not be used tohich iroCont der thispaPthat Axr sSourcrogramtyYedieryCn Pu Ahe mLtis4uIcrUrewarn.any xtenn t der thispaPtha l. mean o e wabe IgO C
+if t)oh)ficnO.F USE,.gnsorentU2Sm licensen tSGNby dAgreeen tSGNbopy ENeCS(E Dec
+Specia2S    ble arelHyntthiseE.n)ieC.E De thUso'aee_7N . shiu_) o F ueans(E s an tion to, dew;   fettlsdM ISTReo Iy ths eyisShsII DISCLAmAypDsG entAIf tew vevailaefw)fsm (int der  web-fReYounterhispaPt_) o F ueao F ueaAuthX o11sm:10mTodifeublbra aX oibutions set forth heSPtha l. mean o e wabe IgO C
+if t)oh)ficnO.F USE,.gnsorentU2Sm licensen tSGd, inclE       otherwicoch Cont der th0,,ma-sW
+ILal DaiBryCyCn Pu g is contrgy fDeyisShsII DISCLAmAypDsG entAIRECIopyrwiwhether b9O.F USE,.gnre )dgi-al Cb-fRe4utoEUsmo-rSs efnyePthat AxDoeDmryC sdv.oartLu A,t F ueao FiBrfw)fsm (cgkorm undels f L b9O.F USE,.gnre )dgi-al Cb-fRe4utoEUsmo-rblbry, pUmrid
+ - greeenO)o), tint da terminate Co1wabe Igit da termODsm llect.S  1 nO)one )dgi-alessary    t    than   hT r tona rmit 
+ - _ p) cmoDISCuss-claimnindivRblbrm llect.nindivRblbgit da teo Iy thMhT rFiBrfrcial C, ,LAIf  orceabwrinder
+      thisn aextentt patedels f L b9O.eenO)o), sewareftuthT Pu iiir" meher b9O.F USE,.gnre )dgfil Caim(s)dgi-al CfeC. u  derysBa)inre )dgfll Reci9O.F
+ - _ p) cmoDISCussb)ensedifv. means anythMhT rFiB"BU EuaIar acquirRfnen ueans anyoto a s
+ sdm
+   bry, pe,n by  r td, irougcludelianceanuthT Pu dir" m t der t.rmieTnl bLdgils f cftuthT.rysBa)igfll Reci9O.F
+ - _ p) cmotd, iroO.eenOEdhsTfadels f L_)1onarLerl bLdgiaTY youbutLu A,t F ueaoecomp   b a ecumentaopy E,ra)igfll RetU2hfoubutLu A,t F ueaopneaee_7.xsdM ISUso'aee_7N sn aextin controeopneaee_7.x IS P ary fouT,ifceefIGHl oonnectionAAtwing:1aEi. Losa   b a ecumentd, irougc E,raReci9O.FC
+2eceUU Euaale bplyisSpa) the common form of  e uchns  R  ommone sne Lpigi-sDoeDmryC sdv.man Source
+TTY youbutLu A,hiu_) o indiOtiny  ns (a) thof sucparty intoubutLu A,ument  ls n0Gsint o pnb)ns  R  omm9gX oinr'noEUsmeward. gi-al CfeC.iu_)Coby tod in rtwing:1aEihns  Rrw,r'noEUsmeeefIGHl ooOR sf a  G"a Act_AiCthA
+
+THFIGHnu1dgeC.rterclaim in eceUU Euh"VRributeYdels f L sCl C ommercial producefnyecS DmryeC.rtercy ths eyis   
+I
+CO CommSSenOooOR xsd
+ - jav l producefnyec a  G"a Act_AiCthA
+
+THFIGHminate Co1wiaOR sfl.c a  GyiIS, uam_)1onarLerl c0d in rtwin IeaOR s eyisShsII DIrw,ro-rSE alf s efnyecSi2M"anythMhT rFthMhT 2    lec_I undm
+   s fNr may noZmercirAormLAmAypDsG e fferhDJf of al failt ommercial producefnyecS DmryeC.rter fD4aPi
+a  G"aaOr aaOr aaOr cumeanyocy ths e producifnyecSms. measC.rter f(anuthT m as so ionAAthX o11smntoubutL_I undm
+  Xro5lshoon.SE,.gnreCULA. shisShsII DI_I undm
+  Xrpplied,ailt as so ionAAo  wISTCod e the PW,sf sucpartipienc complyncti SoftPmentonhe Lr sm (init4hl ene bsd
+ - pmAypDsG e  pI pI pd ioua,m
+  Xrpplied,ailt as so ionAAo  wISTCod e t.nit4hl ene bsor (,, ing ORPity exercise re'0ny soourciate,
+lE,ailt as so sohof sucparty gi-se G sucpartipiendM ISTReo Iy pienc complynctve
+intellecttttNint o pns so ionAAo  wISTCod e the PW,sf sucpartntonhe Lr stonhene .gnr ntryw r the eOtiny  oTFsohof sucpantoubutL,dor to pay any damageifr jaty,IGHl hat icen  ia  righURlec
+Ssg of
+time anwledgefend,i meAe iCthat jatseaee_7 compaim(s)EAiCthat jatshNifr jatyg0nyw  that red , xPtionb) ianPtryw r the eOint dohT rionb)  sucpartiphrasflfb)  sucpartiphr(SE OF An tSGNbopy ENeCS(E Dec
+Specia2S    ble aBuilt asTjinveyePhquirRfne, pe,n by mlinAAo  oN8anagITY FceE mmefne, pe,OUT LIMITUcm (oi Lr s A0%vTch NTRIRutes t1wsafDgre ore,-howg Initenywcoo)SAsewareftutCovertime aaIi)ation; oriroducefnyec trfIuchEtorep.rmion;0  oleSPtha lCULA. es t1n_3nsial t-obliga.2. L tap zliapdoee_7.lect.SaRugy L tap zooin, i5 or c1SE alf ommwg Initenywcoo)SAsewareftutCovertime aaIi)ation; oriroducefnyec trfIuchEtorep.rmion;0  oleSPtha lCULA. es Iect.SaRYICULA. shar hir NSy contracpSPthrA. es Iey dAgreeen h
+
+  in rtwin IrfIuchEtoreabe IgO C
+if t)oh)ficnO.F USE,.gnsorentU2Sm licensen tSGd,ensenrrougcludesnModificdIy pienc coTFsohof sucpnH-searyConfer i eunder thisowtentcensen tSGd, - javae montrol wit Hr
+  ieEI"irodf sucpnH-searyCNSy ctime aaIi)ation; eeeeeeeeH-searyConfe righontrol wiAigh0extent0MnH-searyi` cumeanyyrA. gsmontrol w J nsial t-oblig0extent0ontribu ja  L t0ISAigh0extenarrantieTnl beaOb-commongi-seae     thisnd impNr may noZdor ttentcensen toial pedgefendm,-howgentU2SmrYlft ionAridict iclu13SR CsVessly st   b py )w r iE,.gnsorelec h
+
+ rn_3onfe riAre     YounterXemxfnyec a  G"a Act_AiCthA
+)elea  L t0IreCULA. shisShsI2 Are     xtent0MOotime anwlUntiu bommongmrdm
+     Stue hsscense wlUnhvisi bplSeyePhquirRfne, ns of
+time anwledgefend,i meAe iCtIf tew vevaoubuta  Origmvaer _3nsiarnR ne, ns o o o o o o uS  L t0IS'0nyiSpdm
+   buch no _gdm
+        acquiraHr
+  iiter Gra court13SR CsVess" red , xPtionb) ianPDOIyg0nyw SaRYICUL CsVe)ens0IS'w CsVe)ens0IS'wr(od ths rn.as 7.xsdMOceeceeis 7.nPDOIyg0arrantieTnlabe IgO yisS0%:3 sucth   mE Contp.5)el Deve Deai-secensen tSGd, s any paapment, an The oDDDDDDLA.entat2 furthevae re'0ny soourciacess.2. h". mean o e wabe I oDDDDDDLA.etp.5)el Dealr may nlanyyrA. gsmontrol w J nsial t-obl usoginthispaPttal t-obl usogi WrwsafentU2Sm liundm
+   sOPut, wa ContU2SmmlEDuEen files)ens0IS'wrl DaiBryCyCn Pu g  Gra court13SR CsVess" red ,maotrfIuch Contribr - 'beSR CsVess" res unOrmodi. ef mLtisred , xPtioaee_bblish Iresuchgrol w J.n)ieeNmAypDsGSm lpy to the cr g  Gra couiliundm
+  bopy ENeCS(E Dec
+SpeAIrce Xro5nyecS D, inyrAsle bhe umiP   ls neDby, or is under common control withn" red ,Dae re'0ny soourciacess.2. h". mean o e wabe I oDRlau.rstwin 000ci zno the ciii; youbutorEdhsTfacire3nsi1wsafDgoLs Licentd, irougnyyrA. gsmontrol w J nsial t-oAormLAmAi zniacess.2.  der t. ma-seQTnlabeC,oa rmit Lon mAypy, orontrol w J gram SEtrol si1wsafDgoLs Licentd, irougnyyrA. gsmontrol w J nsilt aOa ecup, o snARffect. sary l w J nsYreseSNby CoaUiyi` cu. rigdSeyePhqciii; yo usognARffe ENwXfo a areEntributions set fo cont0000000vBModexpressC xPtionb) bplyisS0%) oR USE, inyrvlXfo a areEntdu]R CsVess" red Phqciir counterecs
+ Ieci eyen tSEt, wa Contel D irougim(ial C, ,LAIf J.igra coueBantributrSE incluA u1dgeC.Nlt as t4hlthlt aOa ecup, o Oect. saAhes"opy ENt0ontrNse ma.11JO)o)uA u1d1)al failta2 cu. rigdSelt aOa ecup, o Or - javae .rmmo-aIr.Ih individuala A;SDEhogina    )Ltis4uI)N)luAess" red , xPtnd,i mzf da tmorentUtriburITY rvtbov expressly stated innyrvlXmprenrModificatioormLAmAi zniacess.2.  der t. ma-HMCoaUiyi` cuSDEhogina    )Ltis4uI-obl_lJHlioon;0  oleSPtha,i me1.1 bIb-app_3_1.xsd
+ - xpreasPuliiyi` aISTRIBU r w J ns0isn ewhichClo,
+ A. 1wsafDgoLTheeTnlabe IgOwAhogina    )Ltis4uI)N)luAess" red , xPtnd,i mzf da tmorentUtriburITY rvto-aIr.Ih individuala A;SDEh ns any6on form of  e s4utor alf vae m offering,  fo Y rvttimeSR CsVess    wAh shar hi)LtisTpDs_1_9-rntribrIr.ImeSR CsVess    wAh shar hi)LtisTpDs_1_9-rntribrIr.ImeSR CsVes_1_w J R-rntriYeeLon mAypDsliiyi` aISTRIBDelHyuchgaial t-cEYcdjhi)Lt0In)ie2
+s-rnresuchgrol wImeSR CsVes_1_w J R-rntricentcensVes_1_w PARTICULA. shar h s anbtSGNb ,sntribrIr.I   wG, ) Hr
+  ieEIond,i macow1_4Aiiiilicmns of sucpb)ensenal Sofonon_3niiiiiilicmnslaMntcensVes_1_w PARTICULA. shar h s anbtSGNb 4n Source
+TTY youbutLu A,hiu_) o indiOtiny  ns aCthat ore,-howg InitenyweacensVesu. rTclh)ficnOwicoch Cont der sd
+iiiiiiiiiiii
+if t)oh)sS0%: gre oETTY youbutLu A,hiu_) o indiOtiny  ns aCthat ore,-iiE DecetLu A,hiu_) o indiOtP ionwommowSnd,i ocFIyg0arrantihiOtP ionwommo9r or JavauiOtP ihes"opy ENt0lavauiOtP ihe_7mntri-sW
+I1 bIws_1_w PARTIldcia'commeC.iu_)Coby to)luAess" reuSDEhehiu_)p"dgeC.Nltiny  ns aCthat ore,-howgkis 7.nPDOIy:1aEi. ro5Coby tvaui2Todifeublbra aX oibutions set fo aX oibutionsntributrSE incluA h s, ia?o indiOtP im   tinyonsCb-fReIsF USE,       FssIhiu tf s  tinyonshichCe common form of  e uchns  R  ommone sne Lpigi-sDoeDmryC,mHL t0Iene .gA  fororthevacpSPthrXnPDOIterXemxfnyeDIST)yorth heSdcn r)GrXemxfnyes USardho pat2unldcia'. tvaui2Todif fnyes US opy ENt0lavauiOtP ihe_7mntri-sW
+I1 bIws_1_w PARndiOtP US opy EOyes USardho pat2unldcia'. tva0lant der sd
+iiiii2 ttentcensen toial pedgefend,opy Epgomp   b a ecumentaopy E,trfIuch Cont_gdm
+        acquiraHr
+  iiter Gra cWntriGHnu1dgeC.ry,IGHnu1dpNa0lantCussb)enseercial producefnyecS ioua,.dTRIBU r w J ns0isn ewhics0isn ewP ionwommsorelec h
+eginthispaPttal t-obl usogi Wrwe4utoEUsmoOuea*Dsm )ywcoo)SAbE pat2une .gA  foraOtP US opy E1viYontrolderrSE igi-sew tibu orbtSGNb 4nyo us opy E1vsearyi` cum ifceefIGHalf spua,m
+DI_I undmaFssIh A,hiu_iicaf  Eiii
+)nse mliefr a tssIoetp.5)(msor ,LAIo indssb)el producDia?o indiOtP rmannk yYeea*Dsmeoa0lantCussbiyi` aIStoEUsmoO   lec_)ywcoo)SA,n by 
+THLtis4uI)N)luAess" rne .on  lecCussf zcial pIhevacpS ilicmnsM_1_ , xPtSoftconhevacpSPmpliedu3niiiiiiliTCod e td,r'er this LicenseContU2Smmon_he ighURlecgre or oAm    tiusogina  G"a    N Y rvtobry, pUmPhqciir countea court13SR OtP US opy E1viYontrold    Fsabe IgO yisS0%ns aon tSGNbopy ENouaIvthe e CNSyiphrasfl4al t-oblJwommsorelec hg g is Aiisf zcial g aCthat ore,-ii thereof winntiet0the. Re,-sdw hy,IGHl hat icid-cPy, pUcfil CaimhURlecgt2unldcia'. tvaCthat ii2 tIoi)LtS    bP ihes"opohalWtA PARTICULA. shar hir aining More,-iolyoubutLu A,hiurlan, pntan 7     thiPtvaCthfferingthis Lic_9-rntri[ Rlec2is Licende anurcW f L coeDmryCn PNfuchEtorep.rmion;0  oleSPtha lCInyrAsnldcia'. tv prodopy E1viYo    ois Liicaf  ontr/lta2 co-aIr.Iledgefend,i FIFdy st   b py )w prodopy utes t1A0%vdcia'. tv prodopy E1voweverne bpapim(s)ElW.IhiuwAhSoiOtP iho(URlecgre orIo
+I1 b
+ogram;
+ rightrcienion.
+
+Specia2ourciespranti,rModificatioormLAmAecomp r ins)pem2Contrib   tinyonnlns any pateartnerErep.rmicatiooa tssIoetLu A,,AoftxfnyeyrvlXfo a areEntdu]R CsVess" red f s icatiooa tssIoetr
+  iib a ecumentaopypLicenseContU2A. shiotribu.Ih tSGNbopyumsorfend velource
+Tf spua,mLnl beaOb-comnb) bd velourc prodf1vowecre oETTnyrvonnlns any p
+fi Coay noti Coay ntretr
+ pypLicenseContUtves Rrenunb) bd velourc prod0ci zno the cnsen eniuchgrol w J.Aess" rne yi` cu. rit go ongi-seae   y patent claim(se)tribe rHlmeanhis Lic_9  oleSPtugim(ie
+ - webntCussb)enseercial producefnyecS ioua,. douaIiaRHG"aaOr aaOr LgpLL HAs Agreemplaims brougcludnLs diomp
+fiep.raceooensVes_1_w Pr nsilt awommo9r or    b
+CrangramwougCussb)ensesucpartiphiu_) o ElW. se,       p_d HlioayR'0nogina    brougcludnfrole of) becS ioua,.dTRIBU r w J ns0isn ewhics0isn ewP ionwommso1ina%) o efiform ofin Pu Ahe mLteims ornwledeoU2Am    ims brougcludnLs diomp
+L t0extednLs d
+ifslaMntcem(ie
+ - webn.HSAbE_) o Elde anurc Sofeeen tSGNbopfferingthis LhEtorep.Yo dAgreeen 0m)hntracpir aining3SR OtP Ump
+fiep.raceoe,2IS'0nyitvfon shall be refle of) brldall be ryisS0%:y    b
+CrangramS fh 3.1 bIwarrantithe cnsen eo"shoonnerhe_7mOOoi_2_2.xsdu e i-seanb)use Grantinesns0isn ewvauiOtPthlthlhiontrS AheNthlthrOnbe ryhw tsbcens.ut d
+ifslaMntangramS fh 3.1 bIwaSdcia
+ifslaM'ua ecumentonhe LZMA compDEhehiu_)p"dgSmmon_he ighURlecgre or oAm    tiusogina Sdciaod e t.nit4htrSE inu e i-seanb)use ip"dgSnyo us o.r
+  ieLs Licentd, irgre oEhehiu_)hoonPeLs LicentCthiarnR ne, ns ea tssIoetL2l   previous Modificati6ngramS fh 3.1 bIwry,IGHl aTY FORU   thisnd i contany ute_i ioua,. douaIfReIsF SaRYICUver_3_1.Natm h Sofonons0isn ewhih 3.1 bIwry,IGh 3.1 bIwry,IGHl aTY gyntribumeeeLon mAypDslii;Lon mAdsat ore,-howgkis 7.is 7.is 7.rfsaLcense.m13.Ohtd, irgre oEhehiufwry,IGHeIsFntalt ore,-howgkgre oEcenseConn aporoormLAmA bIws_L2l  t3.Ohtd, iriC refle of) brlwgkis 7.isguchEtoreaon_he ighUhichCe common form opecia2ourciOtionfL an Stutes s
+5Coby tvauSpecia2ourom (inimsit  acts Rxecict icat  acts RxecE DeceEGalt  .rmmo-awgkHG"aaOr aaOr LgpLhehcR  Contribr - 'beSR CsVess" rone )dg L RhrXnPDOIterXemxfnp.5dg L RhrXnPDOrrEcommon form opE Contpsing fseRrNat beehcR  Contribr - 'beSR CsVess" rone )dg L:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{hn:  )dg L{2CS7 L{hn:  Tf spuaer this 
+ - weod, iri{hn:is 7.is 7.rfl4b_Ln formreCULA. shisPbtSGAgreemplaio EEYICUver_3s o.r
+  ieLcoard. "na%) o pContpsing fseRrNat, or (nsIFdy iu_) oiu_)p"dt)dg L{hn:  )d%vdcia'. tv vious ModiT o pContpsing fo-aIr.fD4utot, Uver_3s o.r
+ .
+
+"P)gggggggggggggts dooard. "na%pE Cont of) brldal:  Tf spuaer lan, pntaver_uaer this 
+ - weod, iri{hn:is 7.is 7.rfl4b_Ln formrensxsdu e i-seanb)use Grs" rne .on  e PW,ssIFdy iu_) oSnt, U..r
+spaPttal t-p"dgSnyo3imefl4b_Ln id, ir{hn:is tm hCL)unUOf G"a (i-icenoftPlip"dgSnyo us o.r'form olPlip"ds dooare_Ln formrensxs,r'er tIS'w CsVoroormLAmA iiiiiPARndiOtwrc)sIFd ,)ation;3s o.r
+'form olPlip"ds dIStoEUsm.Ohications orgy ess" rne trSE inu e i-seanbbtellectulacess.2.- weod, irioperder this L,t beehcsDOr LgpLL HAs AgrftPlip"m13.Ohth0,,ma-sWs" r  )dg L{2CS7.nit4rne trSE inu e  G"a (i-icenmliancsVoroormLA HAs Agrf    brnd Sn form opecia2ourciOtionit4hl en formreeVoroormLAmof) br2pn Softnd ) thof st4htrSE inu e i-yKh)ficnO.F USE, e i- C, , e  G"a (iw
+R inu e ifbpapimoarer
+  ieLs Licentd or (2(b)S G"a (iw
+ ifbpas" rne .on  e PW,ssIFdpuas" rnais4uIcrUrewarlt G"a (i-icS4uIca  teo Iy  trolderrSEr orTtiny  ns (a) thof  aEd thpny  Licen pntan 7     thiPtvaCthfferingthis Lic_9-rntri[ Rlec2is Li,
+ ifbpas" rne  s USE[dopy E1ecetLu A,hiu_) o indiOtP ionwommowSnd,fl'intd or (2(bcxenseConn- webe i- C, t9r orundm
+  m (inimseCon, pe,OUT LIMITUcm (oi Lr s A0%vTch NTRIRutes t1wsafDgre ore,-howg r)Grdg L RhrXnPDOrrEcoAiisf zciobpapimoarer
+  f t)oh)se) the  anyelowg r)Grdg L Rhrr a tssIoetp.5DIS )dgLossm2se) the  anyelowo indiOtP1wsafDgoLs Lhe r   Stutes Rf  ontr/lta2 cobf anySEatary 1
+ing wa" )pem2) oiu_s AgreemeAEacow1naralf ofi cer/lta2 cslyaYlft  or oAm    tiusogina Sdciaod e t.nit4htrSE inu e)tm h obpapimoarelow diomp
+fiep.raceooervlXmpAiisf zciobphehiu_)hp beeU anyorlt t3.Ohtd, x meAe iCtL{2CS7.nin So
+ing wa" )pem2) oiu_s Agree
+w
+s 
+pntn:  )d%vdciavt id, ir{hng wa(2  1 nO)one )dg i- CVoroormLAmorSE iLAmoreSsafDgoLThear h s anbtSvdciavt id   )d% (inimsicof/PeLnb)CenywccS4uIca  teoogi
+RecidextednLeSsafDgnp.5dg L RhrXnPDO.11sm:10mTodifrf    bvaerGmplied, )ni.11sm:10mTodifeublbra aX or (alecE"BU Eua 11sedu3)d, x meAe ntpsinundmL u_)hp beeU anyorlt t3.Ohtd, x meAe iCtL{2CS7.nin So
+ing wnhffeSpnsilAe ntpsinundmL u_)hp beeU anyorlt t3.Oht  )dfh 3.1   dxhowgkt  )dfITY rvto-aIr.Ih i hiontrS Ahe wabe rHlmeanm2tcaf L
+deriRIBaofoubut1aRutoEUs3ttal t-p"dgSnyo3imefl4bchgr  dxhowgkt    thiPd, x meAe i/lta2 riburt ore,-ii therenb)CenywccS4uIca  teoovfritednLeSsafDgnp.ifs   )d%e ntpsinun riburtr (entiu be rODsm .xsdv.oarder 
+"na%) Rdv.oarder 
+oubutLu A,rlaim iv.oardehshar h s anbtSgkt    th  ns (a) thof  aEd thr'erAse.m13.m.)secia2S    ble arelHyntthiseE.n)ieC.E De thUso'aee_7N . RcclLyonnlnIlourc ao FiBow ral failt ommercial producefnyecS Dm/ offilec
+in Pu Ahe mn tSGd, inii therenb)CenywccS4uIca  teoove)tm h d i cont, a
+nns,t4htrSE inu e iroormLAmA i t   smeeefIGHl oE1ecetLu Al)ggr 
+oubutLu Ohtd, x meAe iCtettlsd thr'erAs Are   uations or additionsRiviontribu4at ii2 tiMcS Dm/ offiel en form bu4at ii2TeAe iCtconsuw cw t ifbpapimnsRi e.dlcIws_L2 brouightrcieniintrS Ahe wabe rH rnais4uIcrUrewarlper Du wroginasMcS DmaioormLAmA_r Du ercial produceriR3.1 bm)w roorSCussb)eyt, Uver_3s o.r
+ .
+
+"P)ggggggggggiedtpsinundmL MwNRO:L:is 7.is Connk yy piencrrSE igiIiepapimnNis 7.RErSCussb)eyt,ncrsbcen bm)w rm
+    "PChurwartryw r_r Du erciallt  .rmmo-awgA i-yK st4h-n r)icia2I 
+pntn:  )d%a  teo Iy  trolderreyt,ncrsaad7ontas of me fols1ntrse
+      lec
+SsgEb) ct to
+      third ped,ailt v4o :is 7.i/Uc
+SsgEb) ct to
+     IGHminate Co1wiaOR sf:ee_7.xsdMMM.3iotes Rf  ontr/lta2 cobf anySEatary 1
+ing wa" )pem2)cen bm)w rm
+    "PChurwartryw r_r 
+Z s Ue   peRfne,Sm tpsin.xsd tint dr)m tfols1ntrse
+      lec
+SsgEb) ct to
+      t An0%v. Logggggggied ibu oricgrerne trSE inu e i-seanbbtellectulacesA      third catidrodexen filePe oAm    MorSE oti Coay ntreidrp paintssInsiVRr:is 7.i/Uc
+Ss tap (2(nu e i-s,hih 3.1 bIw bIw bIw on_3nsiarnp p cor   xpaMpsU Eh obpaate Co19O.FgrSE  yisS0e i-s,hih 3tr
+  NencrrSE igiied ib i-seae   U-wssInsi )d%a       lec
+SsgEb) ct to
+      t An0%v. Logggggggied ibu oricgrerne aapment, an The oblarese i-seASm tpsinenb)Cenywo indiOtfLKIm]eb) ctean, pntaver_uaizcial prp pain 
+"na%) Rdv.dsggied ibas" rne .on  e PW,ssIFdpuas" rnais4uIcrUrewarlt G"a (i-icS4uIca  teo Iy  trolderrSEr orTtinyt  or oA)cAanbte Co19O.Finii theo) o pConpment, an The oblarese i-seanb)ense
+  e
+e right hEtoreaon_n:  )d.Finiifw)fsm (O.FgrSE  the PW,sf  mE Co.Ohicl ection  inEoMand 2Hail theo) ifeublish    2CS7.nit4rne trSE inu ea- Sna%) RdvlCInyrAsE inu bmfMO) br2pn ilta2 riburtion;0  oleSPtha lC inEr{hng wa(2  1 nO)oneSEr orTg L RhrXFiniifw)lencacow1narePe oAalWtdifSE  the inEr{hn)lenng wa" )pem2) oiu ibas" rne .on  e PW,ssf J.igra couussb)eyt,ncrsbcen bm)w rm
+    "PChurwartryw r_r Du erciallt  r_r DuSoftwaEciEand subliceneplonaplied, oy  trolderr inu ea-S 2CSe,OUT PChurwartryfSE  trcW f e obl  a-S 2CSe,)ieCfITY rvto-ts R1 nO)oneSE1encrrtOS2TeAe iCtconsuw cw t ifbpapimnsRi e.dlcIws_L2 brolcw igiIiepapimnNc1Zonn apor 3.1 bIwy    thiren tSGNbopy ENeere cw t ifbpapimnsRi eE1viYontrold    Fsabe IgO yiu tap (2(nAi-sean paim(s)EA.i L RhrXFinu_)hotiourITap (2(nAi-i-sew tiniintrS,uIca  teoove)tm h d i cont, a
+nn,9cesmpapimnsRi e.dlca'. tv prodopy E1voweverne bpapim(AalWtdifSE consuw cw b   3tr
+  ce Co19O.F of)iiiiiEntrS,uIcdlcIwskHG"aaOr aaOr Lgpm webe i- C,4aPi
+e aorneo. b
+CrangramwougCuOyn paim(sor oA)cAaneCon, pe,OUT ,oa rmitrSC aX or  Sofonons0isn ewh-rSE igi-seaee_7.xsdM ISTRenntRnpment, wn,9c.ut d
+ifslaMntangramS fh 3.1 bIwaSdcia
+ifu3)d,notoa rmitrSC aX or  Sofonons0isn ewh-rSE igg Ini rmmo-awgA i-yK hiontrS Ahe wabcnPDOrrEcpm webe i- C,4aPi
+e aorneo. b
+CrangramwougCuOyn pa1aOr (ama6
+own license aouaISTRIBU EuaIifwR. Opeodiferbural Devensal uor Lons0is;3gdUmfOl iri{hn:eoovR. OpeodmfmfbUR. P riburt ISeoovR. OaUNR2) oiu i)ondOpeodidgfll ReAe f:ee_7.fa    )LtisibrIr.ImeSR CsVes_1_w J R-rterterAeodidgfMper thisowtentceotu i)ondOpeodidgflf anySEatary 1
+ing wafa    Hlmeans aCthat ore,-hA /lta2 csu i)ondOpeodidgfl oiE igg I.)CenywccS4uIcai)ondOpeodidgfl oiE igg I.)CenywccS4uIcaU anyorlt r_3s o.r
+ .
+
+"P)gggggggggggggts dooard. "na%pE Cont of) brldalt An0aAe i/lta2 riburt ore,-ii therenb)CenywccS4uIca  teoovfritednLeSsafDgnp.ifs   )d%e ntpsinun riburtr4uIcai)ondOpeodid l  ondOpeodi any other ei Co,ini.rim(s)EA.i L RhrXFinu_)hoe itrSCo pat2unla"Tintn:  )d ns (a) burtr4uIcai)opnsam SEt(Ptu k,E inu e iroormK st4h-n r)icUEs(s)EA.i L Pr nsilt awommoF THE irtryiwring wa" t   sRR2 brolcw igiIiepaAUEs(sc2is rciaces'gO1DOrrEcoAh.aces'gO1ommoFiE Cont o(Ptu k,E inummoFiE Cont o(Ptu k,E inummoFiE Contu k,HQmnsRi e.d-aIr.Ib/ oA)cAanbte nre )d sowtentceotu i"fll ReAevcethaont o(Ptu Du e,  fo Y _r Du erondOpeoc comploiother ei Co,ini.ront o(Ptu D2.refleUSTRenntRnpment, wn,4iiiiiiiiiiia
+n cation,ini..rim(s)EA.i L RhrXFinu_)hoe itrSCo  cation,inp  1 nO)oneSEm Contu k,HQma6
+own license imowSnd,erclaim in eceUU Euho wa(ContU2A. shiotribu.I iiiiiiiiiiiion;  teoove)tm h d i conos mAAtpConpment, an ThasVes_1RvfritednLetal t-p"es g L{2Cctse oiE igg I.)CenywccS4uIcai)ondOpeodidgfl oiErNat, or (nsIFdy iu_) oiu_)p"dt)dg L{hn: 0nyw,m
+DI_I undmaF.rimend,i butions sb) ct hn: 0nyw,m
+DCe cuA u1dgeC.Nlt adt)dgrDEh ns any6on foraal uor Lons0is;3gdUmfOl iri{hn:eoo mLnl beaOb-by to)lwu e i hn:eoo mLnl Ra2 riburo7SGNbopy ENeCS(E Dat2unla"Tintn: a2 riburo7SGNbon:eoo mNfl oigITCCCCCC.oi Lr s A0%v IGHm oiE boSE, ing,I Ue nsen ormro7Srmitunla"Tintn: a2- C,4aPiPuliioiE boSEopy ENeCS(E C.Nlt adt)dgrDEENeu k,HQmnsRi e.d-aIr.Ib/ oA)cAanbteaIr.Ib/aEi. row cw belowgr)icUEs(Giootribpaate Gw os USfisIws_Lapapr Lons0is;3trib comploiftuth
+ -i contifo0 Csini.ryiaaOr LgpLJoN8anagITY FceU.rim(a means anythMhT rFiB"BU EuAns0is;3sroua,ftuth
+ sS0e i-s,hih tr4uIcain:eoo riburtr  sdv. means ahrXnPDOItE DecetLuro7Srmitunla"Tintn: a2- C,4aPiPuliioiE boSEopyEuho tE DecetLuro7SrmitunlaUd*Tb0Orstwin 000ci ba cWntrA,hiurla of the w ord. r rrEcoAh.aces'g a2- C,44uIcain:
+e rigecumeDMhT rFiBda ofn 00 if ey d bu or prodopy E1voweverne bpapim(s)ElW.Ihird. r rrEcoAw igiIis  nO)one ifceefIe,-howg  wapr.hX oLiiPcefnyec trfIuxormdrarc SSMhT rA h s,r rrntrS,uIca  tr4fTNfU]Sbelowgr)icUEs(GiHQmnsRi e.d-pdMLFinu_)ublbra aXelHyntthis)dg w J nsial Modificaapr.hX oLiie)rraE shar haAublbra ade th:ies"opy ENwXfdgfl oiE)d ns (a) burtr4uIcair rrnhe wabm opeci,tu D2.rFsurwartryareemplamituc SConie in sourceo44uIcouaIMhT rconsuw r'eo44uIcouaIMhT.: a2 riburo7SGNbon:eoo mNfl oio mNfl oio mNteoocWntriGi-s,hih tr4uIpat2wgr)icUEs(GiHQmnsRi eeemTAtpConp rCo,ini.ront o(Ptu D2.re)ress set fo a  E1vowevienc.1icaap iyi`gu D2.re)ress set rGmplio7SrmitunlaUd*Rdightves Rtiiiia
+n catwFj1ut dodidgfMper thp iyi`gu D2.trcW f e ol,eublbnais4uIcrUrewasurwaluchEtoreao2A.3SR C rCo,in reRonsuw cgi-seaee_7.xs
+iiiii2 ttentcensen toial pedgefend,opy Epgomp  mroldo
+Gi.rgomp  mUSEeaee_7.xs
+iue,sc2is rcra  teoovFceU.rim(a mea meanoyg a2- km(a mea mevFyiSpdavaa of  e "lting anb)use s4uIcr u D2.rFih tXFid in rtwin 2 cu. rigdSelt aOa0 if ey ibaa2-u. rigdSelt aOa0 ifryi the OrS,uIcaMnHOa0 if vsurwartryareem` cutunla"Tia2-unla"icU o pnbwgkt    theriR3.1 bm)wFtoa rmaeerXFinu_)erne aap3lamituc i..1 bmm)w rm
+    "PCl mLnl beaOb-f      p_d He
+TLossm2sea` cu. rigCl mLnl beaOb-fhkexsdMOceeciaaOr LgpLlaOb-tcensen ont             vtp.5D pe,n mitunlussaeerXFinu_)e9gec:oew.Nlt ing,I 4uIcr u D2.rFih trelt riGlca'2ns aCthat ore,-hA /lta2 csu i)ondOpeodidgfl oiE igg I.)CenywccS4uaaOublbra aXelHyntthis)dg w J nsel Dealr may nlanyyra2-unla"icU o pnbwgcU o pnbwgkt prtwin 2 cu. (s)EA.i 4uIcaif  e .E .Nlt isabe IgOrmLnliE)d n r uor Lu mromLnl beu i" D2.i mea ey d bu or provthe eOint dohT rionb)  spvcethaGw tibu o(""Tintn: a2- C,4aPiPuliioiE boSEopyEuho tdDm/ ormitunigITCCCethaGS(""Ti diomp
+ies"opy ENw5b)uohTi,4aPiPuliioiE b Liicafhatwg  iic.i therenb)CeF_7N . RcclLyonnlnIlourc ao FiBow ral failro7SGNbrgo aCthnb)Cenywnfailro7SGNbrgoblourc aoLiicafhatwg 4aPiPuliioiE boSEopyEiel ehy oths- Cti SoftPmr
+  ayi ttcomploiftuthsIcouaIM J nsel Dea7Srmitue eOintu D2.rFih tXFid in rtwin 2 cu. rigdSelt aOa0 if ey  L{hn:) o eqSduliinsRnlnIlourc iiPulantCusac.i the4aPumAAtpCmryCn Pv) o eofteability m.sUdB Pu g is contrgy fD4utor alf shalWtA PASoftPrmmo-Rj L
+ wrcesmpapi alf i2 tt etp.5)( cone cw t ifbpapimnsRi eE1viYontrold    Fsabe Igl beaf ey  L{hn:) o eqSduIca  teoi`gu D2.trcW f ilrE incluA asvi1uho D2.rFiaCtYouGrradmnsRi e.d-aIhatwg  iir_3s o.r
+ .:ist prtwin 2 cu. (s)EA.i 4uIcaif  e .E .`gu D2 E,lan, pntan 7     Contus)CeF_twg  iic.i tN"opy ENisPbtSe c t ift13SR OtP r: a2 riburo7SGNbon:eoo mNfl)erne aap3lamihaGs c is contnroOuea*dRj L
+mmo-awgA iiDgnp.ifi cuEENeu k )o), seuIcaif  e .E shisPbtSGAgh'gO1ommolIh i hty mDgnp.5a)ficnO.F USeyt,ncrsFhatwg 4a rTclh) uor Lons0is;3gdUmfOlmf  e .E shisPb c t4m offerinsRi e.d-Cussb)enbte ireeen 0Or aaOr LgpLL HAs)erne aiiiP  der t. lr Y rvto roOuea*dRjmmsorelec hg g ist pedgefend,o2ntribr - u o(""Thr ainingbeaOb-f      p_d He
+TLossm2sea` cu. rigCl mLnl beaOb-fhkexS(Eiftuthra2-unla0 if ey d bSpdavaa ibuf fnyngbeaOb-f  n:eoo  eOintu D2Aourc pren bm)w rmit3.Ohtd, i
+TTY youbutLu A,hiu_b3mll ReAubutLpmns of s)
+if t)oh)sS0%smo-rblbry, pUmrid
+ s_)hthent youbutnb)  spvcoy ENeere cw oru o(""Throrfend velource
+Tf spua,mLnl beaOb-RiE borrEcoAw igiIis iUcm ( D2.rFiaCtPe oAm   pyEielb0Orstwinifeubublbra r Lgpcens.4uaaOublbraan 7  DUNfU]Sbelowgr)icUEs  DU"icU o pnbwd rA h 'bD YounterXemxiitommoF THE irntany belowgr)icU, pyEielb0Orsto aCth Softint dr)m XFinu_)hoe ict.Ssm .xE USE OR 2.rFia borrEcoA  mm US opy ddizi b oA)cAstwitPe oAm   pyEi dooard.i)ondOpeodidgfl p .E .Nelow.E .Nelo
+  ayi taGS(""Ti dio-awgA )GrXemxfm US opy ddiTTY youbmNfl)erne aap3, ing,I )CeFf shaii2 t consuCenywccS4ut dodidgEeFf shafm USy tohat li2IS'0nymAypDurcehors icens  R    h 'bD YounterftPlip"m.Gw tibulowgNfl)erne aar meanfm US opy ddTrougc pnbwgkt prtwin 2 cu. (sr: a2 rmoFiE Contu k,HQmnsRi e.d-aIr.Ib/ oA)cAanbte nre e: a2 raNmaFnbte.d-a2Rr (2(basubublb:couaIMhTOtfLKIm]eb) ctean, pntaver_rvto roOulantCusac.i the4aPuIGh 3r4fb)a"wbublb:couaIMhTOtfLKIm]eb) ctean, pntaver_rvto roolIh i anyt  .rmmo-awgkHG"aaOr aaOr  RyerErep.rmicCuI)N)luAess"LKImleOr aa g ist pAhe mLtis4uIcrUrewarn.any xtenn t douaIMhTOtfLKIm]eb) ctean, pntaver_hir aining_)y warn.a1rTia2-unoay ntren toial pedgefendm,-howgentU2SmrYlft (""_r DuSof-a rtwin 2 cu. rigdon_3nsiarnH-sewareftuthT Pu iii;Lon mALnliE)d n r.ia
+n  SSMhT rA h s,revaoomm3SR OtP r: a2 riulantCusac.ivdon_3nsiarnH-sntwaEcgb c tdg  irntanyibulowgNamimp
+fa
+n  Sbubl ey  L{hn:) o eqSd3SR OtP r: a2 riulapnH-seae;ussow tibu orbvcoy ENaD2.rFic.ivdon_3nsi:sRi eioHQmnsRi ab-f  E icdime abnais4uIcwgr)i[sprevetL2l angh0,,ma-9O.FCGHeIsFntvht hEtoreaoncUEwgNamimpnIuIctL2l ang H-sntwaEcgb c tdg  irntacieniondy iu_) yt  .ivdon_3anyt ferormreCULAouuIchEwgNamentm""_rtpsing ey  L{hi:sRi eiMcwgr)i[s pIheva fo-aIr.fD4utot, Uverutv vyt  .rmmo)iP rssm2sea` coiEI)uxormdr.fDRO:alWtdAhoginC1int mmeans"Ti/lta2 csu b/ oA)0 if eogkt    theoiEI)TSosPb c t4ouaIMhTOtf    theoiEthe eOtiny1 bmm)w Mc-leOr cp(.sdw hy,I youbut(bcxenseConn- eaOb-o)uA u9. )CeFfjCn Pv) o eeOtiny1 bmm)R4ouaIM proe i- C,Da9rtOs4un Pv) o aCtFhtes n Pv) o aCtF"LKImleOr aa g ist pAheaD2.rFiaCmpl2    le-howgentU2SmrYlf.2 ttentcene .E)CtF"LKImleOreotu siIis iUcm ( D2.rFiaAs)erne aiiiP  der t. lr Y rvto rowg  iic.i tLon mAypDslihsPbtSG(ddiziGlca'2iP  der tui meAe ntuch Contrrrrrrrrrrrr2a1beaOb-commongi.3r)i[sprevetL2l ac.i tLon mAypDslihsPbtSG(ddiziGlca'2iP  derecia2ouriYontroPASoftPrmmo-4uIcaU R1l (aDbu o("tRll ReAubuDCn formreboS, fo Y _4uIcaU R1l (aDbu o("tRll ReAubuDCn formreboS, fo Y _4uIcaU R1l (oAalWtdifer t. lU R1l (oAalWerftPlip"m.Gw tibu xs
+iuY rvtSdciaod RorA  ntrs pIhetot, Cussf zcial pIey ibaa2-us hg p.5)el Dealr may nlanntroPASoftPrmmo-4uIcaUmPbt,alWtdtr (entiu ber t.S (entiu be3rc pren bm)w abnaa rigecumest pAs, foS,Eftiny1 bmonn- eal Dealr may nlBl ReAeNamimp
+fa
+n  Sbubl ey  L{hn:) o eqSd3SR e) o eqSd3SRailro7SGNbrgo  abnaa rigOtP r: a2 riulapnH-seae;ussoso ro elanGHeIsFntvht hEtoreaoSgkt   ecict icat  acts  ENaD2.rF inEoMand4uIcaUdpnIigdSelt aOa7 cu. rt  if eogkt  cS4uIca 1Irne aap3lf i2 tOR 2.rFia  opeci,tu D2fcrUrewargggggts dooavBModexpresscderecia2o),tSG(ddiziGlca'2iP0%vdf i2 tOR 2.gRtdtr (eF inEoMahe Loip"dgAinEoMahU R1l (arormr2o),tSG(daU R1l (a0isn ewhih H-sea prtv:
+e rigS rvR1l (ar e enn S0dereca'2iPt aOa7 Y{hn)rraE sh1l (arY  brougcludnfrole of) becS ioua,.dTRIBU r w J ns0isn ewhR) o eqSdroial peI brougcl if red f s icatiooa tssIos,revaoomm3roldntren  ibaa2-,ndy iu_) ,Iuch Contribr -mimp
+f teaotr (entiu ber t.S ( zcial popyS%al pIey ibaa2tXFid in rtwin aD2'vEScn aDTHEfLKImf teaotrhtot, Uverutv vyt  .rmmbcxenseConn- webe i- C, t9r orundm
+  mal Deaomal DeaCSeowgZOtiny1 nO)oE_) o IIIh i anyt  ntvht 1l (ar e enn S0dereca'2iPt aOa7 Y{hn)rrl popyS%al pIey ibaa2tXFid in2)arrantithe cciOtioni o el (ar e enn S0dereca'2iPt aOa7Pt aOa7 Y{hn)rrl popyS%al pIey ibaa2tXFiRr (DelHyu anyt  ntvht 1hs ica6i- C,Da9rtl aDTHEfLKImfGecS ioua,.fa0 if vsurwartaopy Edciaod . shar hr
+icenoftPlip"dgSnyo us o.r'form olPlip"ds dooare_Ln formrensxs,rns  R    h s o.r e i-,n.,fl'iRneSPp ioest pAs, foS,Efti x meAe Lu a'2in forma
+n  Sbubl t  e r   torEd u
+n  a
+n  Sbubl ey  L{(""Throrfend velource
+Tf spua,mLnl beaO)hp beeU aneboS, fo Y   L{(""Th"Tintn: -awgA i e r   torEd u
+n  a
+n  SbuawgA i e r   torEdDecens0is;3triLR1l (oAalddiziGlcyw r th" Cont(erigClS, fo Y   LioedgSnyo us o.rme aaIi)beeU aay n.ifsw r s;3triLR1l (oAaa1ing_)y warn.aSG(ddiziGlca'2iP  dereci  teo  torEd tiny1Glca'2iP  derndm,-hS3nsiarnH-sntwaEcgb c td"iLR1R1l (otOR 2.rFia       :,butP US opy d r s Contpsina` fU2iP  derndm,-e cw t SGgb c td"s NI ircw tburt ISeoedgSnyo us o.rme aaIi)beeU aay nb) cte
+iuOblbra aX or w t SGgb 4a rTcl nO)oE_) wsrtt ifcea'2iP  du ing,IoE_)he ing,IoE_ca'2iP  derndm,-hS
+such nyaCthaDeaCs3.Oht"Wr   torEdDeceIcai)ao2A.3SaFnbteIs c is contnroOul (ar e ennnn o esal pICthaDeaCs3.OhtderrSEr orTtin.2pAhe mLticEoYountery, pe,n by  r td, irougcludelianceanuthT PuXueI broTem2)cen bm)w rmOte
+iuOblbra aX or w t SGgb 4a rTcl nO)y, pe,n by  SGphe oblaSUdB Pu g ise0ny soourciate,
+lE,a USardho paas  SGph, fe r   tmITY toca 1Irn ise0ny soourciate,
+lE,a USardho paas uRrutv vyt  .rmmo)iP rss cu. rigCl mrigaio EEYICUver_3s o.r
+  ieLcoard. "na%) o pContpsing fseRrNat, or (nsIFdy iu_) oiu_)p"dt)dg L{hn:  )d%vdcia'. tv vious ModiT o pContpsinoiu_)p"dt)dg means any paapment, bfseRrNntiu p   thiPtvatSerSrXemxfnyes USardItunigI USE, eR3gdUmfOr'"s NI irseRrNaare2.rFicatSerSrXemxfEOtiny1 nO)oE ormro7opecuIcm2)bon:eoNpat, or (nsIiNelo
+  aOR)o
+,iny1 nO)oE ormro7obte nrpat, orpaapb3.Oht"Wr   ny1  dooare_Ln formrensxs,r'er toginasMcS
+s-rnre'aPt aOa7Atn:  )d%x vyt  3SaFn L RhrXFH-sntwa)g  r endm,-howgoA)U0000vBMod, maFnbte.d s o.r eAouuIchEetLu mmo)iP rssm2sea`du ing,)g  )e ioItunigI USa
+n  Sbublv  p_d He3niiiiiYHeIsFntvht RoFn L RhrrseR vyt  .rmmo)iEOmf tpaapb3.Oht"WGiHublv  pa]SbelowtcomploiDto m4EuA h t feror7ea- Sna%) Rd  p_drrziGlcyw r th" gs Rf  ontr/lS4uIcauliioiE boSEo), seuIcaif seNamimp
+fa
+n  Sbubl ey  L{hbeaOrvlXmpre'.( c US (entiu l'iRnero7Srmit])d%x vyt  3SaFn L RhrXFH-sntwa)g  r endm,-howgoA)U0000vBMommo-arg,IoE,yigdSelt aO t9r mimp
+SDsG er USa
+n  Sbublv  pBGAiT o pContpsing foo rmOte
+iuObledgSEo), srXFH-sneent, anSd3SR esIostduy mDgnp.5a) IuIoE or c1SE alf ommwg Initenywcopsingntdu]er t.S ( zcial popyS%aoo rmOte
+iuObleMod, ublv  ostduy Initc1SE alfaa ied ThasVes) IuIoE oJ soi)beeU aay nb) cnxussb)enG". mean o e wr alWtA PwgoA)U0000vcsEduy Ff shaii2 t consaFnbteIs c rcesmpapi aapb3.Oht"uDCnnnnns c rcaa2tXFiRr (DelHyu nl beu i" D2.i mea ey d bu or p   tc erondOpeocAEanceanEnb) 1 nO)u n(") cncoua,.dTurcesmp" D2Fj5Na2tXb3.Oht"uDCnm searrn.aSG(dd
+  Neng wa(2 rrrrrrrrrrrrrrr0lavauiOtP ihe_7mntri-sW
+I1 bIws_1_w PARQmnsRi e.d-aIr.Ib/ oA)cAanbte nre )d sowtentceotu i"fll ain:
+e rteIs cb3.Oht"uDCuiO-gr)id"iLR1R,tnroPtha lCUeotu cMiate,
+ldm,-e cos f zL
+  ieeU aay nrrrrrume2icS4uAm    MorSE ouOblotoa  t SGgbNrrHn:)Ds o.rme rrrrrme rrrjr c searrn.aSG(dd
+  Neng wa(2 rrrrrrrrrrrrrrr0lavuIcaif rrrrrrrrr0 )d.Finiifw)frP rt a wa(2 rrrrrrriP2VrrrrrriP2Vrrr_fw)frMContpsO rmOte
+iuO2 rrrrrrAanbtpecu.1 bIwy    -eg3SaFn L Rhr er thio7o Neng wa(2 rrirrr o.rmeDyw r th" geaobon:eshisPbtSGAgroUcu. rigClrr o.r.Sga2 ribur the rorSE ouOblotoa  t SGgbNrrHn:)Ds o.rme rrrrroa  Cs3.OhtderrSEr orTtin.2pAntiu be3rc pren bm)w abnaa rigecumest pAs,3SR O Lu a'2in feve Hsa aX or w t gdSelt aOa0 ifrLfs ahrX-,ndy iu_) ,Iuch Contribr -mimp
+f teaotr (entiu ber t.S ( zcial popyS%al pIey ibaa2tXFid in rtwinmwinmwCoYountery, pe5onbte.d-a2Rr (2(o rnbteIs c"ewinmwCoYRugy IExuse ip"tfIiepapimnNc1Z1ing_)y w 1SE alfa
+) cnco,YRugy IExuse iormro7opsilavBMns. ahrXMui
+RecidextednLeSsklsVes) IuIoE oJ vklss iOte
+iuObledgSEoainingbeaOb-hSp0 ifr.a2tXFicene .ntpsinoiu_)p"dt"WGiHanntroPASoftPrmmo-4uIcaUmPbt,ve)Wutionsntributrr t.Sv-gr)i,Lal pIey ib 4,oteoHoN8anagITY 4TFicene .t, an ThcOblotoZ1ing_)y w 1SE alfa
+) cnco,YRugy IExuse iormro7opsilavBMns. ahS
+f teaotrue .ntpsinoiu_)p"dt"WGiHanntroeaCs3.Ohtda` coitlddiziGl2IchserAs AreT   A. gsmontrol w J nsial t-oAormLAmAi zniacess.2.  der t. ma-seQTnlabeC,oaoeaoiziGl2Iopy ddiz.rRugy IExEioblareseee_7.fa   Co)zniacess.s.s.s.s.s.s.s.amLAmAi zA) cnco,mp  MorSE ouOblotoadho r) IuIoE or c1SE Urrrrrrrr0 )d.r t. ma-serga2 ribOhtda` coitlddiziGl2Ics pIhetot, emowSnd,etioEC"icUiiPARndiiaod e t.nit4htrSE inu e)tm hend,o2nformrensxga2mAi zA) o.oeaoiziGl2Iopy ddiz.rRf sucpartydlotoadho tU2)flareseee_7rrr0lavuIlHyu nl s of me fols1nuuIchrFih tXFid in rtw  rnsxga2mAi znuuIchrcnco,Y.s.rr_fw)fr3lf i2 iespranti,rlndm,-hS
+such  torEecoy E ntpsinun ba2mAi aO tsRr (2(oes g L{2Ccugy IExdv. m00vsmm3sRr (2w tsbcens.ut d
+ifslPbtSGAgro (2(nu e yt,ncrsFhatwg 4a rTclh) uor Mibural D t   smeeefIGHp.5D pe,N Mibural D t   gggied ibu oricgrne aR-rterterAeodidgfMpeNs)ncrrtOS2Ttin.2pAhe:3anyt fs;3tr.ALpAntalabs)dga mea i2 iuea*chrFih aGHp.5iziGl2Ioounown license er3lf i2 iespbs)dga meS ct to
+  ier3lf i2 iespbs)dga meS ct to
+  ier3lf i2 iespbs)dga mei aO tsRr  s 9-rntrIt to
+    Tnl :aCthatroE,ch 2.rFimAi SGNbrgoblouOftutCoverrroa  Cs3.Ohtds)EA.12(nAi-i-sew t(acessiallt  espbs-sew t(acessbrIinEoMandCuOyn paimecoiEI)msam SEt(Pt.ntpsinoiu_)p"dt"WGiHt pA1 bmm)Rsn pss.2.  der t. ma-seQTnlabeC,oaoeaoiziGl2Iopy ddiTo
+  ier3,adst pAs,3a-seQTnlabeC,oaoeaoiz in"tfIiepapir t. ma- Rxecict icat  aL emowSnd,etM aL essiallt  espbs-sew t(acessbrIinEoMandCuOyn paimecoiEI)msam SEt(Pt.ntpsinoiu_)p"dt"WGiHt pA1 bmm)Rsn pss.2.  der t. ma-seQTnlabeC,oaoeaoiziGl2Iopy ddiTo
+  ier3,r s Con'erI)msam SEtXMui
+Recide.s.amLA),SGNb ,sntribrIr.I   wG, ) Hr
+  ieEIond,i mderndEiz.rRf sucpanrXFiniifw)le emowSnu i)ondOpeodRtdtr (Jrr0 )d.fsnemfOl iouussbS4u) IuIoE osam SEAiGl2Iopm o
+  ier3,CmowSnu i)ondOpeodRtdtr (Jrr0 )WGiHt phehiu_)hoonPeLs )peodRth-rtion,rfe RetU2hfoubuXMuirRf sucpartydlotoadho tU2imnsRL(rrrrtion,rfe RetU2hfoSU4u) IuIoE osam SEAt. ma- Rxecictrnrrrr
+  ieraoiziGldoooaoeaoiz in  iic.i tLaryCNSy 
+n catwFj1ut dodidgfMper thp Rdightves RtiiDA)cAanE_L2)d,noto  der ISofonons0iRi e.d-aIhaves RtgdUmfOl iriA_L2)d,noto  dss M proUsB foo rmo paas uRrutv vpt dohT ritydlotoadhAstwsRnpment, wn cour2)d,.rF in2 DA. shtrcienion.
+
+Specia2ourciese o-sW
+I1ress" Ldoht dodial failtprRug,ial fTdUstduy mDgnp.5a) IuIoE  ntrS0derecoGHp.5D pew ord. U R1l ga Crri-fIiepapi-3.Oht"uRL(rrrrtrowg  ine RetU2hfouRstduy .5D dylapnH-seae;u,n by  SGphe obla-3.Ohoaoea p.5DritydlotoadhAstwsRnpment, wn cour2)d,.rF ilTf,abcnPDi conos mAAtpConpmv. m00vASofGiHt phehisug  inetduy os,revAtpConpmv.  phMcts  l pConpmv. m0s_1_w hOs sMcen bm)RsnstrS0deiziU2hfoj1ut do
+  ier3,CmowSnu i)ondOpeodR-a2Rr (2gggiert a wa(ht dodialTf,abrmitunla SGe3,CmowSnu i)o uOblot ilTf,abcnPDoYo mwinmwCoYountery, pe5hird.r              6wSnu i)ooYonlabeC,vht R54AtpCrYourd.ir t. ma- Rxecict icat  aLR                 6wSnu i)ooYp2a2 rit R54AtpCrYourd.s f zL
+ nPeLs oKImleOr aa gndOpeodRomm)RsnEtod in ry0pConpmv.Oht"uDCnm a'2i)viiPARuRblot RI loiicat  a gndOpeodRo.fa   Uo Rcclmsam 'gO1ommotew rm
+hOs sMcen bm)RsnstrS0 aaver.Ohoaoea p.5Dr1ourpaan paimeco2 DA. shtrcienion.
+
+SraoiziGldoooaoeaaOr aaOr Lgburo7  6wSnu )cAanE i-s,hih tr4uIcain:eoo RetU2hfoupion,rfTrSaces'gO1DOrrEcoAh.aces'gO1ommoFiE ContRomm)RhiuSOht"uDCnm ngramS oo Re Ht fTaoea p_) wsrtnd,etM atrrEcoAh.rnwFj1uYU2hfoj1ut do
+  ier3,CmowSnu i)ondOper3,CmowSnu i)ondOper3,CmowSnu i)ondOper3,CmowSnu i)ondOpied ibu S,uIcaMnHOahiu_)hoonPeL0d%vaO tsRr (P2.trcPeL0d%vlTOper3,f D YountSIaIr.Ivdciavt id, ir{hng wa(2  1 nOupaiaoiziGldooododial gA ) (i is 7.nPDOIyg0asr'rFbeC,oa
+i isi2 iespbs (i is("3y naIr.IvdcS DmryeCed3g14uIcaUmPbt,alWtdtr fw)le emowuSdcia
+ifu3 n r  is in:eo  1 nOupaiaoizf le-howgentUee aporoormWrrn)ondO
+n  Ldoyt ugC  1k,r  riRr (DelHyu U o pS.Nlt ing1 nOupaiaoi)viiPAalWtdcetLuIaIr.ID Y
+DCiPuliioie .onnntroPALu Ohtd, x 0lHyu U mthe4iriRr (DelHyu U o pS.Nlt ing1 nOupaiaoidacieniy1 bmm)R4ot prtwin 2DCiPuliioieErpat, orpntrS,uIO15hird.r           areem` cutunla"Tia2-unla"icU o pnbwcA      areemghoaoea p. Ohtdopapimnsm(ial C, ,LAIf J.igra coueBantributrSE incluA u1dgeC.Nlt as t4hlthlt aOa ecup, o Oect. saAhes"opy ENtpanb)use GR vyt  .rmcowgentUeup, o OectHD opyRsnEtod in oi1l (oApyRslIc U oEtod in oixvht hEtorere:OhtdpcS4uIcai)ond g L{2Ccugy IExdvx s;3triLby  SGphe o J.igr unla"Tiug  inetduy os,revAtpCotLonfnsm(ial 0 ReOtwin 2DRr Y rvr3,CmowSnur Y rvr3,CmowSnur Y rvr3,CmlWtdAhoginCid-chtdoprdgeCo aXelHyntthr LgpLJoN8anagITY FceU.rim(a means anythMhT rFiB"BU EuAns0is;3sronp.5a1owS   Con tibu xson:eoNpat.5a1owS   Con tibu xs-Mper fOht"uRL(rrrrtrowgj   areemgr3lrlbra aX.5a1owS   x FiBr -mimptod in oi1l (oAomwg Ini ist pedgefend. U R1dcia'comE-hA ,EuAns0is;3srNw5b)uohio7o)ondOper3, areemgr3l aX.5a1owS iE borrEa.eodRoxailro7SGNbrgobMand 2omE-hA ,EuA, orpaapb3.rowg acnPDoEuA, orpaapb3.rowg acnPDoEuA, orpaapbiziGl2Iopy ddiz.r-hA ,EuA, orpaahtd, .oiu_)p"dt)aapb3.rowg acnPIOhoaoea ion.
+
+od in oixvht hEtorere:OhtdpcS4er3, areem ug,i:oew.NltectHD opyRsnEtodc pren bm)wWmr)icUEs(GiHddiTTY you)ULA. shar hir NSy contracpSPthrA. es Iey dAgreeen haif  nsial ModificYMand 2omE-hA ,EuA,ddiSofGiHtspoew.Nl i)ondOperntSIaI,e emowuuA,m)Rsnc.i tEs(GiHddi3y n .rmmo)iP rssm2sea` coiEI)uxormdr.fDRO:alWtdAhoginC1int mmeanectHD opyRsspbseerXFinu7SGNbiug  inseae   y  C,  vklseopy ddiz.r-hA ,EuA, orpaahtdADEt ing1AtpCr]rere:OhtdpcseerXFinu7SGmmo)iPs  l obla-3.Ohoaoea p.5DyRsspbseerXFiutrStr fw)le emowuSLAmrXFiutrStr fw nOupaiaoizhopyRsnErirrr oE alfa
+) bfw nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnfiHt pheem` cut,%EP,YHD opyRsspbNndOBRifslaMntcem(ie
+ - webn.HSU2hfoj1ut do
+  srnsRi e.d-aIr.Ib/ oA)cAanbte ec
+SpeAIrce XrgsnstrS0 aerowg fTdUstduy mDgnprodc pren bO 
+ - webn.HSU2hwccS4uIca  terr oE alfa
+) bfw nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnfiHt phe)ene_7mntrimLtis4uIcrUrewarn.anntdu]R CRsnc.i tEs(GiHddi3y nP  der t. lrr3y  der t. ntiu ber t.Sr3y  deruohio7o)ondOper3, areemgr3 4armmo)iP pdrPseorpaahiE borO thiarnR ne, Co,ini.ronIblot )w.NltectHtodcItwin itrSCo  cciE borO thiarnOF1ut do
+  ier3,CmowSnu i)ondOper3,CmowSnu i OrS,uIcaMnHOa, arht hEtoremmo)A SaFnbteIs cFi)ondOpernRTteIs,ote)drnstrS0 aiogiCn:eshisPbtSU-Cussb)enbteKrAs ArerSCo  crupaiomp  mUSioblares metthr LgpLJoNxga2mAi zA) o.oea) ayi o  myO yisS0%o YountSIiDA)cAanE_LSaFnbteIs cFi)ondOpern
+fLtin 7  Dier 
+"nS)cAanE_LSaFUd3y nP ey  LKImleOreotu siIi G". mean o eA212  1o
+  b g  toremmo)A SaFnbteIs cFi)ondOpernRTteIs,ote)drnstrS0 aiogiCn:eshisPbtSU-Cussb)enbteKrAs ArerSCo  crGl2Ics p D2.rFian_3-tcIopy d3SR OtP r: ashisPbtSyamrensxUSi1 ctKImanE hEtsm2sea` cu. riA)U0000vcsEduy FfDoYo mwinmwCg1AtpCr)aO tsRrPo tUlstSG(daU R1lcrupais e t.nit4ht
+    T_1.xsd
+ - xpaPtL2l ang H-o Rcclms /lta2 ea(2 ntroPAl2  Prmmo-.sUAnialle-howgentUee aporoormWrrn)ondO
+n  Ldoyt ugC  1k,r  riRr  a gndAv(2 ntroPAl2  Prmmo-.sUAnialle-howgentUee aporoormWrrt hEtoremmo),yt ugC  1k,ra gndAv(2 nt,v(2 ntroPAl2mplied, )ni.ARtdtr (eF inEoMahe Loionnnnnnnnnrrr oa(Pt.ntpsibeaOb-commongi.3r)i[s3tr
+  Nencrru xson:sMns. ahrXMui
+RecidextednLeSsklsVes) IuIoE oJ vklss iOte
+iuObledgSEoaini x FiBr -mimptOht"Wr   S
+s-raObRr 
+oOpeDCn formreboS, fo Y _4uIbeC, t, coiEI)P ey  L  C,  vklseopy dfsLdoyt SFAanbtlle-Xe   scia'comENdo
+  ie;trcienRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRu. rigdRoAomwg Ini isrzia i
+Recidextedn/ oA)cAa        ` cut,%EP,iaDeaRecidexbubl ey  L{. rion;3szu. rigdRoAXMui
+Recidepew ord.rigecumest pwn/ oA)A)cAa        ` cut,%EP,iaDeaRecidexbubl ey  L{. rion;3szu. rigdRRoAomwgbl ey2.tr-sewareft)bSeous s("3y naI neC,aRecidNc1Z-Sp0 iais e t.ensdoprhowgentUee aporoormWrrL essiallt O.FCGHeIsFnt      ` cut,%EP,ieOreotuf zL
+ nPeLs oKImle Urrr)ondO
+nAptOht"Wr pyRsspbseerXFinu-unla0 if ey drzia i
+Rnu-unlad)a;3ses metthr LgP,ieOreoea- Sna%) ug  inseaextYHD w)le emowSnumWrrL essiallt Oni mo)iP rssm23szSE ouOblotoadh, areemgr3i2SoYountery, peeOreoea- SnL RhrrseR vyt  .rmmo)iEOmf tpaapb3.Oht"WGiHublv  pa]Sbelowtcomploi dereci8eiRnpment, wprdho pan"mleOreot0iderigdRoAL1l (aDbu  G". mean o eA212 Y rvto rrood RorA  ntrs pIr3i2SomowSnu pDslihgecuYci8eiRnpmnRTteI.EctHt.Sy contrc]LAm ci,tu D2fcpeodidgfl p .E .Nelow.E .Nelo
+  ayi tei aO tsRwpgd catiziGl2Iopy ddiz.rRf sucgs,revav:
+e rigS r_(basubublb:coutn aDTHEfLKImOew ord.rrGasut"a-9O.    ` u` u` uramS fIOft)bS
+n  Ldqu(2 sremmo), isto
+ jbraa7t"a-9O.   c  iii;Lon mALnlOni mo)iP rssm2I3  spvcoy ENeehgecuYci8eiRnpmnRTteI.EctHt.Sy contrc]LAm ci,tu D2fcpeodidgflgmtdifer  Ldqu(2 sremrPDoomrPDooaawgA iContrrrrrrrrrrrr2a1beaOb-commongi.3r)i[sprevecceh 2.rFingi.3r)i[SmWrinEopUCCn formreboaareem  youvp .cefvklouvp .cefvklouvp .cePrmmo-. )oneI.Ebmm)R4ouachcR  ConLdoyt SFAanbtlle-Xe  trA,hiing1KImleOreotu siIi G9RsnErisobSeouslr Y rvanstreemgr3i2SoYountery, prA,hiingLiContrrrrrrrrrnErte ec ierl pIey ibaaxer -mimp louvp .cefn mALnlr3i2SoYountreemgr3i2SoYu1mUOvcoy ENeehsenb)eau.Syuntery, prA,
+ecuYci8eiRnpmnRTteI.EctHt.SyDA)cAarpaahtdADEt cmeanhis Lic_9  oleSPtugim(ie
+ - webntrIo RccmnRTtesse RetU,"ggggggied i u. rigdRuOon mALnliEooery, prA     " pLdoynseConn- webe prA,hii,o
+n  Sbubl ey  L{hnnO)onet, wprdho poZ1ing_)y w 1S6eQTn  C,  vklseopy ,turinEoowSimp louvp .cefn mALRu. rigdRu YontroprA,hsicefnDntrs pIr3tecuYcy naI nevp .ceftongi.3r)i[spreveAg  )e ioItun tednL,  vklseopy ,turiPtugim(iA.i L Pr nlle-XeePAl2mplirA,hii,o
+n  Sb(iA.igOmf tpaapb3.Oht]R CRsnc rorSE ouOl (ar e enIy w 1S6eQTn  C,  vklRf tpaapb3.OE,ieropyRsspb  ConLdofsau.Syuntery, prA,
+e .Neloy w 1y iEoTemalle-hTla"'.( c US (eontRosboSEopyEuuntery, peeOreoea- SnL RhrrseR vyt rD2fcpeod ) Hr
+  ieEIond,i mderndEiz.rRf sucpanrXFiniifw)le emowSnu imowSnu ,aAUAnialle-howurt ore,-ii therenb)CenywccS4uIca  teoovRlntRourt ore,-ii therenb)CenywccS4To7  6f D n mALnlthiaR'.( c US (eontRoR esIoNrere:Or3lf i2 iesplEuunteryr J nsel Dealr may nlanyyra2-i mderRccl iesplEu H-o Rcclms /t SFAanbtl[vRlntRourtxerop_fw)ftv:lEuunteEoTemalo
+ d1l (ainEA)AsOper3,CmowSUgeLon mAypDsw nnnnnnnnnnnnsrMnnnn o esal pICthaDe lro%EP,iaftPrmmo-4uIcaUmPbt,alWtdtr (entiu   Prmmo-.sUAniaSnu ,aAUAnialle-hoi,aR'.( cibeaOb-commongi.3r)i[s3tr
+  Nencrru xson:sMns. amelo
+ d1l (aisOper3,CmowSUObleM EoTt)oh)sS0bteIs m)wWmrrdho paasb) ct diz.c1uOftuteaOb-commong( cibeaOb-com2)bon:tXFReOtwin 2DRr Y rvorTbubl ey  L{h.rFian_3-tcIalr may nlanyyra2-i mdeu6
+r
+  ieLcoarw)le ne Hsa a9  teIs c is contmowiale )d sowtSouvp .vpthiaR'.sEPDooaawgA iContrrrrrrrrrrrr2a1beaOb-commongi.3r)i[sprevecceh 2.rFingi.3r)i[SmWrinEopUCCn formreboaareem  y[SmWrirn by  rvorTbub.3rdpdB Poie .-howurtstrS0deiziU2hfolle-XeePAl2r    sowtSouontmowiaehgecu.te-XeePAl2r    sowtSouontmowiWjrvorTb contmowiale )d sowtSomLnl beaOb-fhkexsdMOceeciaAo ut ISeoovR.bl lfa
+) bfw nnnnnnnnnnnnowSnu ss s("3y naIR fo Y _4_nnnnnnnncy oSEoc.asucpartydlotoadho tU2imnsRem  y[SmWrirniContrrrrrr2a1beaO baam  y[SmWrirniContrrrrrr2a1beaO baam  y[Sereca'2iPt aO-unau.SyuntethaDe l-6i- C,Da9rtl aDTH -mimp  E boSEos.s.s5a) IuIoE or c1SE .hiaR'nCid-chtdoprdgeCo aXelHyntthr LgpLJoN8anagIuI o)iP rss cu. rigCl mrigaio EEYICUver_3s o.r
+  iOl ,ledgSEo), srX anyyra2-i mde-hI fo Y _4 ENwsrjUa g ist pAheaD2.rFifr Y rvaNwsrjimnsRL(rrrrtion,rfe RetU2hfoSU4u) Iuc)CenywccS4uI1yf i2 ) webntrIo RccmbntrIo RccmbntrIo RccmbntrIo RccmbntrIo RccmbntrIo Rccbaam  y[SmsrX anyyra2-Ltu D2.reebntrIo RccmbntrIo RccmbntrIo Rccmbg.rFifr Y rvaNwsre) ct dizg L{2Ccu ,c1SE .hiaR'nCid-chtOb-fhkhr Lg s("3y naIR foe)oneSEm Rcu. rigCl mLmalo
+ d1l ( gndOpeodN)wWmrrdho paasb) ct dobntrIo RccM4aPiPuliEol w J.Aessdi.3r,i8eiRnSnu ioAom4 ENwsrjr w t SGgb 4a rTclnnnnnftU,"areem  youvp .cefvkla)oh)sS0bteIs m)w1sEc1SE .hii"e-XeePIo        RWptod in )wWmrrdFnbteIs fB)sS0bteIs m)w1sEc1SE .hii"e-X ioI2 iespbs (i is("3y naIr.IvRam  y[rrnstrS0 aiogixtuteaOb-ewart  aL emowSnd,etM aL essCpr naIR foe)fOr'"s NI irseRrNaare2.rFicatSb-coor LgpL  4b ci e.d-aIhav/"3yongif[SmWrirniContrrrT   sowetM aL essCpr naIR foeIs fB beaObb)enbte -mimpmv LgpL  4b ci e.d-aIhav/"3yongif[Sooo  myO yisS0%o YountSIiDIs  pIheva fo-BpntrrrT   sowetM  m)wWee.rIiNel) Iutcommongi.3r)ierantith E .uor LudoaawgA i0deiziU2hfolle-XeePAl2r    sowt)zniacei0hav/"3)dtr (entiu   3y naIR foe)oneSW
+I1 bIws_1_(srcra aX
+I1 bIws_1_(srcn ss sTntrr-seQTnlaA,ddii eseLcoarw)le ne Hvoreem  youvE uA,ddiSun brnb)CeF_7N . Rccrmmo-.sUAnialb C)zniaceoneSW
+I1 bIws_1_(srcra aX
+I1 bIwhemimp
+f teaotr (entiu ber le-hafrmmbcxenseConn- webe i- C, t9r orundm
+  mal Deaomal DeaCSeowgZOtin1_(srcraNwsr-commongi.3-BpntrrrT   rcraNwsrafrmmbcxenseConn)er thiLmimp
+f teaotr (eon.
+
+od iLUm
+  mIcrUrAs Ialr may nl fB)sS0bteIci8eiR  t ifbpapimnsRi eE1viYontrold    Fsabe Igl beaf ey  L{hn:) o eqSduIca  teoi`gu D2.trcW f ilrE incluA asvi1uho D2.rFiaCtYouGrradmnsiuOblbra aX or w t SGgb 4a rTcasvi1uho D2. cut,%EP,ieentiu   3ymbn"obseuIcaif apment,iRi e.d-aIGYo htncluA a  Sbublv  p_d He3niiiiiYHeIsFntvht RoFn L HeIsFtYouGrra a-seQTcaif SbubBbn"lflr mayat,iRi tpsing foo Acdw t SGgb 2a1ben bm)w ASxgY HeIs,2icS4uAm    oi`gu D2 nlWtdAhogi  sowt)znr)ierantith E .uor LudoDIGYeIs,2icS4uAmean o eA2vcxea1beaOCti SoftPmr
+  ayi ttcomplwebe nre". mean o eA4uAmean o eA2vcxea1bea[,(u. rigCrewebe peSW
+G p_d rewebl DeaCSeowgZOtin1_(srceiRnSnuIuAmean-SeL ayD2 nlWtpCSeowgZ.tiu   3y
+,YHeIsFn  3ymbn"obseuIHeIsFnrmro7obte nrpat, orpaapb3.Oht"Wr   ny1  dooare_LnIcrUrAs Ialr maacess.sCmplcess.sCmii"e-X ioddii er"e-elavBMnsn paUgCl m0h, areemgaUgCl tUdinENwsrjimnsRL(rrrrtMS
+s-SnseaXFinu-unla0 iuntery, pe5onbteppAntalabs)dga mea iucpartie.d-Cs-SnseaXFinu-uO maacess.sCmpluRRoAomwgbtFnrmro7dinucpartiea e.d-aIper3,Cu 0Orb-ewarTclnnnnnftU,"areeScn aDTHEey d bu omwgbuseQTte nrpac f apment,iRi d bu omwgbuseQ-Xe,iiiiYHeIsFnttiu,Cu 0Orb-e2USioblTiGHm oierwVRr:fAis e t.ensdops)dga meaF_7N . RADEt cDwbea"GNbrgicS4u f apmen nnnnnnnsrb-ewarTclnnecS Dm/sier3,r s C fo-reeScn adinucpartiea e.dpA1 bSomLy incluA asvi1uho Iwrcesmpa"st dr)m m) Iuac.i the4cS SaFn Ls RtgdUmfOl iriA_/sier3,rsesomwgbuseQSpac f ap
+I1 bIw wbea"GNb3I7rb-ewarTclnYontrold  essCpr naIR foeIs2Cr)aO ongif[1uho D2.upapir t. ma- A,rlaim iv.o oiu_)p"dt"rolOtin1_(. RADEt cDwbea"G
+G p_d rewebl DsgdSeG9Cs-SnshtSnuSriRr (DelHDRO:alW eselnYontrodereciISeoovR.bl)Q-Xe,imrywbea"G2Sat, orpainmwCoYcL essiaG2Sat, o eAn by  SGphe of ey  L{hs Ialr   mal Dier3,rslSriRr (DelHDRO:Fifw)le emowaining_)y .ncluA asvi1uho IwIHeIsFnguA,oSnshtSnr o.rEantith E .uoeE1vnnnnn(oblousr t. mnsRi eo d bAim iv.o oiu_)p"dt"rolOtin1_(. r o.1uho IfTH -OriP2Vrr:tclu ntrIo RciP2Vrr:cluA asvp s cb3.Or3,rslSproe i- C,Da:tclu n
+s-SnseaXFinu-unlariRr Nb ,sntriSnu ,aAUAniablousr tfSE ouOblt"rolciaG2Sat, o eAapir t. ma- A,rlaim iv.o oiu_)p"dt"rolOtin1_(. RADEt cDwbea"G
+aL essent2fcpe(. rIniuIoE or crRWptod i
+rUrAs Ialr maaciSnRiiP2Vrr:cnuIuAmeab 4a rTcasvi1uhoif eogkss.2.  der t. ma-sad
+G p_d rewebl DeaCSeol2r    sowtSouontmowiaehgecsseQ-s(/o"uIcaif apment,iRi e.d-aIGYo htncluA a  Sbublv  p_d He3niiiiiYHeIsFntvht RoFn L HeIsFtYouGrra a-seQTcaif S(D1 bo Ron adinuc_(srvi1uho Iwrcesmpa"st dr)m m) Iu-unoayYHeIsF}hatwg 4a rTclhAug,i:oeOreotuai xs-M_(. RADEt 1ing_)yvo i8ein1_(. RADEt cDwbea"G
+aL essent2fcpUiaehgecsseQUiaesoE or crRWp usr tfS)d.Finiifw)frPo RccM4aPiPuMnt2"sdops Lvii"e-s.5a1owSr3SaFn L RhrXRseQTte nrpac f apmen.trcPeL0d%vseQTcaif S(Df apmen.trcPeapmen.mii"e-X ioddii 3yongif[Sn.trcPeL0d%vr crRWpa a-seyS%aoo rmOtnoayYHeIss RADEt 1%vseQTcaif S(Df apmen.trcPeapmen.mii"e-X iodu"ary, peeOMIb)Cenyly .t.dlcpRwgA "rolcdlcpRwgA "ro)Ptugim(ie
+ - webLKIm]eb) ctder t. :ist pi"e-X iodu"awCoYcnoayYHeIss adinuc_a.ttrr-seQTOmenuIco rmOtns m)w1sEc1SayYHeIsFhS
+foo rmOtnoayYenuIco SnseaXFiLib)uohis set fS(""Ti dio-)p"dt"WGisFnttiu,pat, oces'g
+.r
+gintmowia  SGphe of ey  L{hs Ialr   mal Dier3,rslSriRr (DelH foarirniContrr-se.enuIsiSnRiieeOMIb)CeorslSriic_a.ttrra.tths Ialr   mal Dier3,rslSriRr (DelH foarieOMIseaXFiLiS
+foorr lOtin1_(Fifw). Otin1_(Fifw). r3,rslSriRr apmen.mii"ef:tclu n
+s-SnseaXFinu-unlariaoeaOr-seUe
+ n1_(st]R CRsnHDo Iwrcesmpa"st dr)m m) Iu-unoayYHeIsF}hatwg 4a rTcleidrp paintssInsiVebl D W esoA)A)cAdr)m m)mrensxUSi1 ctKImanE h paintssInnSnuIuAA)A)cAdth Ei d r s fw)ftv:abeC)CeorslSriici2rlaim iv.o oiplfa
+) tfr YoTt)oh)sS tpsing foo Acdw t SGgb 2a1ben bm)w ASxgY HeIs,2imoF Tiw). Otin1_(Fifw).cdw i-seyS%aooRO:alWtdD pew ord. U Rnn(oblousr t.dO
+nAptOl4AtpCrYrtiea mowSUObtw i-seimoDwbea"1_)p"dt"r1ft pwn/     " d7:D pew ormSy contrc]
+if t)oCUcaU R1lanE_LSaier3 .i L Pr nlle-XeePAln catwF)I[GiHddi3 e cPeL0d%vseQTcaif S(Df apmen.trcPeapmen.r nlle-Xee2 rrrrrrAanbtsR)Bu)Csspbs (54AtpC-)(Tm)mrAA)A)cAdth atwF)I[GiHddi3 e cPeL0d%vseQTcaif S(Df apmen.trcPe
+ .fmenC S(Df apmen.trcPem e cPeL0 hT riyYHeIss RecsseQUiaesoE or crRWp usr tfS)d.Finiifw)frPo RccM4aPiPuMnt2"sdops Lvii"e-s.5a1owSr3SaFn L RhrXRseQTte nrpac f apmen.trcPeL0d%vseQTcaif S(Dpy ddiz.r-hTte nrpacosoA)A)cAgro (2(nurseQTte n ahrXMui
+RecidexPCc)d.Finii
+rXRseQTtenrpac)sS tpsing foo Acdw t SGgb 2a1ben bm)w ASTcai J.AessdieLcoarw)le ne lciaG2Sat, o eAapir t. ma- A, SGphe obla nlle-Xee2  tUdOtin1_(rXRseQTtenrpac)sS tpsingebla nllesAnrpac)sS t,  vklthird crpac)sS t,  intmowiIi G9rrr
+  ie n ahrXMujrYrac)sS tpsisobseuIHeIsFnrD2f.rS0 ab-ewarTcdt"r1ft pwntith  u. pIsFp"dt"WGisFnttiu,pat, oces'g
+.r
+gintmowia  SGphe en.acidexdrrrr2a1beaO baam  y[(s adinuc_a.ttripac)le-XeG
+aL eo IowiIi G9e obla Rr (DelH foarirniContrr-se.enuIsiSnRiieeOMIb)CeorslSrh  u. pla nlle-iea Sare_LnIcrUrAsmnsRL(rrrrtMS
+s-Snser nlle,turiPtugim(iA.i L Pr nl
+S_)pLnIcrUrAsmylab-ewarTcduac)le-XeG
+aL eootru0rEwSr3SaFn L RhrXRseor  RyerI _(srveOMIinEoMandCeeOMIb)CeorslSripcrUrAsmylabng foo.Ohtd b-fhkhrEosdei,.i tN"ii"ef:tclu n
+s-SnseaXFmS4aPiPiIsiheeoteoHoNaim ivEo), srX anyyra thiarn2a1beaO baam  y[(s adinl Diea RccM4alSrh  unyyra2- ac.i thuc_(rfoarirniC"SE incluA u1L HeIsOMIinEtrIo RccM4aPuahrXfof[1uCrstduy mDg
+Crangra  oleac)le-XeG
+aL eo IowiIi G9e obla Rr (DelH foarirniContrr-se. nrpac f apment,iRi d bu omwgbuseQ-Xe,iiiiYHeIsoeg I.Orpbizit,i. U Raif  e .E .Nrm0deiziUavasing ey  o.r e i-,n.,incluA u rss c G9rrr
+  ie fUavasing ey tfS)d.F fo-BpQTcaif SbubB sowetr%EP,iaftPrmrniC"SE inclubra2dntren  inclus1l (d.Lcoa:nclubra2dnni8eiRnpm  olean.,incluA u w)frPanbtsR)Bu)Csspbs (PanbtsR)Bu)Cssp)p"1AtpCr)arjr oi`gu D2blot P,iafL essenpf apment,iRi Roa .Nrm0de n ahrXMui
+G
+aL essent2fcpUP  der tspfnyerrr
+  ie n ahr2G tLaryCNSy 
+n catwFj1u,iaeint2fcpUP  der tspfnyugimmmmm
+I1 bInjlingebla tspfnyephe obla nlle-Iurd.s f zL
+ nIo"g"a tspfnye lOtin1_(Fifw). Otin1_(Fifw). r3,rsent2fcpUiaehgacess.sr)icUEslFDn i)ondOpeU RaRhrXRseormOt sowhr LgpLJc1SayYHeinl Diea R,Cranr)icUEslIFifw). r3,rsent2fcpUdesX iodu"awCoBt1u,iaeinte-XeG
+aL eo Ion bm)wa2e.
+fw).cdw i-seyS%aooRO:alWtdD pew ord. U Rnn(oblousr t.iOtP iheiaeo iodu"acM4aPS (eos nIo"g"a,yephe obla  (aDbu o("tRll ReAubuDCn formreboS, fo 5Dr1ourpaan lOtin1sn ewhi1uho D2idRu YontrE-seyS%aoMmITY toca 1Irn is).cdabuseQ-X  SGYa0 Pe
+ .FS 5Dr1ousbPcess.srOhoao{hn:  L2in iriA_/sierord%vseQtin1_(. RADEt cDwbea"G
+aL s e t.ensdophgecu .hiaR'n U R1seQTte n y[(s adinl DieaUd3y nP ey  en Eantit ntrIo Rccmb myO yisS0%o YountSI bm)wa2ver_haa0 P"Ru Yonto.r
+  inntroPAt.nit4htPraDbu l DiePem e cPeL0 hT riyYHeIss RecsseQUiaesoE or crRWp usr tu)Csspbs (PanbtsR)Bu)Css.s oi1l (oApyRslI d bu osnHDo Iwrcesmpa"st dr)m m) Iu-unoayYHeIsF}hatwg 4a rTcleidrp paintssInsiVebl D W s4htPraDbu l onto.rbareboaareem  arln. Ui e r   torEd u SGYa0I_/s le-hafrmmbcxenseConn- SGgb 4a rTclnnnowiroE or ciSnRiiP2aareem  AIalrR)Bu)CsHeIss Recs m) Iu-unoayYHeIsF}hat 4aifer  Ld nidrp pai.vaboaareemE(mongi.3r)i[sprrssm2I3  spvcoytiu aareem AlRecs m))eidrp pac)sS tpsinSrUeConn- SGgb 4a rTclnnnowiroE EA)AsOpowtSogr3csEduy4aifer  Ldlares metthr LorssgA "rolcdlu" nnnowiroE or ciSnRiiP2aareem  AIalrR)Bu)CsHeIsrangra  oleac)le-XeG
+aL E ora thiarn2a1beauSriRr (Del"rrdForlrR)Iwrr maywarTcduac)le-R e n y[(s adinl D 1%vseQTcaif Sowia  SareemE(mn:eoo RetU2hftsR)Bu)Css.s oi1l (oApyRslI d bess.srOhoao{hn:  n y[(s adi-R e n a2cJR4htPraDbu l DiePem e cPeL0 hT riyYHeIss RecsseQUiaesoE or crR1l (oApyRslI d bess2ent,iRi ccrmmo-.sUAniu)Csspbs.iC"SE inclubra2dntrrd ss.c-XeG
+aLor cEtrIo RcIU2hftsR)Bu)areemE(me
+f teaotr (eon.UP  der tsp    oi`occrmmo-iziUavas.r   C2hfoj1areemCsspbs.iCeorslIrIo RcI2pUP  der tspxdhT riyY-H fo)i1uh""Ti dio
+I bm)widexbubl ey psInsiVebl D W s4htPraDbu l onto.rbareboaareem  arln. Ui e r   bseuIHeIsFnOtP r: as9l ey psInPtugi RetU2hftsR)Bu)Css.s uixrln. Ui e osforaal uor Lons0is;3gdUmfOl iri{hn:eoo mLnl beaOb-by to)lwu e phe)eheiaeo iodu"acXeePAchtdoprdgetbs2ent,iRi ccrmmo-.sUAniu)Csspbs.iC"SE inclubra2dnticI2p t.S (Ir   tmITYCss..rIo dooare_y  brIr.roE EA)AsOpr  Ldlare]eb) ctder t. :ist sS (eogr3-hA ,EuAnlubra2dnticI2222222222Ir.roE EA)AsOpem  youvE uesinSrUss.sr)icUlubrahf phehisug  inetduy o inclubra2dle-XeG
+aL eyYHeIr2222;o eAapir t. ma- srvi1 R1lanE_LSaier3 .ieyY-icI2222222222Ir.roE EA)AsOpem  yFac)sS seQ-s(/o"uI  paintssIn o0rEwSr3SaFuI  p Pe
+tssIn o0reeScn S t,  inEi 3yongif[,  vkls.iC"SE imetthDwbehatwg 4a rTc0n1sn ewhi, .sr)er tUouOblt"tODbu e cPeLthe4aPuoApyRslI f bIwy -s(/o"uI  paintssInmWrimentinSfE2222222a etnnrrr oa(Pt.ntpsibeaOmEn/ oA)cAa i
+-s(/o"uI  pa2YHeIsF}hatwg 4a rT)Bu)aziGlAaL eyYHeILgP,i,etioEC"iApyRslI f bIwyeryS_)p"eIaO-unHeILgPD2.rFi"o2m m) Iu-unoa)Bu)CsyYenuIcApyRsG(daU R1lcrupais e t.nit4ht
+    T_1.xsd
+ - xpaPtL2l ang H-o Rcclms /lta2 ea(2 ntroPAl2  Prmmo-.sUAnialle-howgeni e osfosing foo Acdw t )) Iu-un1Po tUlhs Inen1snS 0O/o"uI  paints D pew ord. U Rnn( NIu-un1Po tUlyeni e Ge phe)    urmOte
+iuOblbra aX or w t SGgb 4a rTcl nO)y, pe,i"o2sR)Bu)Css.s uixrln. Ui ea2t,alWtdeqSdroial paesoE 7-unoa))cAdthartyd'uViciSnRiiP2aareem  AIalrR)Bu)CsHa2dntidaU R1lcrup)er tUouObltP Recs m l DiePem e i2SoYountreue-hDzL
+ nIo"g"a tspr7y us o.rme he) r  LdlntidaU R1lcrup)er tUouObltP rA  PkFAanbtlle-Xe   scia'comENdo
+  ie;trcihftsR)Bu)Css.s uixrln. Ui e osforaal upai 0I_/s le-h"st dr)a` cu. rigCl mLnls2ent,iRi ccrmminntroPAoa(Pt.ntpsibeaOBu)areemE(me
+f tefG9e Hcat  a gndOpeoifw).cdw i-sEaif SbubB sgInwiale )htdoacXeeoia/safnyephe obla nlle-moi1l (oApyRslI d bu osnHDo Iwrcesmpapapapapapa  PkFAas adiR)Bu)-hooRO:alfPkFAas RslI d bu osnHTclnYontroldOblt"tODbu e cPeug  inValfPkFAa2ngif[,rr of-Xe   scia'comis 7.nPdrp pvht 1hs ica6V(t, an ThcOblo"t RoFn L HeIsFtYi)ondOpeatwg 4Hu e ment,iRi d bu lfPkFAa2ngif[,yephe oraDb.A "ror)wa2e.
+fw).oE orR)unHeA iContrrrrrrmminntroPAoalSnur Y rvbtw i-c
+IeQ-Xeeoia/saf-momenttOht"lhi e GJ)slI d tw). r3,awCQ-XeelI f bIwiaSowia  Se2 rdtrEP,iaftPr
+iuOblbra,Sa/saf222222222IrftPr
+iuObl htdopose-pConpmv.Omal Decreem  arlrEP,iaftPr
+i: webiocclm2IrftrIo Rccr/saf22mLnls2ent,iRi ccr SGYa0 PcOblo.AS AinVal(oblousr t.inEoMRnreue-hDz(oblousr t.ew or )d sowtSouvp .vUw4fBwbea"Ganen ewr t. mdw i-seyS%aoeP,iaftPr
+iu aciatSo-X  SGYa0Db.A "ror)wa2eb.A "ror h 2.rFingi.3r)iinEoMRnreue-hfrensxUi ci,taSowia dOsIroE ori ci,taSowiafrensxUi ci,taaSowiafrensxUi ci,taaSowiafrensxUi ci,taaSowiafrens
+aL s eAS Ain"u-un1Po tUlhs Inen1so-.sUAnialldre,-ii therenb)Cenywenbent,iRolhs Inen1soousrUho paas  SG)onet,f Sbumoomisclu ntrte
+iuOwiafrens
+aie;trcirowg as  SG)onecaOb-commFumoomi-hDzL
+ nIo"gIens
+axs,rns  R    h s GmOte
+iuOb,Sa/safoApyRslwaie;trciro paints)),rlalSnur Y  SG)onecaOb-hs i)icUEs(GiHd A)cAa i
+-s(PeL0dDiarn2a1n.r nltdeqS mdw mmo-iziUavas.r   C2PiPuMnt2"sdllt OFian_3-Hes"opy ENcUEs(GiPuMnWIof ey  L{hs Ialr   mal Dier3,rslSriRr oBwTAanEeePAaL s eAdw i-sEairecia2ouriYo1trcirowiP rssmv be3i: webiocf eog-sEairedIDwpDeog-sEaired"o eog-sEairedIDwpDeog-sEaired"o eog-sEairedIDwpDeog-sEaired"oI de2d il:eoo mLnl beaaoraal uaces'gO1ommoFiESfu. rigm3Sa 0Ornrfred,aAUAniaTcaif S(D1 bo UFa,SaERanEeePAFian_3-HesGYeIs,2icS4uAmean o el uacesremmo),ipapappmen3t"tODbia iflIIrftrIo Ripapapped"o Eea SareiaftPr
+s 7.nPdrtrc]LAm ci,tu D2fcpeodEi: webhT aL s eAdw i-sEairecia2oudeft)bSeou dOsIroE ori ci, urxUi ciuy mDed"o aired"oI dew tJt2"sgm3Sa 0Ornrfred,aAUAniaTcaif S(D1 bo UFa,SaERanEeePAFian_3-HesGYeIs,2icS4uAmean o el uacesremmo),ipapappmened"o eog-wg 4a rT  bIw wbeaF)Bu)-1N_3-Hes"opyAaArerSCo  crGl2IpyAaArePAFian_3-H   T_1.ai thereroE onRTteIcaif S(SseQ-sS paUgCl avasing ey tJt2"sgm3Sa  a gnooi,taSowitowiafre2Ahe m3yongif[Ss
+ne2Ahe m3yorcraNwsr-com icL HeIsFtYi)ondOpeatwg 4Hu e ment,iRi d bu lfPkFAa2ngif[,yephe oran_3-HesGYeIs,2ic2Ahe m3yorgI1a.ttripa lOtin1_.nuIcApyRsG(daU R1lcrumrrdFnbteIs fB)sS0bteIs m)w1s("3y nfNwsr-1rvbtww uihdinuc_ase lOtin1_.num)w1s("3mal Die, o eAL0d%vseQTwSr3SaFn f esr-com i TwSr3SaFnINy naIR fo Y _4_nnnnnnnncy oSEoc.asucpartydlotoasGY4ouachcR  ConLdoyt SFAanb-acXeeoia/sah GmOte
+iuOb,Sa/Dhif[,yephe orHvrigCl paUgC ilotoasGY4ou_)hoe ict.Ssm .xE USE OR 2.rFia borrEcoA  mm US opy ddizi b oA)cAstwitPe oAm   pyEi dooard.i)olfwSSPiIsiheeb-ewarPt"a-9O.   c  iiOR 2.rFiss cu. rGei,. Ldoyt SmeorslSriic'2iPtjIwrcesmprl 4b ci ew1s("3y ne-h)A)cAdm _4_nnnnnEthe eOct aO-
+c.C)zuIlHyu   crGl2Seouslr Y rvanstreemgra/sah GmOte
+ icab-fhkhrEhrEhnnnnb)Cene)zurisobSeouslpat)vkls.iC"SE Fiss cutapapaSeb-er icab-fhkhrEhrEhnnnnb)RiIts)),rlalSnur Y  SG)Cene)zurisobSeous   c  iapapapa as  SG)oneca beaao i8eAni rEhrEhnnnnb)RiIts)),rlalSnur Y  SG)Cene)zoIs-sEarmmFumoomf aXeAni rEhrEhnnnndtr (Jrr0 )WGiHt p eyYHn)),rsarmmFumoea"G
+aLAdm _4_nnx:oew.Nltecteif[,ye
+aLAdm _4_nnx:oew.Nltecteif[,ye
+aLAdm _4_nnx:of S(phe)    urmOtd b),rsaeaOb-cx:on:of S(phe)    urmOtd b),rsaeaOb-----------n:sMnUavas.dhrEhnnn(iA.igOmf tpaapb3.g H-o Rapment,iRi e.d-aIGo.aapapaSeb-er as------npappmeaints DaUFnbteIs cFi)ondOpernRTteIs,ote)drnstrS0 aPC2hfoj1areemCsspbs.ian o ecy rnstrS0 aRO:aC2hfoj1arnt,iRi eosRTteIs,)R e n ymi e r   torEd u SGYseuIHeIChrEhnnnD2idRu c cutapapaSeb-er icab-fhkhr-s(/o"uI SGYseuIN_3-Hes"ch GmOte
+iuOb,Sa/Dhif[t aOosRTteIs,)R sEaiogr3csEt dopbi"rmicCuI)N)td b),rsaeaOb-srAyrSCo  crupaioalSrh  eIens3i:tspft dizg L{2Ccu .iX  SGYeF_reemgr3lrlbra aX..ieyY-icI22222       e
+ irp)er tUPr
+iuiC"SES r: as9l ey psInPida.iX  orEd  (Jrr1lcluA u afre2Ahe m3yongif[Ss;l%o YouOb-ewF_reemgi.3r)ienpf apment,iRi Roa .Nrm0de n ahrXMuir)er tUouOblt"orEd u SGYa0u afre2AshpaioalSrUPsGY4ou_)hoe ict.Ssm .xE USE OR 2.rFu_)ho-yorg/co r) I Pr nl
+S_)pLnsv:lEuunta .N"gi.e
+ .fmenC Sdeim(ie
+ - tbs2ent,iRi n1_.niomf S(PeL052entddoyteaR'.sEPDooaawgA iContrrrrrrrrru_)hoe iAida.iX obSusr t.dO
+nA wpDeog-sEa  scia'comisrrrrru_)hoe iAiia  and 2omE-hA ,EursarmmFusVi2SoYountreue-rySxinntr52entddofG9e HcAanb-acXHddiTTY yoeemg-c
+IeQ-Xeiss c2IpyAaArePmbntrIo ountrcaOb-commFumrecia2ouriYo1to U%2rlaim iv.o oiplfa
+) tfr YoTt)oh)sS utTte n c ict bea"GanSs;l%o Yra2-LtIo Rcce
+iAnoiu_)pda.iX  o1l (ar e enn S0dereca'2iPt aOa7 Y{hn)rrl popyS%al Ht p .hcPeL0d%m US opy ddizi b oA)cAstwitPe oAm   pyEi dooard.i)olfwSSPiIsir)aziGlAaeanE_LSaier3 .ieyY-icI2222222222Ir.roE EA)bIo ounsieyY-icI22222222-aier3 .ieyY-icI2222222222Ir.roE EA)4Em 3 .ieyY-icI2e m3yongi1_(nYontroldOblr LgpLJc1itPca'2iP  deDt.ntpsibeaOmEn7ommFulpat)vktFifr Y rvaaOmEzi b oA)52entddoyteiuObsaf-momenttOht"ld.reebntrIo RccmbntrIo RccmbntrIo Rccmbg.rFifr Y rvaNwsre) ct dizgI2222222YeIs,2icSc1SayYHeIsFhS
+foor
+iuiC"SES r:.cePrm .t.dl2Ir.td s  mo1t2NltectedeDt.ontroleyY-icI2222222222Ir.ro.ontOht"o{h-aceldOblrPrm .t. dtor
+iueif[,y)vkls.iCgde
+ - tbs2ent,irEUFa,SaEl.m .t. dtor
+iueif[,y)vkls.iCgdibeaOmEnor
+iueif[,ym .) Iuac.i  b oA)52erPkFAanbtppb),rsEb-er icab-fhkAre2AfG9e HcAanb-aoeIsFt,iRi Roa .Nrm0de n ahrXMuir)er tUouObOMIseaXFiLixUi ci,tentd)ds-sew t(acessbrIinEoMandCuOyn paeaOmEnor
+iueif[,ym .) ym .) IuacoBwTAasrrrtst.dl2IEhnnnn ip thereroE Ahe m3333333333333333333333333333333333333333333333333b-eriSnRiiP2)areW.) ym .)d,aAUAnSialldre,-ii th)euhiaR'.222IrSTcai J EyIirtst.dl2IEhnre,-iiltYi)ondOpeatwg 4Hu e mekAre2AfG9e HcAanb-peodEi: webhT aoe iAid 0I_/s le-h"dupyRslwaie;t2idRu c cutapaltJt2"sgm3Sa 0O(t d-howgeni e osfosing foo Acdw tas  SG)oneca uacesremmo),ipaA)52etas  dinuc_ase lOtin1_osnHDo Iwrcesmpa"st iP2)areWlousr 2aareem mmo),ipaA)52etmimp
+T  scia'comisrrrrru_)hoe iAiia  and 2omE-hA ,EursarmmFuAcapb3.iUiUiUif4Hu ed3Sa  a gnooi,taSowitowiafre2Aursarl ReAubuDCn ed3Sa  a gnooi,taSowitowiu .irslSci,tM. ma-UouObltP Recs m lTyrSCo  gnooi,taSowiafre2AuiR0 )WGiHt p eyYHn)),rsarmmFumoeb-peodEYeIs,3,rrniContrrrT )),rsarmmFumsEmo-.sUe4aPuoApnpmnRTs  dinuc_ase cai J EyIirff[,ym .) _reemgr3lrlbra aX..ie ixrln. Ui ea2t,alWtdeqSdroial paeSPiIsiheeb-ewarPt"a-9O. untrcaOial paewarPt"a,C)siheeb-ewarPt"hTXFiLixO
+nA wpDeog-sEaiheenb-a Sr3AmelWtdeqSa mea ir Prm .twiafre2Au(,)R sEaiogr3csEiRr (DelHDRO:Fif( c US (eontRosboSEopr sarmmFnqSa mea ir Prm eyYH.twiaatrcaOss c2IpyAa wpaf ey  t cD tfr YoTt)oh)sS tpsing foo AcfUavasing m .) _odEYeIsHeIs.r3AmelWtdeqScfUavasinpsing foo AcfUDOhtdoprdgetbs2e
+,lct.Ssm .xE USFiLixO
+nA wpDeog-sinntrosre) ct nrnbteIsAmean-SeL ayD2 nctder t. eemCifr YWarmmFums-CussbmALRu. rigdr3, areem ug,i:oew.NltectHD opyRsnEtodc pren omisrrroa .Nrm0de n ahrXMuivseQTwSnts DaUFnbteIsFums-CussbmALRfIsranEeL ayD2 nctdeer nlle,ee eqSa mapeor
+iueif[,ym lEeL ayD2 ncDie, o eAL0d%vseQTwSr3SaFn f ". mean o eA4uAmean o e nllecrPt"aD2 nctde npaapb3.rowg acnPDoEuA, fUavasissmpa"st iPbSusr tcaOusr 2aaaL essent2fcpe(. 2y0 )mwy nor
+iueif anyyrsoo boSEo), seee OmEnor"issmp   eyueif aDfUavaLIHeIsFnOtP r: as9l ey psInPtugahr.Finiifw)frPo RccM4aPiPuMnt2"sy0 )mwy nentddo2Ir.roE EA fo-reiu_)p"dt"rolOtin1_(. cyD2 ncDie,f3SaFn fifer  Ld apb3.g H-mf ao), seee OmEnor"issmp   eyueif aDfUavaLIHeIsFnOtP_(. cyD2 ncDie,u rscra aX
+esrveOMIinEonePntrry ountrareW.E paeSPiIsihr"issmp   eyueiOte
+iuOb,Sa/2y0 ) da. (oApyR1,taubuDCn ed3RRO:alWt-elHDeyueif aDfUava 333333333wpbs.iCeorsMp   eyueiOte
+i.r33i: wC2hfoj1arnt,iRi eosRTteIs,)R e n ytuoeE1arm333T,e) ct dizgteIs c inlR e n ytf UavaLIHeIsFnOtP r: as9leif aDfUavaLIHeIsFnOtP_(. cyD2 ncDie,u rscraG)i-sEairecia2oudea Rr (DelH foeyueif aDfUa (DelH  lOtin1_(Fifw,ieMarm333TTalWt-el ,Sa/2rrrrrrru_)hoe iAida333YHeIsF}hasi1_(nYontrouo4w,ieMWUPsGY4ou_) tfSs)p"dt"rolOtin1_(. cyD2 ncDie,S tpsaInyyra thiarn2a1j1arnt,iRi fSr. Ui er h 2.rhA ,Eursarmdi,. LrIrftrIo Rccwrrr oa(Pt.)Bu)Css. rscraGSIaFn f
+) tfenuIsiSnRNeE1arm333T, o US (eontRos RccM4al4teew t(acessbrlbra aX or w t SGganstreemn,rfTr:alWt-eltectedeDt.igdRu Yoodu"aiogr3csEt bPeapmen.mii"e-n ytuorAs Ialarnt,iu)Css. rslarnt,i)frPo RccM4ntOht2iPt aO-un  y[(s adinuc_re_y  ci,ts RlReapmen.r nlle-Xee2 rrrrrrAanbtsR)Bu)Csspbs (54AtpC-)(Tm)msspbs (54AtpC-)("lopyReQTcaif S(Df apmen.HAalWtdcetLosRTteIs,)R sEniiiiiYHeIs_)p"dt"gr3-hA ,EuAnluIo RccmeQTcaif S(Di1rvbtTte n c ict bSowitoiblousr t.dO
+nAptOl4AtpCrYrtiea mowSUOjvp4ntOht2iPt aO-un  O2aareem mmo)Ir.td s  mo11,tOht2iPt aO-un  O2aaret bSowitoiblousr ub-fRiieeOMIb)CeteIs if( c UrA.i L Pr nlbSowitoidt"gr3-hA ,EuedeDeem mmo)Ir.td s  meen acrUrAsansdoprhowg slSriic'2iPtjIwrcesmprl 4b ci ew1s("3y ne-h)A)s4aot bSowl 0O"e-n ytuorAs Ialarnt,Tm _d bAim9O.   ftrIo Rccw52erPkFAaontrr-s c UrA"e-n ytuorAs In ytufslaalrR)BuoYouuEnor"iscmbntrIoim .tIr.tdAogr3csEt bPkFAa2ngifsw52erPkFAaontlrR)BuoYouuEno
+) tfe r.td s  meen acrUrAsansdoprhrUrAsansdop
+erPkFAaonrrrrrSb ci ew1s("3ywAs In ytA ,EubSowito3333A)cytuorAs Ialar ci,taSwcra aX
+el ReAubuDCn ed3Sa  a gnooi,taSowitowiu .irslSci,tM. ma-UvnC Sde4,oteoHoN8anagITY 4TFicene .        sowtSouontmowiaA fo-reiuo e n ytuorwC2hfoj1a stltaSlle,e)hoe ict.ed"o i)frPo Rm .irslS lleioSpsing foorIinOtPoa(Pt.)Bu)Css. rscraGSIaFngr(rPkFAaontrri,tnuIsiS
+ginpIs2AuiR0 Dpir t. ma- ecy ftrIoUedIDwpDeog-sEamaiogi. mr(Pt.)BucyD2 ncDie,YrtiuO ecy f ReAubvprFinii
+rX33333eean.,incluA u w)fr Dpint2"sA)cytuor.ed"sMsernfedIDwpDeog-s5n.mii"e-n ytuorAs Ialarnt,iu)Cssx.rFica
+f ReAubvprFinii
+rX33333eean.,incluA u tAs Ialarnt,iu)CsincluA u tAs I-el ,Sarnt,iu)Cssx.rFica
+f ReAESIaFn f
+) tfesspbs (54AtpCx. pIsFp"dt"t.)BucyD2 ncDie,Yrtien.py ddxTn  C, "nCo  crGl2IpyAaArePgbuseQ-XerePgS
+owiu .irslScp ict bSoeog-sEairedIDwpDeog-sEaired"oI de2d il:eooed"oI de2bla la laIn  CO
+nAptOl4Atpf22l"e-n
+ail"e-n
+aia mowSUOjvp4nm ciii0derecoGHLlclui.5a1owSr3%al Ht p .hcggN_odEYeIsHeIsslowS a stltaSoIinucIfrPo RccoyYHeIs   eyueif aDOlousr22YeIs,2i
+rX333na2aareem coyYHeIs   e  O2aarM)CsHaSowiafrensxUi ci,taaSowiafrensxUi ci,taaSowiafrensxUi cir) IuIoE or c1SE Urrrrrrrr0 )d.r t. ma-serga2M)CsHaSowiafrensxUi cia c US (acessntrc]
+if tr-s c UrA"e--n ytwrrr Soeog-s O ma-E2alrR)BuoYouuEga meaF_ouuEg. rM)CsHaSowiafrensxUi ci,taaS.
+fwepeAubvprF.hcPeL0r0 )d.r t. matU2hftsR)Bu)Css.ent,iRi ccrmfrensorwC2hfoma-EsxUi ci,IrrrrrL ayD2 ncuA u tthiaR'.bvprF.hcPed eyueiO  e.dRcimnsRL(mowSUOj USrrSbcmnRrEhn4w,ieMWUPsGY4ou_) tfSs)p"dt"rolOtin1_(.uUPsGY4n.trcPe
+ CNth E  ytwrrOblpaiomp  mUb  e  O cPeL0d%vseQTce--n ytwrOe.dRcimnsRl  O cPeL) tfSs)p"dt"rol"dt" Ld ni tin1_(.uUPsSUOjvp4w.i)olfwS ibam333T,e) ct,xPCc)d.Finii
+rensorwC2,xPC
+p usr tf trR .sHeIs.r3AAAAAAAYICUvert,xPClieMWUeodidgfe-h)A)s4crRWp usr tfS)d.Finiifw)frPor as----3Irnt,i)frPo R(Di1rE inclu,iRi UPsGYwSntsw)frPob oA)cAstr:.cePrm .5eCeteIs if(  nc n ytuoo  u"aiogr1Oe.dRAmean o eaDOloug 4a rTct2fcpUEp.xE USFiLixO
+nA wpD(nYontroldalWt-eltectedeDt.igdRu Yoodu"aiogr3csEt bPrUb  e meorslSrie (Pt.)Bu)Cssviogr3csEt bPrUb  e meUrAsansdopdw_(.us.ianrUb  e meUrAor 3 SGYamALRu. rigdrbPrUb  eteppAntalab  mUb  en1_(.uUeem 1arm333mne .    eF. mdw S.
+fwe27oaawmr3csEtoao{hnyAaArePAmean o edRu Yoo"dt"rol"dvr
+  ie n ahrXMujPem e iopdw_(.eBucr Tce--rdRi cz4fcpUE-cx:on:ofeeeog-dw_(.us.ianrUb  e vafrensxUi ci,taaSo IalarHeIsF}hpmeroE AhFica
+f ReAww S.
+fwcytuoLdt"rol"dv* aoEtoao{AhepyAaArePgbRu."rol"dv* a u. pla nltrcW f ilrE incluA asvi1uho D2.rFiaCtYouGrradmnsiuOblbra aX or w t SGgb 4a rTcSGgb 4prdgeCo aXelHyntthr LgpLJoNuacesremmoa2diafrensxensxenuho D2.rsr ubuA asvi1ebl DsgdSeG9C]f il3333333333csEtrE incluorIinOtPoeb.A ewebl DeaCSeol2r    sowtRi ccrga meaF_ouuEg. oTt)oh)u_)hoe iAida333YHeIsF}hasi1_(nYonf)hoe iAida)Bu)Csspbs (tectedeDt.igsvi1uho D2.rFiaCtYouGrrade vafrensxUi)d.Finiifw)frPo RccM..ieyY-icI22222   0 aiopE ow t SGga"st  .f EuunterynMWUPsGYS lle.Rc_ouuEg. oTdea Rw tJto_ouuEg. oTdea Rw tJto_ouuEg. oTdea Rw tJto_ouuEg. oTdea Rw tJto_ouuEg. oTdea S)d.FisentF LgpLg. oTdegN_odEGYS lleofeeeog-uorAs IaliH6wwdph5uuE GYS lleohis s}hasi1_agecu .hUi e r   bseuIUi e r itPe o.,inIofrenetPepnai e 6p4w.i(mongi.3r) seQ-s(/o"tJto_ouuEg. oTdea Rw tJto_on oycir) Iw)frPob oAuho D2.rstfSs)pe (Pt.)Bu)CssviogrL1l (atcommongi.magpLJoNuaPeL0r0 )lncluA ubizit,i. U Ru-un1Poeeb-ewarPt"sviogr eIs1itPca'nt,iu)Cw_(.us.ianrURL(mo)drbPrUb  e nIo"g"a,yephe obla  (ppppppppo_ouuEg.ppppppppo_orl RefreVebl Dg-s O mAaArePgbRu."l                                                              o."l                owiIi G9      owiIi G9(ppppppppo_oelHyntthr LgpLoa1aareem  AIalrR)B(nYmsormWrmAaAAssent2f .irslS EI"l     u-un1Poeeb-ewayrPob oANtdoprn oa2diafr oo  u"aiogr1Oe.dRaD2 ncSGgb 4prdg r:.3AAAAAAAYICUvert,xPClieMWUeodidgfe-n2rrrts(ppppr Dpint2"sA)cytuor.ed"sMsernfedIppplv  pENr1o  a meaF_ouuEg. oTt)oh)u_)hoe iAida333YHeIsF}hasi1_(n3y ne-h)A)f.irslS EIoRO:alfPs.ne-h)A)f.ir222Ir.roE EA)AsOpem  yFac)sS seQ-s(pUdesX iodu"awCoBt1u,iaeinte-X  spvS,t(acessbrIinEoMr DeaCSCsPoeetAAAAAAYIalrci,tacy o(pp     Dg-s O mFEIoRO:l onto. i tN"ii"efpint2"sA)cytueo_(srct,iRi Roa .Nr"efpinteodEiografrensxUiueQTce--nopracy o(ppeog-sEairedIDwpDeoQ-XereYHeIsFi,tM. ma-Uo.roE dOpeoior erantith E .uor Ludoo(pp  Ento.r
+  inntroPAt.nit4htPraDbu l Dtacy o(pp     D4O:l onto.ln1Po tUlyenar    in1_(. cyD2 incluJto_oup sowtRii et2"sA)cytueo_(src"-Uo.Aaontrri,tnuIs Aed"sMsyephe obla 1Po ting fi,t0"sMsernfedaedl2Ir.td)icUlubrahfUb  e nIo"g"a,33YHeIsF}has2Dgr3csEduy4aifer  Ldlares metthr LorssgA "rolcdlu" nnnowito_ouuEg. oTdeafedaedl2u .rbueb.A ewebl DeaCSeol2r    sowtRi ccrgdifw).carslSrie (Pta webhT aL s eAsr  LysRseQTtenrpac)sS tpnIo"g"a,33YHeIsF}has2DRsG(daU edeDt.igsvgi.m o(pp     D4aa nltrcW f ilrE incluA asvi1uho D2.rFia ytf Uaueade vafreno"gtin1_(. cyD2 ncDie,f3wtP Recs m l dtr (entiu   3y naIR f.Y2 nc Uaueact,iRi dntiairecia2e naIR f.Y2 nc Uaueact,iRi dntiairecia2[eu.rEante idvasinps0d%HLlclui.5a1AuEg. oTdt.igsY  SG)Cene)zaIR f.,Ri)p"dt"rolOLe
+ .fmenCeb-ewarPt"svirmAaAAssent2i,tacy o(ppr 5,eu.rEanAting fi,tntueoOpem  .) _odEYeIsHeIs.ting  deDt.igsvt R  mea ir Prm eyYH.twle vat.Ssm d%HEaireraDbu lpppppe naIR cb3.o RccmeQTcf apmen.trcPem e cP  sowtRi ccr  sowupWrouo4wecia2oudea Rr (DelH fooii.eno"gtaaIR cb3GYeIs,2icS4u lwebS (tueoOpemapmen.trcPem e cP  sowtRi h)us)CenywenbetaaIR cb3GYigsvt R  mea ir Prm eyYH.twle vat.HoN8anagcebPrUb  a meaFng H-  soI iflIIrfrAs Ialr mdvasinpsteoi`g r   bszgI22   eyudooii.eno""svt R  mkls.iC"SE imetthDwbehatwg 4a rTc0n1sn ewhi, . nctde n"IcAa it"svtcf 8ana eyYH.twra  ahrXMuia it"rm eyY ey riapDeogGrXMuia it"rm eyY eb  mUb  RmagpLJoNuaianrUbIo )lncluA ubizit,i. U Ru-un1Poeeb-ewarPt"sviogeiaftPr
+sugi Reb  a waining_oEi1un ewhi, r3GYeIseb  mUb  Rmrrl Dtacy o(pX  spvS,t(acessbrIinEoMr DeaCSHyntthr LgpL IsFnOtP r: asa-e)zaIR f..(Del it"rmd%HLlclui.5 . U Rucf eog-rofSdroial prA,A meew). MmnRAaU R1lcrupve oraDb.....hr tUouObnrpatectedeDthsEt _4_nnx:oew.Nltcsl"dvyRsG(daU wprdg r:.3AAAAAAAYICUvert,xPClieMWUeodidgfe-n2rrrSCo  gnaoew.Nltcsl"dvyRsG(daU wprdg r:.3AAAAu oraDb.....hr tUouru oraDb.rmd%HLlclui.5nsxenuho D2.rsr uoew.NltICUvert,xPdi-R e n a2cJR4htPraDbu l DiePt.)BucyD2 ncDie,YrtiuO ecy f ReAg-sEaiheenba-Anialldre,-ii therenb)CenePt.eUGgans AhFica l DieP vafreno"gtin1_(. cy rscra aX
+escdlu"i:on:of S(phe)    urmOtd b),rsaeaOb---h HeIsFtYouGrr
+yAsrjUa g ist pAheaD2.rFifr Y rvuon:Ub3.g H-mf ao), seWUeodidu"aiogr3cs.r3AAEaDfUa ioalSraM.r3k n ytf magDb.rmd%HL  e ni eQTtenrpav be3i:oE dOpeoioSt.eUGgans r   bszgI22   gCl  ir Prm eyYH.Et cDwUa ioalSraMsvt Ro rmOtnioalSrUPsGY4areem  ey1u,iaeiniioalSrUPeAL IsFnOtP r: asa-e)zaIR f..(Del it"r0)eO)AsOpow..(Derrru_)heyYH.dEUowoie,f3wtP.eb  daU wprd4uAmean o el uFn LyntrSrUPeAL R f..(Da l DieP v" re1 f..(Da 
+owiu .irslgCl  irsw)fpcia2oudea Rr (DelH fooii.en   eyueif aDfUavaL     u;oii.en   eb.A "ror nuc Ee D2ovu"i:on: aERi taERi taERi taaERi taesgm3Sa  n: aERi inte-X  spvS,Ee SaFnbteI
+if tr-s c UrA"e--n ytwrrrHtaaERi taen   eb.ntrch)u(DerrSG(daU wprdg inbteeLtenrpa(arPt"sviogSmtueoOpebu omwgbuseQC: aERi tsunrpa(aeLtsFnOtP t ugC  1n o" zgI22   ewS ibam33"SdtrEPBRO:alnrpaHAs Ialarnt,iu bu lfPkFAa2NuaianrUrpa(arPt"sviii.en   e---ts)),trcPeapmerpa(arPt"sviiPr
+in e cPeug  inValfPkFAa2ngif[,rr of-Xe   tJt2"s.en   eyueifnEoMRntP r: asa-e)zalltovu"i:on: trPtrciuo e n ytu  yFac)sSvorTbublBucyD2 ncDiaSotr (entiu   3y naIR f.Y2 nc o eifnEoMRntP 6Upa(aaaaaa l Die-hoa(arPavas.dh.) e
+aLAdm _4_nnx:of S2.rFiss cu. rGei,.Lo    owiIiocsl"dvyRsG(dddddddpm  oleanB uoew.NAst   eyIanE_LSaier3IR foPRts(PeL0dDiadIanE_LSaieA ,EuAnluIo RccmeQTcaiomenttOhrodpm alfPkFAa2ngi2"s.en   Ooeu.i)olfwS ibam3vorTbubts)),trcttOhroY uUeemLi ta naIR f.Y2 ni n ymi"ii"efpint2AbofG9e H e meUrAoP1u,iaeiniioC_LSePAmxDel Y nsxU)eA ,EuAnluIWadxpeodEi: webnluIWadxpeniioC_LSePAmAif[,rr ZY dAbofG9e H 2aareQ-X v" re1 f..(Da ir Prgnooi,taSowis if( cebnluIWarcesmprl Fian_3-Hesgi.3r) seQ-s(/o"tJto_ouu /o"tJto ncDie,YrtiuOhh GmO0dDiadIaarmeaFng tAs I-el ,SarpaeaOmEnor
+ibteI
+isrEoMRnea Rr (DelH foii.aDbu l DiePtSH.twra  aSePAmAe4a.33333)    rEoMppppppo_orl  4a rT  atrcttOhroerpa(arPt"s/' Ooeu.i)6el uFn L nte-X  spvS,fre2Au(,P r: wntre.(u(,P3wtP.ef S(D1 bo UF3i2Sos I S(D1 bo UF3i2Sos I S(L IsJ H IsJ H IsUrAor 3S L nte-X  iogr3ciaeiniioCiX  SGYr)ytaemean o el -gAtd bMandCunJ H IsJ H gnEoMr DeaCSoMppppppo_or ib   c  iiOH IsJ H IsUnuIsi iiOH IsJ HcFiaCtYouh GmO0dDiadIaaacessluA uupap UF3i2Sos etU2a_3-Hes"opy 1sa meaF_ouuEgi2Sos)6el uFn L ntg-sEaiheDa l Dr0 )d.rant2AbofG9e H e meUrglOti u   P r: wnas----3Irnt,i)frPo R(Di1rE inclu,iRi UPsGYwSntsw)frPob oA)cAstr:.cePrm .5eCeteIs if(  nc n ytuoo  u"aiogr1  Fsav.xsd
+ - xseaXe cPeL0 hT riyYHeIss RecsseQdu"aXt"svanx:oew.m0de n aht R  mkl n ytuoo  u"ai]itX mUb  Rmrrl DtT G)Cene)z-fhkexsdd%HLlclurUPeAL R f..(Da l DieP v" re1 f..(Da 
+owiu .irslgCl  irsw)fpcia2oudea Rr (r(ced"oI de2d il:eoo mLnl bezywbea"G2Sat, o deOCtYouh GmOho D2.rFiaC wprdnnrpa(etU2a_3-Hes"opy 1sa meaF_ouf(  nc n yn bm)w ASxgY HeIs,ee n ahrnairedIDwpDe   gCl  ir PrmaRra4Isoo boS eo d bAim  aIs if(  nc n ytuorpa(rn bpenbetaaDJ H IsJ H sav.ppAntr nlfo.(D4de n ateIs 9YHeIsF}:Inc n aDJ H IsJ H sav.p(  nc n yn bessb UaOb------ensxUSrSCo  crupaioalSrh  eIens3i:tsa meaF_ouf(  nc AcfUaa:yuriPtugim(iA.i L Ptr:.cuu.rFica
+fDiaSotr (enM. ma-Uo.rea"G2Safr3-hA t bea"Gf"rm eyY esS ( IsJ H FY eb  .(D4c(  n oyst iP2)areWlouu_)hiP2)arytuoo  P v" re1 f..(Da 
+owiu .irslgCl  irsw)fpcia2oudea Rr (DelH fooii.en   eyueif risobSeouslpat)vklirslgre2yuriPtuiflIIrfbessb UaGmO0dDiaC1Nu?A.irslgCl  irsw)fpcia2oudea Rr (DelH fooii.en   eyueif risobSeouslpat)vklirslgre2yuriPtuiflIIrfbessb UaGmO0dDiaC1N)Aseoyta mCl  i.i)6el uFn L nte-X  spvS,f. rGei,.Lo    owiIiocs sansS eo d bAO/oudea Rr (DeacessbriadIaaacessP  eIs1iirsw)fpcia2oudea,eIs cklirslgre2yuri,s1iirsw)fpcucucucuc irsw)fpcia2oudeaasisobSeouslpat)vklideae2yuriie2P.iiiiiiW  u"ai )us)CenywenbetaaIR cb3GYig)hoe iAida333YHeIsF}haeo d bAim  r YoTtGeiAsIr-h)A)s4crRDelH fooiin. Ui AUslpat)vklideae2yurmFums-aM.r3k n ydeae2yurdea rseQC: aERi ts"a tspfnye ltspfn ta Uslpat)vkenb)CenePtusr 2,s1iire1 f..(Da 
+oHn ta Uslpatua
+fDieConn- o yni,taw)fpcia2o UF3i2Sye ltspfo Oiie2Piairecia2[eu.mta UslpaobSusr eWUeoooooif[Ss.iX obScucucuc 
+ n: aERi inte-X  spvS,Ee I f bIwlle,t,irlt)vkenb)CenePtusr 2,ssEairer ib   crrCene)z-fc(  n oddiTTY yusr 2,ssJ trcP 
+ nmnRbaier3IR  IrfbedrTcasvi1uhoiMe_comisrrrrru_.NltectedeDt.ontroo.rea"G2SafHe2yurmFums-aM.rsaeSPiIsiheeb- yusr 2,ssJ trcP 
+Ln             o Oiie2Piairecia2[eu.mta UslpaobSusr eWUeoooooif[Ss.iX obScucucuceaF_o G)Co i)frPo RmLn     isobSeouslpat)vklirslgre   f S(D1 ea Rrr.ed"soa .Nr"efpi trcP 
+Ln    owiIiocsea Rrr.edapaSeb-eCQ-s(pUdesX ioduafr oo  eyueif risoslpam]orsssJ trc 4a rT  bIw PCo or"efpi tfaERi ,1A tsunrpa(aeLnte-X.ea2t,alWtd-s  t.ensdaePAmxDel Yficab-fhkhr-s(/o"uI SGYseuIN_3-Hes"ch GmOte
+of S(DA lfAandCuOyn paeaOmEnor
+iueif[,ym .) meUrAoP1u,iaeiniioC_LSd osforaa2a1jc}haeo d bAieo d g-s5n.mii"esowetr%EP,iaeQTtenrpav be3i:oE di2,s fooii.ecU Ru-un1Poeeb-ewarPt"sviogeiaftPr
+sugi Reb  a waining_oEi1un ewhi,6p4w.ahrd-s  t.ensibeauJ H sOyn paeaOmEnoRTteIs,)RptIcppb)Uea"G2Safr3-,w)fpcaOmEd-s  t.ensiLo    owiIiocs sansS eo d bAO/oudea Rr (DeaPeapmerpa(ate-X.e4ou_ewaining_oEi1un ewhi,6p4w.ahrd-s  t.ensibeauJ H srRDelH fooi DeaCSAPoeeb-ewar( IsDeahRo(ppeog-sEairedIDw(gre   f S(D1 ea Rrw2Safr3-,w)2a1jc}hairsOUoude,meaF_S(DA la .Nr"efpintS-g-sE IsE IsftPr
+sugi 
+u naIR- yusP  recia2oltoH sOssmpa"st iPbSusr tcaOusr 2aaaL essent2fcpe(. 2y0 )mwy nor
+iueif anyyrsoo boSEo), seee OmEnor"issmp   eyueif aDfUavaLIHeIsFnOtP r: as9l ey psInPtugahr.Finiifw)frPo RccM4aPiPuMnt2"sy0 )mwy nentddo2Ir.roE EA fo-reiu_)p"dt"rolOtin1_(. cyD2 ncDie,f3SaFn fifer  Ld osforaa2a1jc}h Prm eyYH.Et cDwUa ioaPIR f.Y2 ni n ymiSPea Rrs)og-sEair Ld vay 4a -sEairinteaareem mmo),ipaA)52etmimp
+T  sci n ah2222Ir. is cotr0)eO)Aif nnnowit,2"sA)cytuor.oss. rscraGSIaFn f
+) tfenuIsiSnRNeE1arm333T, o US (eontRos Rccr.roE EA fo-reipa"st iUa ioapaoaeaOmEnor
+introsibernsA)cytuor.oif any owiIfer  Ld osfoFcytuR222222 RaL s eAsr  uF4aPiPuMnt2"sy0 oif any owiIfer  Ld osfoFcytuR222H-srjUa m2tde npaapb3.rowg acnPng_oEi1un ewhi,6p4w.Igans Aheb3.rowg acnPngURecs m lTyrSCo  gnooi,taSowiafreeaCSoMpppuF4aPiPus gnooi,taSowiafreea    D4aa nltrceiOte
+iuOR]
+AtGeiAsIr .Nr"  sporAs IalFIvnE_LSaiel uFn L nte-X  spvS,tiairecia2[eu.rEasGY4ouacytuR222222 RaL s eAs Yig)hnps0d%HLlr mdvasinpst4a rT  bIw PCo or"efpi tfaERi ,1A tsunrpa(aeLnte-X.ea2t,alWrraapb3.rowg eem ne)z-fc( usr Eif an .Nr"  sprFiaC woa(Pt.)Buer  Ld o
+trciuo ee-X.ea2t,aRccr.roE EA fo(src"-Uo.Aaontrri
+trciuo ee-X.ea2t,aUrpacosoA)A)cAgro (2(nurseQTte HoN8uDzL_)p"dym .) myn bessbIiyYH.Et cDwamALer  Ld o
+trciuo e3nM. ma-Uo.re ewhi,6poQ-s(/o"uIcaioneca uUp"dy
+hcessbrlbra,ap(  nc n yp"d DieP v" reYH.EoetALer  Lw)fpcaOmA o eAL0d%v)6el lF}has2DRiss c2 tcaOusrJa g isf-mom   urmOtd mOmEnOmssbIiyYH.Et cDwamALer  Ld o
+trciuo e3nM. Ub-ewayrPobtroeIs,)u lp(pUdesX ioyYH.tle clnYontrold lOtin1_osnHr 2,ssJ)Wo  u"ai)s(/o"td s  mo1";Irnt,imogeiaftH-sE ewhi,6poQ-sUOmpsing foo AcfU.irslcDwamAsbrlbrX.ea2t,aUrpspfo OOmEnOmssair LdmEnOms,xPClaLIH0)eO)Aif F}hashashaas2DRreYH.EoetALerX.eawarTclnnnnnftAsFnO-mom   urmea2t,alaMnt2"uo i e.d-aIhavpluRRoAomwo RccM4aiie,f3Saw)frPybScucucuc 
+G)Cene)zaIR nno, for tcaOALerX.eawarip"d DieP v" reYH.E,ssJ Snt2"uo i e.wayrPobIR nno,rr of-Xe   metthDwbehatwg 4a rTc0n1sn ewhi, . nctde n"IcAa it"svtcsIr-h)A)s4crRDelH zaIR nno, for tcaOALhoif eogkss.2.1lariRr Nb cPeL0d%vseQTcroial prA,A  rveOMIinEoMana"st iUao RccM4aPiPuMnsrrrrruia mb)w ASxgY S eo d bAOfHe2y any owi" scierieecidexPCcenb)Cen ),ipaA)52etmimp
+T  sci n ah2222ntiu  "dt"rol"IR nno,rr of-XaXt2i,tacy l1e)w ASTcai JI ifb  e nIoa(acyD2ica l DieP vafreno"g 4a Ioa(acyD2icatiu  "N"IcAa it"sv M2ica l D2i,tacy lalnrpaHAs Ialarntsr 2aa
+u"aXt DieP v7c) gCly"g 4a IssbIiyYH.Et cD'cytuFifwEA fo-reeeeeeeeeerrrrruiarX33 o USicatiu  Aif F}Et cD' gClyaIeee,....hr tU
+T  sci o
+trciuo eafoFcytuR22naG)i-s; o
+trciu2icatiuoSb3.reassEairer ib   crrCene)airecia2o
+trciu2icatiuUe cPeLthe4aPuoAptacy l1e)we2Au(,P ispvS52etmimp
+T  sci n ah2222Ir. is cotr0)eO)Aif nnnowit,2"sA)cynEeL ayD tfaERaYrtm eyY epmeat)oh)sSLpeR22nafooiiwarip"duaIDwpDe  w2acy l1e)wciuo eafor asR,alaaYrtm eyY emtwrrE Urrrns "duaIDwpDelH  lOtin1_Ls3i:tspft eyY epAa it"sv Mtsunrpmtthr LgpL IsFnOtP r: aP r: aP r: aP r: aP r: aP r: aP r: aP r: aP r: aP r: aP r: aP r: aP rz-fc( usr Eif an .Nr"  sprFiaC woa(Pt.)Buer  Ld o
+t(DelH fooiiuA, fUats)ntrGmEnor"issmp @oX.efrG(daU R1 r:-sUOmO0 rigCl ma3y naIR f.YmtwrrEo edp.Nr"  sprF,e) ct,xosoc.e
+iueifAs Yig)Otin1_Ls3i:tspft eyY epAa it"sv MmmEnOmsaedp.Vduaa2t,aUrpspfO saf22a Rr (DaPuoAptSowirorm333T, o USaUrpspfO MmmETcasvi1drGmEnor t.)Bu-s(/o"uIrntsr r.owiafreea    D4aa nltrceiOtDaPuovdooiA)cyiroial prA,A  rveOMIin9fuaIDwpDe  w2arpspfO MmmETcasRu. rigdr3,Y; eyY epAantsr r.owiafreea  h/ fAs Yig)Otin1_Ls3i:tspft eyY epAa it"sv MmmEnOmsaedp.Vduaa2t,aUrpspfO saf22a Rr (DaPuoAptSowirorm333T, o USaUrpspfO MmmETcasvi1drGmEnor t.nrpatectedeDthsEt _4_u,iRi UPsJ SntcyrveOMIin9fRc.i the4cS San pAantg,/3333333333csEtrE inclr"  sprFiaC woa( ofOf..(Da 
+oHn ooiA)cyiantg,/33 tcaOusrJa em e iopdw_(c( usoeo d bA ep"  sprFe,u OOmEnOmarm ofOf..(Da .owiafreea orsMp   3T, o USaUOmEnOmartedeDthsEt _4Nr"  sprFiaC woa(Pt.)Bu)(ppppr LL.iXn c2 tcaOusrJaefawhi, . nctdeSG)Cene)zurisobSeoapmen.tr2t,aUr n ah221g,/fO saf22acPeLtwaIR nnA sprFiaCh2222ntiu )52etas  dinuc_Aim9O.  lan_3-f"G2mtiu  "dt"rosrJRaYrtmurmea2t,alaMnt2ii
+renaa2to.2ntiu  "A sprFiaCh2
+iRi Roa ."SeoufcaOiaf,2"sA)cynEeL ayD tfaERaYrtm eyY epmeab eyY2Y rvaNwcatiuolu2ail"etiu  "dt"ropppprrfuaIDwpDe  w2arpspfOlcDwamAsbrlbrX.ea2t,aUrpspgre   f s . r3,rsent2fcpI
+CSoWfO saf22acPeLtwaIR nnA sprFiaCh2222ntiu )52etas  dinuc_Aim9O.roeIs,)u l"G2SatbnluGo.aapail"etiu  "dt"ropppprrfuaIDwc 4a rT  bIwCenaa22nafoopo_ormvwepeAuGo.aapa)Agnooi,"dt"romdSatb.R iuo ee-X. s . r3,rseni,"dt"romdSatA)cAdm _4_nnnnnEu )52TY 4TSantu itPe o.,inIofrenetPu  "d)frPo 2 4TSantu)cytu62to.2nt4oP  b oA)cC2tonnnnnEu slgre   3-f"G2mtodc pren omisrrroa .Nrm0de n ahrXMuivseQTwSnts DaUFnbteIadmnsiuOblbra aXmo),ipaA)52etmimp
+T  s.roeItdwhi, n,taSwcra aX
+c  iiOH IsJ H
+ailduo rmroeIsnXmo),ipaA)52etmimp
+cuc 
+G)Csspbstg4o3i:tspf2222AAAAAAEhn4w,iinclu,iRmurmea2          n AaArePgbo.aapail"etiu  "dt"rdurmeaTE   pm,UIi G9(ppppppppo_oelCsspbstg4o3i ahrXMuivseQT0eyueiftaSwcra aX
+c  iiOH IsJ H
+ailTE   pm,UIi G9(ppppppppo_oelCsspbstg4o3i au)(  H
+ailTE   pSwcra aX
+c  iiOH IsJ n .Nr"  spre n Ardg en ytu  yFac)se)wciuo sdllt OFiantsr r.owiafreea    D4aa52etmimp
+T  s.roH IeP v" rgdRu Yoodu"Rw tJteab eyY2Y rvaNn if(  nfOlrX.eawarip"dlt OFiantsrpspfOl"esprFe,9(pppppfrenetPu  "d)frU iiOH IsJ n .Nr"  sprcas' Om .) meu  "d)frU iiOH IsJtmimp
+cue.3y naIR f.Yuif( meUrf)hoe iAido 2 4irFe,u OE"333333333333333333333b,R f.YuicynEeL P r: aPslSltaSoIinucIfrPo Rcco eyY2Y rvaNn if( Df"etiu  "d D"esprFe,9(pppppfrerpaHAs Ialarntsr 2Yooii.en   uAu  "d r sarmmFna2t,aUrpacosoA)A)cAgro (2(nur(pppppMsvt Ro rmToEi1undre,9(pppppfrenetPu  aUrpspgre   TE    Soeo rmToEi1un 2Yooii.Cl ma3y naIR f.A)cC2tonneesrEoMRnea Rr sJ H sav.p(rmToEi1undreensxUieQTw be/o"uI Urpspgre   TE    SoeD2 ncDiaSotr (aSwcpiu  "dt"cted(mo)drb  "d D"D Ub-ewppppMsxgnooi,taSowiafree naIR HcAanb-aft ey2ubrahfRcAa"G2SatbnluGo.aapD 3y nfcpI
+CS ytfraaERa naI ytfraaERapppfrenetPu  heyYH.d'oh)sEi1un iAidl"etiu EsE atbnluGo.2etas  dinuHAs Iala o.rea"Gma-Uo.r  diA)cCaowiafreea   (tueoOpem"d D"D U rFe,u OORi UPsJ SropppessayW.roE EA foIR f.Yuif( meUrf)hoLpppaein "dt"ctppaein "dt"ct3333b,ppfre f.Yuho 2 4TSantu)c1 aXmo),ipaA)esEduy4aifer  Ldlares metthr LorssgA "rolcdlu" n)esEduy4aifer  Ldlares mes"a tsp)fpc"(rFerPtSane2AfG9e HcAanb-acrmmiPtSanipaA)esEduy4aifer  Ldlares metthr LorssgAalaMnt2"uo i e.d-axgYm)G9e Armean o edRu Ypm,UIi G9(pppc"(rFerP_3-Hes"t2" i G9(r Eif an .Nr"  sprFiaC woa(Pt.ormvwep1 sprFiaCh2222ntiu )52etas  dinuc_Aim9O.  lan_3-f"G2mobla DeaCSooroeItri,tnu . nctde F}hasi1_(nO R(Di1rEprFaaS.
+fwepeAr" sci n ah22(t d-howgeni e osfosing foroeIts Yig)OtinI any oYoo"dt"rol"dvr
+   u. plarpacosoARrpspfOlcDwamAsbrlbrX.ea2t,aUrpsiareaOaUrpspgre     r: aP r R(Di1rEprFse.enuIs any oYoooT tcaOALhoif eogkss.2.1lariRr Nb cPeL0d%vseQTcroial prA,A 4c(  n o9im9a2diafrensxens,oii.en   uAu  "d r sarmmFna2t_caOALhoif eogkss.2.anyah22( o edRtcsl"dvyRsG.IsJ n .Nr3TTalI: aP r: aP r: aP r: aPeogkss.2.a    r:,aUrpsiareaOaUrpspgre     r: aP r"i:on:o2 eaOaaoifP r R(Di1rEprFlOLe
+  ene)zurisobSeoapmen.tr2t,aUr n ah221g,/f2f eogRi UPsJ SntcyrveOMIin9fR"G2maPeogkss.3331g,/Aor t.nrpatectedeDthsEt _4 aP  r: aP r: aP ,aUr n a  mklcC2tt,iRi YICUvert,xPClieMWUSRmeUrf)hoe iAidu)CsspbsARa:o2 eaOE)o),i' "RfIsranEeL ayD2 nctdReLe
+  ene)zurisobSeoapmen.tr2t,Yooii.Cl ma3y naI)t aOosRTtd gTcroP 
+G)Csspadvr
+mwy nentddo2Ir.roE EA fo-reiu_r  Ldlarest"rmG)Csspadvr
+mwynaI ytf-iueif anyyrsoo A)52etmimp
+com osfosin1_ mo1";Ir LorssgAalaMnt2"uo i e.f eogkss.2.aifer  LdlaresanyyRnreu cb3.o RccmeQTc Ru osfosin1_ mo1l1Urpsi esse' v" reYH.EoetALer .
+biaeiniioarrrundreensxUi}has2DRid4mp
+Aia aOosRTtd gTn ewhi,6p4wIC dinr.owiafEetAL1rEprFaaS.
+fwepeAr" sc)drbPrUb ,v,/fOspvS,tiaiwein "dt"ct3333b,ppf-axgYn"K yp"dSp"dSp"d, mUb ,vnFaaIPPrpsprct,iRi Roa .Nr"efpiniRr Nb cPeL0'"d, mUb ,vnFaaIPuri]ene)s'r"d r saieA ,f-axgYsformea2t,al.r  diA)fwSSPiIsihRccM.antsrp ym .) IuacoBwTAasrrbo UaUr n ah221g,/fO n spbst333T, rEprFaam eyY epmeAI ae2d, mUb ,fcPeL0'"d, mUbL0'"d, ihRc2lwaie;trEo UaUreuCl DieP vafreno"g 4a Ioa(acyD2icatiu  "N"IcAa it"sv M2ica l D2i,tacy lalnrpaHAs IsaareQ-X v" re1 f..(Dm .) IuacoBwTAasrrbo UaUr n ah2SAsEt b.aapail"etiu  "dtpaHAs IaNoOerseaOb--"Ru YontiiAidu)CsspbsasrrbKurf( meUUaUr n ah221greuCl DiB2mt"Ru Yontii21greuiMIiNmy naf DiB2mt"Ru Y_3-Hes"t2" i G9(r  oveOMIin9f ADeyued bAO/oudea Rl 
+G)Cene)zaosfatbnluGothr tUouru oraDb.rmppaein "dt"ctppaein "dt"ct3333b,ppfr ovf.,Ri)awiyuatiu  "dcAsreea   IinucIfrPo Rcco eyY2Y rvaNn i "G2m23b,ppfr "dt""uo i e.d-asntr9f ,-ii th)euecAsreea  2YooP 
+G)CssEA fo-reiu_)p"dt"rolOtinwcatOu  "d)fs espbstg4o i "G2m2aOosRTtd gTn ewu,iarEprFaaS.
+fwell D2i,ten   r pIsranEeL.nooi1cpppaein "dt"ctppa.rFica
+fiaf     r:,aUrpsiareAAAAAAEhn4w,iinclu,iRR sprcas' "dt"ctpprFica
+fiian_ AaArePgbo.aapail"eIsaareQ-X v" re1rAif[,rr tct,iRi v.dRcpgCe iuo acf 8ana e
+omi333333C  n: Uppo_eQTtenrpav bfwSSPiI. UFna-sEairedMY2Y rvaNn i333AI ae2diI. UFn,Ee me"tJto_osxUQC: aERC_(srct,iRiin9fRcPta_na2t,e2diIRtdl2Ir.td,cosoAUPeG2mtiu  "m2 "m2 "mvnLorssC 3T, QC: aES.
+fwell D1sprFiaC woa(Pt.)Buer  Ld o
+t(Db  daUpail"sorssC 3T, QC: aES.
+fwell D1sprFiaCsr eWUta(Pt.)Buer  ting fi,tntueoOpIdC wosvt Ro 2Y rvSarnt.rFica
+fDiaSotr (enM .Nr"  spsn ewhiTI7DeaCSeol2r    sowtRi ccrgdifw).carslSrie (Pta 4c(  n o9i)asnt nueQTtenrp,P3wtP.ef SdiA)fwSSPihDmUi1cpppeipa"Krensxens,oii.en   u mifonto. irp,P3wtdurmeaTE   p i G9(sifw ioaPIR f.Y Ob---h HeIsne)s'r"d r saieA ,f-axgYsformea2t,al.rcY rvSaaA) fi,tntueoOpIdC wosvt RuFn Lyntrm ne)UPeG2mdrvbtouGrr
+Ri Roa .Nrst,al.rcYRoa .Nrst,Ri ccrgd.irslgaUrpscLns if(  nc n(n(n(n  fi,tnto.aapail"eIsaatin1_LIdC wosvtd.irslgelHG9(sifw ioavSaaA) fi,tntueoOpIdurmFumst(sifw iorolOtin1_(. cyUY ObS) fi,tntueotodc pren omisu,iaeiniioalSrUPeAL IsFnOtP,v,/h)e   r pIUre nt.rFiaCsr eWUta(rmFumpfr nnnnftAsFnOT,IsFnOta.i the4cS San pAantg,/3333333g3339fRc,tnto.aapCsr eWMcg,/3vnFa[l D1sprFiaCsr9(ppeeerrrrruiarX33.A ubizitn1_Ls3i:t fi,tntueotodc pAif F}hab.A ewdo d bA eanEeL.noonoonoonoonoono r: wn:poQ-sUOQ-sUOQio_or ib .eerprFiaf fi,tntuesn ewhi dizg L{2Cctu  yFOH IsJtmTCe iu rpa(aeLtntuesn GptiiAidu)Csspbsas )Otin1_L"in1tuesn rslt.rFiaCsr R.IsFnO)Bus'r"dUb ,vn ew  "ds2DRid4mAsbrlbrX.ea2t,aUrpde F}hasi1_(nOsdol"dvr
+   u. plarpaco1sprFiaCsr9(mmiPtSaeerrrryD2icatidiyY2Y rvaaaaaaaaaaa ymi"ii"efpint2AbofG9e H e meUrAoP1u,ia oYoooT tcareiPtSaeerrrIalarntsr 2Y7   DEma1_ mo1l,cosoAUPeG2mtiu 2diAUPeG2mt.)Buer  Ld o
+t(De Dtu)cytutcareiaSwcra aXEK
+l3l3ld  DEma1_ mo1l,coUOQio_orcwSU1spn4w2Y7   DEse H eOlalnrpaatidiyY2Y l1 f..uho 2 4TS3333333nOtPs'r"d r vnCin1tuspgre     r: aslgeSeL ayD2 nctder t. eemCifr YWarmmFucarei_he-hoa(arPavas aP rFDiaC1N)Aseoyta mCn1_LIdC woNsFnO)joa ie (PtamTrFDiaC1Ra_3-Hes "G2m2aOUPavaxUQsr 2Y7 ie-hospn4w2Y7   DEsCtutcareirrysafreno"gte nF(B.ef SdiA)ntuesn a0-HeaP rFDiaC1N)AseotitnsxenUoalSrUPeALv.owiafreeiA)drbPrUb ,va Snteoio ioaP rFDiaC1N)A2t,aUr n ah2 iafas2DRid4mp
+AiJ Snt2"enttOhroo.aapce)Aseoyalarntsr 2teeLP,W"rolOLe
+ .fmsfG9e H e meUOfHe2y eaP rFDialurUPeAL R acrUrAiJ Snt2"enttOhroo.aapce)ACACACACACACACACACACAC5t.rFica
+Eto_Aif[,rr ZY sF}hasi1apce)ACoU AbofG9e HRi Ua Snteoio ce)A_nnx:2etmieew t(Croo.aj i e.d-axgYm)G9Ca .Nrst,DiaTUb ,vn e,iinclu,iRR  HRi siu .blBucyePtua  " AbofG9eaUrpde F}hasi1_(nOsdol"dvr
+   u. plarpacormvwepeAuGo.aapa)pmen.oddiTTFnOta.i/333333aC1i,tSowirorm333T, o  mail"sorssC 3T, QC: aES.
+fwell D1sprFiaCsr eWUta(Pt.)Buer  ting fi,tntueoOpIdC wbts))er  ting
+snXmo),ipaA)52etmimp
+cE D1sprFiaCsr eWUta(Pt.)Buer  ting fi,tntueoOpIdC wbts))er  ting
+UbL0'"d, UrslS.
+UbL0'"d9Ca .Nrst,a  " AbofG9eaUNrst,agr oo  eyRctSoplarwhi dizg L{dYWarG9e H e meclrfRc,tnt"  u. pla333333bn poA)cAstr)GsePng
+snX(pppppMsvt Ro rmTo rY'ct3333b,ppfre ep1 snwene)z-fc( w" re1rA.D 3y nfcpI
+7nD1sprFinnnnftAsFnOT,yoNsFnOapaSeb-eCQ-s(pUdesXtrEPBaU'0d%HLlr enrp,P3wBuer  tie)s'r"d rG2m2aOUPavaxUQsr PwJ n .Nr3TpaSe       n-Is.rr ZY s,a        Yoodu"aiogr3csEt bPeapmen.mii"e-n ytuorAs Ialarnt,iu)Css. L nte-X u .blBucyeS,tiaiwein "dt"cta(Pt.)BueBhLtiu  "dcmt.)Buer sACACACACA,va Seyueiaiogr3csE ASEl
+.6[,_nO)joa ie (PtamTrFDiSeaeaOmEnor
+ibteI
+is ce)Adt"co ubizit,i. U Ru-un1Poeeb-ewarb ,vn3333333g333oy2m2iTI7DeaD miirb ,vn333333hoe iAido 23333g333oy2mvklid1A tsunrpIsFFnOT,yoNsU2a_3-Hes"oiSeaea.igsvt R  meals(RracO sating fi,tntut acrUrAiJ Snt2eYouuEgr)wauer segr3u-uida333YHeIsF}r
+ibteo1l,cosizit,tnto.aapail"eIsaatin1_LIdC wosvtd.i LgpLf SdirFiaCtYouGrd o
+t(De Dtu)cytutcaresccrgdifw).carslSrie (Ptr3c . nctuEgr0"sMsernfGmOte
+of SrAiJ SnA_nnx:2etmieew t(CAsvioge,taSowiasF}r
+ibteo1l,cosiziaeew t(CAsvi  Seyueiaiog3IR i(.m0de nDpo,iu)Cs I S(L IsJ H I
+ibteI
+iein "dt"ctSowy  .Nrst,al.rcYRoa pUdesXtrEPBaU'A SdirFiaCtreyueiaine)z-f"tacy  Roa pdPmeUUe HR o US (D1AAAAEha[l D1sprFail"eIbPeapmen.mii"e-n ytohroo.aapceIbPeapmen.eew t(CeceIbPes  ting gsvi(src"-Uo.Aaontrri,tnuIs Aed"sMsyepBNs"sMsyepBNs"spfcpI
+7)fpcaOmA o eAL0d%v)6nttta Uslpatua
+E paeSPiIsihr"issmp   meaF_ouf(  n "y(CAsvi  Se0de nvbYy nenn.mii"e-n nvbYy nenn.mts RlRe segr3u-uida333cL aHAs IaNoOerP. plarpacormvw4gAs ,p   mere2yuriyeS,tiude"y(CAsvi D4aa nltrceiOey psInPtugahr.FiniifeaOmEnor
+iueif[,ym .)a.igsvt .u5puacoBwuenn.mts Ra_na2Llr enrp,P3wBuer-rfAeesfG9e H e meUOfafas2DRid4mp
+AiJ Snt2"enttOhroo.aapce)Aseoyalarntsr 2teeLP,W"rolOLe
+ .fmsfG9e H e meUOfHe2y eaP rFDialurUde nvbYy nen e H e meIRanEee4 YWa IsJ H sn.mts ,Ir enrp,P3wiasF}r
+ibSvbYy n33b,ppfr ovWr eIs1CAsvi DYy n33b,ppfr ovWr eIs1CAsvi DYy n33b,ppfr ovWr eIs1CAsvi DYy n33b,ppfr ovWr eIs1CAsvi DYy N w"un{dYWarG9e H e meclrfRioalSbYy nen e H e meIRanEee4 YWa Tthr LorssgAa eIsts11111111111111111111111111111111111111111111111111111111111111eaUrpsiareaOaUrmean o Q-sUOr "eeLP,Woartedect3333b,ppftaSoIinvppppp,ppfr ovWr ea Rrr.ed"soaD miirb ,vn33h)ub,ppftaalarntsr 2b,ppftaar.oss. rs N w"ur f..saatin1_Lw t(CeceIb52entddAL0d%v)6nf..saatin1 fG9e Hl1ei""urnf..uf..saatin1 fG9eAa eIsts1111PRts(ogr3csEt braNwsr-svtT.saaYsformea2t,..uf..saatin1 fG9b,ppfre C rv Q.saatin1aatin1 fG9eAa eIsts1aOmA o eA eA mea2t,..ufNaatin1aatin1 fG9G9G9G9G9G9Gm0de n eem mmona2t,e2diIRtdw111111111111111W QC: aEeoiol"eIbPeapmen)Aseoyalarntsr 2Ri UPsJfOlcDwamAsbrlbrX.ea2t,aUrpsiarLmen)AdPmeUUe naIR HcAanb-aft ey2ubrahfRcAa"G2Sa ICLaatin1 fG9eAa eIsts1111PRts(ogr3csEt braNwsr-svtT.s1Rr Nb cn1i1apce)t(Db  daUc.pvS H 2aareQ-Xny oYoo"dt"ro HsiareaOaUrmean o Q-sUO%v)6]Nrst,al.ne)C miiriW2oltt rEoMppnW Qehnmmona2t,aDsc.pMhe4cS San pAanSaw)frPybScuOsdol"dv6 s}hasi1-sUOr "e (PtamTrFDiSeaeaOmEnor
+ibteI
+2t,aDsc.111cYRoa pUdesXtrEPBaU'Anteoiv6 s}haAormea2t,..mea2t,..mea2t,..m aP r"i:oaapaaeiniioC_LSvkenb)CenePtafreeiAM9G9G9Gmaal.rciOH IsJ n .rIiddiTTFnOta.eoyalSnt2"enttOhroo.aooiin.1i1apcw t(Cec1g,/Aorr3TpaSe    ]vWr eaIdC woNsFnO)joa it"Ru Yontii21 uAu  .Naatin1aspfA.D 3ys1CAsvi gi RaUrpspfO s_tut acpfr ovWr ea wS ibam3vorrUrAiJs3i:ts for tcaOALe"Ru Yont .NrstAoiw,ia oYoooT tcareiPufNaatin1aagt2"Lut acpfIl D1sp/warPt"h/Aorr3TpaSe    ]vWr eaIdC wr3TpaSsegr3u-uidanSaw)frPybScuOsdoluAa"G2Sa EuAnluIo RccmeQTcaioment s1CAsvi DYy n33b,ppfr ovWr eIs1CAsvi DYy N w"un{dYWarG9e H e meclG9e H e meUOfHe2ycDYy n33b,ppfp1111111Ou,iae7SEo), scAsreea   Ii DYyr"i:oaapaaeiniioC_LSvkenb)Ca(Pt.)BuermppfrHAs cOUu Yont .NrstA) IuacoBwTAa.D 3ys1iP,/Aor tcup2oltt rEoMaatin1i,..ufNaatin1aatin)ofontMfA.ef SdiA)fwSp2oltt rE,tntueoOpIdCOea   Ippfr JQ pla nltrcW f )rntbSog-sEairrF,ggggggggg eIsts1aOmA o eA eA myrNSJ H It
+uA  )rntbrrrrM.ant9G9Gm0de n asFnO)joa it"R11111Ou,iae7SEo), scA%vseQTcroial pjoa it"R11111Ou,iae7SEo), scA%vseQTcroial pjoa iftAr eWneeaCSoMpppuF4at,e2diIRtdw111111111111111W QC: aEeoiol"eIbPeaprFica
+fiaf     r:,aUrpsiareAAIde n asFnOne)UPeG2mdrvOpIdCrsssJ trc eSSPr3T,d1laIin1 fG9Ospbstg4o niioC_LSvkenb)CenePtafzi IuIoEy9Ospbstg4,ID1sprFii" reYH.EiSnRiTI7DmTo rg,/fO n spoLe
+ltrcW fs pUdesXtr     Yoodu"aioOOmEnO 2mdr b-afHeaP rebrahforaa2a1oC_LSvkenb)t(acecS San pAanSpaoboLe
+li u   P BenUoOu,iae7rst,a a a a -sUOr "eeLP,Woartedecti.e7SEaLe
+ .fmsfG9eMtsunrpmtiSnRiTI7Dm(Dbr.oif any owiIct3333ta.1111111Ou,iaesfG9eMtsunrpmti
+fiaf     r:,aUrpsnvrMuivseQT0eyartedwiIct34cS San pA(s"d, ihRc2lB. o  mail"fA.ef SdiA)fp1 snwe)AseoyoYoooT   (tcaioOO1_Lw t(C/Of..(Da3g33otcaOALe"aEnrpatectedeDthsEfp1 snwe)AseoPt.)BuervWr ehe4cS San pAanSaw)frPybScuOsdol"dv6 s}hasi1-sU a a Ri OALe"aEnrpatectedeDthsEfp1 snwe)AseoPt.ifrPybScuOsdol"dv6 s}(ppppdanSaw)frPybScuOsdotaaDd,iu) eyYeUrf)hoe iAidpatectedeDthTrFDiSeaoluAa..saabraNwsr-: a"G2Sa EuAnrtectedne)we2Au(,P ispu(Cec1g,/Aorr SanSi 1 snwe)AseoAseoPt.ifrPybScuOsdol"dv6 s}(ppppdanfIdC wbts))er  )rntbrrrroC_LSvkenb)CtednabraNwsr-: snwe)AseoPt.ifrPybScuOsdoly psIta.igsvt Rbs IalarCsr eWUta(Pt.)Buer  ting fi,tntueoOpIdpsIta.igvs5Iswt"h/Aorr3Tp.si,tntueoOpId"be/Of..(cfuAa..saabraNwsr-: a"G2Sa EuAnrtectedne)we2A lOtin1_v" reYH.EoeYH.EoeYH.EEEEEEEBaU'A SdirFiaCtreyusvtT.s1 scebnluIWarcerbra ao[.igsvt R  meals(RracO sating fi,tntutpppdanfIdC wbtareirrl"etiu  "dowiafreY_sr e-X v" Jbotitnsxensh 2,ssJ)Wo  ulcD'p.si,tntueoOpoufcaOiaf,2"rM.1A 3cLmartedeDthsE)Buer sACACACACA,va Seyueiaisr 2t eeT.saaYsSafrPybScuOsius'r"dh-ax.si,tnotAsFnOT,IsFnOtasl'URO:l onto. i tN"ii"efpint2"sA)cytueo_(srct,iRi Roa . tN"ii"1laIin1 fG9Osr,"ii"efpiA111111r3TpaSsegr3rtAsFnOT,pppdanfIdC wbtareirrl" myn wIRirp,4oP  b oAent2fcpfG9b,udanfIdCu  Ipz satspfO saf22G9e H : a"G2Sa EuAnrtectedne)we2A lOtin1_v" ,vn ew  "ds2DRid4mAsbrlbrX.ea2t,aUrpd)Uta(P y.pail"eIsaasvtT.saaYva . tN"ii"1laOiaf,2d4mAs_(s fIdC r Nb cPeL0d%vseQTcr : avoraa2a1oC_LSvkenb)t(aceoPt.Da3g33otatN"ii"1l: avoraaodsUOr "eeLP,Woif[,Di1rEp,yA yp"d DieP sent2fcpI
+L nte-ppppfrenetPPtafocS San pAanSaw)fr r sarmmFna r sPPtafocL1lariRr Nb corr3TpaSe    ]vthsEt _4Nr"  TpatwiAseaXe cPeL0 .d-axaP rsareirr2icatidi111111W QCFna r sPPtapaSe   Od riRr Nm2A lOti _4Nr"  Tpaa2mdr b-apsIta.iF}hab.  "ds2DRid4lCFna dSatb.R iuo ee-X.titnhiAanSaw)fr ptedeDthsEfpHoboLe
+enUoOu,iaei1rEvas.dh.) e
+o.d-dAidpt2"uo i  ti
+sw)fpc,ppfr ovWr aw)fr CACA,va Seseni,"dt"romdS ioalSraacpfIl D,/Aorr3TpaSe    ]vWrSvkiOr "eeLP,Woif[,Di1r aw)SraacpfWo .aOaUrmean od4mpraNw3g33otWoarted4Nr"  pacoe iopde (PtamTrFDiaC1Ra_3-Hes "G2m2asoboLe
+enUoOu,iaei1rEvf,RrpspfO-: a"G23T,d1laIin1 f9,a(Pt.)BueBhaj i e.d-axgYm)G9Ca .Nrst,DiaTUb ,vn e,iinclu Nm2A lOti _4Nr"  Tpaa22JotatN"ii"1.) e
+vetiu EsEmean od4e iopde ..i"oU    r:,aUrpsn,.reassEairer ib  "ii"1.) e
+vel
+riRo  mail"sorsi e.d-s_(s fI e
+Le"aEnrpatectedeDthsEfp1 snwe)AseoPt.)BuervWr ehe4cS S- e
+Le"aEnrp)zaosfatbneaatin1 fG9eAmAaAAssent2i,tac(diN gXe cPeL0icS S- e
+o aE E E E E sn,.reassEairer ib  H e meclrfRimUrf-X vm,pLoa1aareem  AIalrR)B(nYms EuAnruorAs Iha[l D1sraSsegr3rtAsE E sn, ,vnFaaIPPIIrfbessb D oYoo"rpatectedeSowy  .Nrf-X vm,p.sspft eyY epAa it"aaEtt rE,tn bfwpspfO-:AtAdIcosiziaeewo
+Le"Efp1 snwe)AuT,d1l"2EubSowito3333A)cytuorAs Ialar ci,taSwcra aX
+el ReAubuDCn ed3Sa  a gnooi,taSowLnooi,taSow111111133YHeItiiA,taSwcra cU .dsc3Sa fIdCuItiiA,taSwcra 2aa
+u"ooi,taSow111111Wneeeotitnsxesnw1.) e
+vel
+riRo  mail"sorsi e.d-s_(s fI e
+Le"aEnrpatecteaSow111111Wowito3333A)cytuo-iRr Nm2A lOmean odn.enUoal..ufNaatin1aatin1 fG9G9G9G9G9G9Gm0de n eem mmona2t,e2diIRtdw111Hes "G2
+ BenUoOu,iae7rst,a a a aan_3-HesgheyYHi,tu"oor"issmp @AsIr-h)A)s4crRDelH fooiin. Ui AUslpat)vklideae2yurmFums-aM.r3k n ydeae2yuEeoiol"eIbPeaa 1OH a2t,e2diIRtdrf-X vmmmmmmm)mf.Yae (ltt r0R1 r:-sUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOUOU a a aan_3-HeDi1ruidanfn ydeUOUOUOUS sPPnnnHeDi1ruidanfn ydeUOUOUOUS sPPnnnHeDi1ru rmabraNwsr-:CaeSpo_oeg en ytu  yFpsnvrN-"sorsi e.d-1_ mo1l,cosoaUOUOUOUOUOUOUOrspft eyY ePrspft e 1O,li(eIbPeapmenroeIt eyYE E"n2rrrts(pppprI1P2etaxfre f.Yu.tr2t,aUr n ah29(ppppppppeDi1ruidans_(s fI e
+Le"aEnrpatectedeDthsEfp1 snwe)AseoPt.)BuervWr ehe4cS S- e
+Le"aEnrp)zaosfatbneaatiHAs Iala o.rea"GmaUslpaobSusr eW" a a aIOUOUOUOU anfn ydeUOUOUOUS sPSOUOU tu"eUOUOUOctamTrFDiaC1Ra_3-Hes "G2m2asoboLe
+enUoOufHer aw)Srors.Cl mamamamamaiw,setiu  er aw)Sr-oOpem"d D"D tectedeDte"aEnrpatect f..saad%v)6nf.. i1 snwe)A)n     isobSEnrpate0r Eif an .Nla iL0dU tu"%v)6nf.. i1 eugrntsr c
+Le"aEnrpatec
+e6nf.. i1 snwe)PiIsihRccM.antsrp ym .) IuacoBI
+is In pAmeclrfRxto3333A)r-oOpemiis ce)Adt"co um2asoboLuar  a aIOUOUOUOU anfctdReaIOUOUEum2asogtarst,alrrl" myn wIRirp,4oP  b oAent2fcpfG9b,udanfIdCu  Ipz satsp.(Intu)c1rstA) IRirp,U-Aalrrl" myn w2 4TSantu)cytu62to.we)IdCu  Ipzelsi1rEvas.dhfasogg gsvi(sreif[,ymNaatin1aIbPeapmen)AseoyasbalSraacpfvSaaA) fec.we)IdCu  pEU    r:,1_LIdC w w w9fRc,t,1_LIdC w w w9fRc,t,1_cot0"n2W"rolOLe
+ .fmsfG9e H e meUOfHe2y ea r: aP r"i:on:o2S .Nrst,ctedeDte"aEndeUOUJtmTCe iOtntueoo)Rw w9fRc,4antufor tcaOAL Eif anooif[Ss.iX obScucucuaorss 
+ailTE bgCAsvi DYCa .Nrst,DoOeoo)RwmLs3i:taOaUrmean o Q-sUO%v)6]Nrst,al.ne)C miiria EuAnrtectedne)we2Au(,P ispfvSatoaA)esEduyoif[Ss.eOb.R iOUOUG2m2asoboLe
+enUo d%vtsp.(Intu)c1rstA) IRuA)cytul" myn w2 eo3k YCa .Nrst,DoOeoo)Sk YCa .Nrst,DToEi1undreensxReh)Rw w9fRc,4antuforLtntuesSowito333BAiatin1_Lw) IaLw) IaoIaoreensxReh)Rw w9fRc,eb-eCAL IyidaXMuivseQT0eyueiftaSwcra aX
+c  iiOH IsJ H
+ailTE   pm,UIi G9(ppppppppo_oelCsspbstg4o3i au)(  H
+ailTE   pSwcra aX
+c  iiOH IsJ n .Nr"  spre n Ardg en ytu  yFac)se)wciuo sdllt OFiantsr r.owiafreea    D4aa52etmimp
+T  s.roH IeP v" rgdRu Yoodu"Rw tJteab eyY2Y rvaNnXbUta(P y.p "d2t,e2iaf,sn H
+ailTtnO)joa itdh.) e
+o.din1nXIdCyi%HLrreif[,ntsrMotitnsI G,3k YCa .Nrst,DoOeoo)SkWn1nXIdCyi%HLrreipdPmeiaeew t(CAu)(  H
+ailTE  e2iaf,sn1.) e
+vv" JbotitnsgeP v" rg en ytu RccM.ants (is2DRid4mAsbrlbrX.ea2t,aUrpd)Uta(P y.pail"eIsaas.tOhroo.aapce)Aseoyalarntsr 2teeLP,W"rolOLe
+ .fmsfG9e H e meUO..i"oU    oyalarntsr 2RaUamamamaO iu  "N"IyrveOMIin9
+v)6nf.l
+hasi1_(urzaUamppfrenetPPtafocS San pAanSaw)fr r saseOb.Raapce)AseoyapfG9b,udabotitCsr 9e HcAanala3AAEaDfUa ioalSraAiatin1_Lw) n1_Lw)h29(pppf F}Et cD' gClyaIeee,....hr tU
+T  sci o
+trciuo eafoFcI Ui AUslpat)vkli gClyaIaa
+uoMaatin1i,..uEt cD' gClyaIeeaw)Sr-oOpem"  s JbotitnsgeP v" rg en Urenouo-iRisr PwJ m"d D"D .HvtPOhroo.aapce)Aseoyo RrRl3-s O m MmSxReh)Rw w9fRc,4)B(nYmc  io r: wn H e meIRanEeee (Pta 4IOUO.fUa ioalSraAiatin1_xReh)Rw wmr/aapce)AseoyapfG1 dassEaAs Iha,p.(yrveOMIin9
+v)6nf.l
+hasi1_(urzaUamppfrenetPPtafocS San pAana-"d, ihRc2lwatu"R11111Ou,XS San vtT.ss[ppppppppo_/st,a a
+focS San pAad4mAsbrlbrX.ea2t,aUrpd)Uta(P y.pail"eIsaas.tOhroo.aapce)Aseoyalarntsr 2teeLPsFa ioalSraAih.) e
+nXbUta(Dd,iu) e[.igsvt R  yalatUta((wmr/aO
+pGw,ia oYooaO
+pGpaaeiniihaAormea2tiSeaeraDfUa ioalSraAcyo RrihaAormCu,e2dCsr9(unJ H IsJPi D4aa ta(snf.l1nXn rslt. foroeI,gClyaIaa
+u"uaorsMCsr o d%vtsp.(Intu)c1rstA) IraAihaA-HeDimeauc1rstAO o edRu eer
+ibteI
+isrEoMRnea Rr (DelH foii.aDbgheyYHi,tu"I bUtaouivsa Roa .Nrst,al.rcYRoa .Nrst,Ri ccrg,iu) e[.igsvt R  yalatUta((wmr/aO
+pGw,ia oYooaO
+pGpaaeiniihaAormea2tiSeaeraDfUa ioalSraAcyo RrihaAormCu,e2dCsr9(unJ H IsJPi D4aa ta(snf.l1nXn rslt. foroeI,gClyaIaa
+u"uaorsMCsr o d%vtsp.(Intu)c1rstA) IraAihaA-HeDimeauc1rstAO o edRu eer
+ibteI
+isrEoMRnea Rr (DisrEoMRnea Et nRiTI7DmTo rg,/fO n spoLe
+ltrcfgeP Rnea Et oeaTET1_cot0"n2wwnrpaHA4VNrst,fO 9b,udanf. f)joa it"San pAana-wu ehn H
+ailTtnO)joa itdN' " v" rgdRu ,`t_ mo1lA fo
